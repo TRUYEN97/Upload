@@ -4,12 +4,14 @@
  */
 package com.tec02.view;
 
+import com.tec02.common.JsonBodyAPI;
 import com.tec02.common.Keyword;
 import com.tec02.core.APIController;
 import com.tec02.gui.frameGui.ChangeLine;
 import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.frameGui.ManageEntityHaveLocation;
 import com.tec02.model.PropertiesModel;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -34,11 +36,21 @@ public class PcManager {
                 PropertiesModel.getConfig(Keyword.Url.Line.GET),
                 this.entityHaveLocation.getTableModel());
         this.changeLine.setPutUrl(PropertiesModel.getConfig(Keyword.Url.Pc.PUT));
-        PopupMenu menu = this.entityHaveLocation.getMenu();
-        menu.addItemMenu("Change Line", (e) -> {
+        PopupMenu popupMenu = this.entityHaveLocation.getMenu();
+        popupMenu.addItemMenu("New PC", (e) -> {
+            String input = JOptionPane.showInputDialog("input");
+            if (input == null) {
+                return;
+            }
+            this.entityHaveLocation.addNew(JsonBodyAPI.builder().put("name", input));
+        });
+        popupMenu.addItemMenu("Delete", (e) -> {
+            this.entityHaveLocation.deleteSeleled();
+        });
+        popupMenu.addItemMenu("Change Line", (e) -> {
             this.changeLine.display("Chang Line");
         });
-        this.entityHaveLocation.setMenu(menu);
+        this.entityHaveLocation.setMenu(popupMenu);
     }
 
     public void display() {

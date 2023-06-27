@@ -274,7 +274,7 @@ public class Gui extends javax.swing.JFrame {
 
     private void btSearchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btSearchActionPerformed
         // TODO add your handling code here:
-
+        
     }//GEN-LAST:event_btSearchActionPerformed
 
     private void mniManagePCActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mniManagePCActionPerformed

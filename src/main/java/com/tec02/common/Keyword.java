@@ -50,6 +50,7 @@ public final class Keyword {
         
         public static final class Fgroup {
             public static final String GET = "api.url.fgroup.get";
+            public static final String GET_LIST = "api.url.fgroup.getlist";
             public static final String POST = "api.url.fgroup.post";
             public static final String DELETE = "api.url.fgroup.delete";
             public static final String PUT = "api.url.fgroup.put";

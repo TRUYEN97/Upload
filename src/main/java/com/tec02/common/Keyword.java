@@ -55,5 +55,14 @@ public final class Keyword {
             public static final String DELETE = "api.url.fgroup.delete";
             public static final String PUT = "api.url.fgroup.put";
         }
+        
+        public static final class File {
+            public static final String GET = "api.url.file.get";
+            public static final String GET_LAST_VERSION_DOWNLOAD = "api.url.file.getversiondownload";
+            public static final String GET_VERSION = "api.url.file.getversion";
+            public static final String POST = "api.url.file.post";
+            public static final String DELETE = "api.url.file.delete";
+            public static final String PUT = "api.url.file.put";
+        }
     }
 }

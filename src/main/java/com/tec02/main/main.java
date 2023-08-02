@@ -5,8 +5,7 @@
 package com.tec02.main;
 
 import com.tec02.core.APIController;
-import com.tec02.model.PropertiesModel;
-import com.tec02.model.modelManager;
+import com.tec02.gui.model.PropertiesModel;
 import com.tec02.view.Gui;
 import javax.swing.JOptionPane;
 
@@ -24,8 +23,6 @@ public class main {
             }
             PropertiesModel.getInstance();
             APIController.getInstance().setJwtToken(jwt);
-            modelManager.getInstance().getUserModel()
-                    .setJwtUtil(APIController.getInstance().getJwtUtil());
             Gui gui = new Gui();
             gui.display();
         } catch (Exception e) {

@@ -10,7 +10,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>com.tec02.upload.Upload</exec.mainClass>
+        <exec.mainClass>com.tec02.main.main</exec.mainClass>
     </properties>
     
     <dependencies>
@@ -29,6 +29,20 @@
                 <version>3.2.0</version>
                 <configuration>
                     <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.2.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>lib/</classpathPrefix>
+                            <mainClass>${exec.mainClass}</mainClass>
+                        </manifest>
+                    </archive>
                 </configuration>
             </plugin>
         </plugins>

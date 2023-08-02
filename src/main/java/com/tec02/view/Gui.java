@@ -7,11 +7,8 @@ package com.tec02.view;
 import com.tec02.common.Keyword;
 import com.tec02.core.APIController;
 import com.tec02.gui.frameGui.ConfigGui;
-import com.tec02.gui.panelGui.LocationFilter;
-import com.tec02.gui.panelGui.UserInfo;
-import com.tec02.model.PropertiesModel;
-import com.tec02.model.UserModel;
-import com.tec02.model.modelManager;
+import com.tec02.gui.panelGui.AppStore;
+import com.tec02.gui.model.PropertiesModel;
 import java.io.IOException;
 
 /**
@@ -20,13 +17,13 @@ import java.io.IOException;
  */
 public class Gui extends javax.swing.JFrame {
 
-    private final LocationFilter locationFilter;
-    private final PcManager pcManager;
-    private final UserInfo userInfo;
-    private final UserModel userModel;
+    private final ManagePc managePc;
+    private final AppStore appStore;
     private final APIController api;
     private final ConfigGui configGui;
-    private final FgroupManager fgroupManager;
+    private final ManageFgroup manageFgroup;
+    private final ManageFileProgram manageFileProgram;
+    private final ManageProgram manageProgram;
 
     /**
      * Creates new form Gui
@@ -47,20 +44,13 @@ public class Gui extends javax.swing.JFrame {
         initComponents();
         this.api = APIController.getInstance();
         this.configGui = new ConfigGui(api);
-        this.api.setComponent(rootPane);
-        this.userModel = modelManager.getInstance().getUserModel();
-        this.userInfo = new UserInfo(userModel, this.api, PropertiesModel.getConfig(Keyword.Url.LOGIN));
-        this.pnUser.add(this.userInfo);
-        this.pcManager = new PcManager();
-        this.fgroupManager = new FgroupManager();
-        this.locationFilter = new LocationFilter(api,
-                PropertiesModel.getConfig(Keyword.Url.Product.GET),
-                PropertiesModel.getConfig(Keyword.Url.Station.GET),
-                PropertiesModel.getConfig(Keyword.Url.Line.GET));
-        this.locationFilter.refresh();
-        this.pnFilter.add(this.locationFilter);
-        this.locationFilter.update();
-        this.userInfo.update();
+        this.managePc = new ManagePc();
+        this.manageFgroup = new ManageFgroup();
+        this.manageFileProgram = new ManageFileProgram();
+        this.manageProgram = new ManageProgram();
+        this.appStore = new AppStore(api);
+        this.pnStore.add(this.appStore);
+        this.appStore.update();
     }
 
     /**
@@ -72,98 +62,21 @@ public class Gui extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jPanel1 = new javax.swing.JPanel();
-        pnFilter = new javax.swing.JPanel();
-        cbbOption = new javax.swing.JComboBox<>();
-        jLabel1 = new javax.swing.JLabel();
-        pnUser = new javax.swing.JPanel();
-        btSearch = new javax.swing.JButton();
-        jScrollPane1 = new javax.swing.JScrollPane();
-        tbShow = new javax.swing.JTable();
+        pnStore = new javax.swing.JPanel();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         mniProduct = new javax.swing.JMenuItem();
         mniStation = new javax.swing.JMenuItem();
         mniLine = new javax.swing.JMenuItem();
         mniManagePC = new javax.swing.JMenuItem();
+        mnItemFileProgram = new javax.swing.JMenuItem();
         mnItemFileGroup = new javax.swing.JMenuItem();
+        mnManageProgram = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Upload");
 
-        jPanel1.setBackground(new java.awt.Color(204, 204, 255));
-
-        pnFilter.setBackground(new java.awt.Color(204, 204, 255));
-        pnFilter.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
-        pnFilter.setLayout(new javax.swing.BoxLayout(pnFilter, javax.swing.BoxLayout.LINE_AXIS));
-
-        cbbOption.addItemListener(new java.awt.event.ItemListener() {
-            public void itemStateChanged(java.awt.event.ItemEvent evt) {
-                cbbOptionItemStateChanged(evt);
-            }
-        });
-
-        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("Option");
-
-        pnUser.setBackground(new java.awt.Color(153, 204, 255));
-        pnUser.setLayout(new javax.swing.BoxLayout(pnUser, javax.swing.BoxLayout.LINE_AXIS));
-
-        btSearch.setText("Search");
-        btSearch.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                btSearchActionPerformed(evt);
-            }
-        });
-
-        javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
-        jPanel1.setLayout(jPanel1Layout);
-        jPanel1Layout.setHorizontalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
-                .addContainerGap()
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(pnFilter, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addComponent(cbbOption, javax.swing.GroupLayout.Alignment.TRAILING, 0, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addComponent(pnUser, javax.swing.GroupLayout.PREFERRED_SIZE, 189, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 0, Short.MAX_VALUE))
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addGap(0, 0, Short.MAX_VALUE)
-                        .addComponent(btSearch)
-                        .addGap(0, 0, Short.MAX_VALUE)))
-                .addContainerGap())
-        );
-        jPanel1Layout.setVerticalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(pnUser, javax.swing.GroupLayout.PREFERRED_SIZE, 115, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel1)
-                .addGap(2, 2, 2)
-                .addComponent(cbbOption, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(pnFilter, javax.swing.GroupLayout.PREFERRED_SIZE, 161, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(18, 18, 18)
-                .addComponent(btSearch)
-                .addContainerGap(14, Short.MAX_VALUE))
-        );
-
-        jScrollPane1.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jScrollPane1MouseClicked(evt);
-            }
-        });
-
-        tbShow.setModel(new javax.swing.table.DefaultTableModel(
-            new Object [][] {
-            },
-            new String [] {
-            }
-        ));
-        jScrollPane1.setViewportView(tbShow);
+        pnStore.setLayout(new javax.swing.BoxLayout(pnStore, javax.swing.BoxLayout.LINE_AXIS));
 
         jMenu1.setText("File");
 
@@ -199,6 +112,14 @@ public class Gui extends javax.swing.JFrame {
         });
         jMenu1.add(mniManagePC);
 
+        mnItemFileProgram.setText("Manage file-program");
+        mnItemFileProgram.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                mnItemFileProgramActionPerformed(evt);
+            }
+        });
+        jMenu1.add(mnItemFileProgram);
+
         mnItemFileGroup.setText("Manage File-Group");
         mnItemFileGroup.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -206,6 +127,14 @@ public class Gui extends javax.swing.JFrame {
             }
         });
         jMenu1.add(mnItemFileGroup);
+
+        mnManageProgram.setText("Manage program");
+        mnManageProgram.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                mnManageProgramActionPerformed(evt);
+            }
+        });
+        jMenu1.add(mnManageProgram);
 
         jMenuBar1.add(jMenu1);
 
@@ -217,29 +146,20 @@ public class Gui extends javax.swing.JFrame {
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 542, Short.MAX_VALUE)
+                .addComponent(pnStore, javax.swing.GroupLayout.DEFAULT_SIZE, 756, Short.MAX_VALUE)
                 .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
-                    .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addComponent(pnStore, javax.swing.GroupLayout.DEFAULT_SIZE, 359, Short.MAX_VALUE)
                 .addContainerGap())
         );
 
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
-
-    private void cbbOptionItemStateChanged(java.awt.event.ItemEvent evt) {//GEN-FIRST:event_cbbOptionItemStateChanged
-        // TODO add your handling code here:
-
-    }//GEN-LAST:event_cbbOptionItemStateChanged
 
     private void mniProductActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mniProductActionPerformed
         // TODO add your handling code here:
@@ -272,42 +192,38 @@ public class Gui extends javax.swing.JFrame {
         this.configGui.getList();
     }//GEN-LAST:event_mniLineActionPerformed
 
-    private void btSearchActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btSearchActionPerformed
-        // TODO add your handling code here:
-        
-    }//GEN-LAST:event_btSearchActionPerformed
-
     private void mniManagePCActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mniManagePCActionPerformed
         // TODO add your handling code here:
-        this.pcManager.display();
+        this.managePc.display();
     }//GEN-LAST:event_mniManagePCActionPerformed
 
     private void mnItemFileGroupActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnItemFileGroupActionPerformed
         // TODO add your handling code here:
-        this.fgroupManager.display();
+        this.manageFgroup.display();
     }//GEN-LAST:event_mnItemFileGroupActionPerformed
 
-    private void jScrollPane1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jScrollPane1MouseClicked
+    private void mnManageProgramActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnManageProgramActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jScrollPane1MouseClicked
+        this.manageProgram.display();
+    }//GEN-LAST:event_mnManageProgramActionPerformed
+
+    private void mnItemFileProgramActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mnItemFileProgramActionPerformed
+        // TODO add your handling code here:
+        this.manageFileProgram.display();
+    }//GEN-LAST:event_mnItemFileProgramActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JButton btSearch;
-    private javax.swing.JComboBox<String> cbbOption;
-    private javax.swing.JLabel jLabel1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenuBar jMenuBar1;
-    private javax.swing.JPanel jPanel1;
-    private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JMenuItem mnItemFileGroup;
+    private javax.swing.JMenuItem mnItemFileProgram;
+    private javax.swing.JMenuItem mnManageProgram;
     private javax.swing.JMenuItem mniLine;
     private javax.swing.JMenuItem mniManagePC;
     private javax.swing.JMenuItem mniProduct;
     private javax.swing.JMenuItem mniStation;
-    private javax.swing.JPanel pnFilter;
-    private javax.swing.JPanel pnUser;
-    private javax.swing.JTable tbShow;
+    private javax.swing.JPanel pnStore;
     // End of variables declaration//GEN-END:variables
 
     public void display() {

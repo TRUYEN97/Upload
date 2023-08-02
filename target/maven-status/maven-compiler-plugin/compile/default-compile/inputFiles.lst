@@ -1,7 +1,7 @@
-D:\Server\Upload\src\main\java\com\tec02\common\Keyword.java
-D:\Server\Upload\src\main\java\com\tec02\view\FgroupManager.java
-D:\Server\Upload\src\main\java\com\tec02\view\PcManager.java
+D:\Server\Upload\src\main\java\com\tec02\view\ManagePc.java
 D:\Server\Upload\src\main\java\com\tec02\core\APIController.java
 D:\Server\Upload\src\main\java\com\tec02\view\Gui.java
-D:\Server\Upload\src\main\java\com\tec02\model\modelManager.java
+D:\Server\Upload\src\main\java\com\tec02\view\ManageProgram.java
+D:\Server\Upload\src\main\java\com\tec02\view\ManageFileProgram.java
 D:\Server\Upload\src\main\java\com\tec02\main\main.java
+D:\Server\Upload\src\main\java\com\tec02\view\ManageFgroup.java

@@ -12,7 +12,7 @@ import com.tec02.gui.frameGui.AbsDisplayAble;
 import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.FileUpdatePanel;
 import com.tec02.gui.panelGui.TableAndLocation;
-import com.tec02.gui.model.PropertiesModel;
+import com.tec02.common.PropertiesModel;
 
 /**
  *

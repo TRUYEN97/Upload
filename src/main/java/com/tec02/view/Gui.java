@@ -8,7 +8,7 @@ import com.tec02.common.Keyword;
 import com.tec02.core.APIController;
 import com.tec02.gui.frameGui.ConfigGui;
 import com.tec02.gui.panelGui.AppStore;
-import com.tec02.gui.model.PropertiesModel;
+import com.tec02.common.PropertiesModel;
 import java.io.IOException;
 
 /**
@@ -30,7 +30,7 @@ public class Gui extends javax.swing.JFrame {
      *
      * @throws java.io.IOException
      */
-    public Gui() throws IOException {
+    public Gui() throws Exception {
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {

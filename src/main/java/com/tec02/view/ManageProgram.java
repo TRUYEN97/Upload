@@ -15,7 +15,7 @@ import com.tec02.gui.frameGui.Component.MyTable;
 import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.FileUpdatePanel;
 import com.tec02.gui.panelGui.TableAndLocation;
-import com.tec02.gui.model.PropertiesModel;
+import com.tec02.common.PropertiesModel;
 import com.tec02.gui.panelGui.ProgramEditPanel;
 import java.awt.HeadlessException;
 import java.util.ArrayList;
@@ -70,14 +70,16 @@ public class ManageProgram extends AbsDisplayAble {
             viewProgram();
         });
         selectedMenu.addItemMenu("edit", (e) -> {
-            Object id = this.tableAndLocation.getTableSelectedValue("id");
+            Object id = this.tableAndLocation.getTableSelectedValue(Keyword.ID);
             ProgramEditPanel editPanel = new ProgramEditPanel();
-            editPanel.setEnable(this.tableAndLocation.getTableSelectedValueT("enable"));
-            editPanel.setAwaysUpdate(this.tableAndLocation.getTableSelectedValueT("awaysUpdate"));
-            editPanel.setPassword(this.tableAndLocation.getTableSelectedValueT("password"));
-            editPanel.setCommand(this.tableAndLocation.getTableSelectedValueT("command"));
-            editPanel.setDescription(this.tableAndLocation.getTableSelectedValueT("description"));
-            JOptionUtil.showObject(editPanel, this.tableAndLocation.getTableSelectedValueT("name"));
+            editPanel.setEnable(this.tableAndLocation.getTableSelectedValueT(Keyword.ENABLE));
+            editPanel.setAwaysUpdate(this.tableAndLocation.getTableSelectedValueT(Keyword.AWAYS_UPDATE));
+            editPanel.setPassword(this.tableAndLocation.getTableSelectedValueT(Keyword.PASSWORD));
+            editPanel.setDescription(this.tableAndLocation.getTableSelectedValueT(Keyword.DESCRIPTION));
+            editPanel.setFileProgramVersion(this.restUtil.getList(PropertiesModel
+                    .getConfig(Keyword.Url.Program.GET_FILE_PROGRAM_VSERSION),
+                            RequestParam.builder().addParam("id", id)));
+            JOptionUtil.showObject(editPanel, this.tableAndLocation.getTableSelectedValueT(Keyword.NAME));
             if (editPanel.hasChange()) {
                 this.restUtil.update(PropertiesModel.getConfig(Keyword.Url.Program.PUT),
                         RequestParam.builder().addParam(Keyword.ID, id),
@@ -85,15 +87,14 @@ public class ManageProgram extends AbsDisplayAble {
                                 .put(Keyword.ID, id)
                                 .put(Keyword.ENABLE, editPanel.getEnable())
                                 .put(Keyword.AWAYS_UPDATE, editPanel.getAwaysUpdate())
-                                .put(Keyword.PASSWORD, editPanel.getPassword())
-                                .put(Keyword.COMMAND, editPanel.getCommand()));
+                                .put(Keyword.PASSWORD, editPanel.getPassword()));
                 this.tableAndLocation.find();
             }
         });
         selectedMenu.addItemMenu("Add file-program", (e) -> {
             Object id = this.tableAndLocation.getTableSelectedValue("id");
             var fileGroups = JOptionUtil.getTableSelectedItem("select file-program",
-                    this.restUtil.getList(PropertiesModel.getConfig(Keyword.Url.FileProgram.GET_PROGRAM_LOCATION),
+                    this.restUtil.getList(PropertiesModel.getConfig(Keyword.Url.Program.GET_PROGRAMS),
                             RequestParam.builder().addParam("id", id)));
             if (fileGroups == null || fileGroups.isEmpty()) {
                 return;
@@ -107,7 +108,7 @@ public class ManageProgram extends AbsDisplayAble {
         selectedMenu.addItemMenu("Add file-group", (e) -> {
             Object id = this.tableAndLocation.getTableSelectedValue("id");
             var fileGroups = JOptionUtil.getTableSelectedItems("select file-group",
-                    this.restUtil.getList(PropertiesModel.getConfig(Keyword.Url.Fgroup.GET_PROGRAM_LOCATION),
+                    this.restUtil.getList(PropertiesModel.getConfig(Keyword.Url.Program.GET_FGROUPS),
                             RequestParam.builder().addParam("id", id)));
             if (fileGroups == null || fileGroups.isEmpty()) {
                 return;
@@ -124,7 +125,7 @@ public class ManageProgram extends AbsDisplayAble {
         selectedMenu.addItemMenu("remove file-group", (e) -> {
             Object id = this.tableAndLocation.getTableSelectedValue("id");
             var fileGroups = JOptionUtil.getTableSelectedItems("remove file-group",
-                    this.restUtil.getList(PropertiesModel.getConfig(Keyword.Url.Fgroup.GET_PROGRAM_ID),
+                    this.restUtil.getList(PropertiesModel.getConfig(Keyword.Url.Program.GET_FGROUP),
                             RequestParam.builder().addParam("id", id)));
             if (fileGroups == null || fileGroups.isEmpty()) {
                 return;
@@ -160,10 +161,10 @@ public class ManageProgram extends AbsDisplayAble {
         this.fGroupTable.clear();
         this.pcTable.clear();
         this.pcTable.setDatas(this.restUtil.getList(
-                PropertiesModel.getConfig(Keyword.Url.Pc.GET_PROGRAM_ID),
+                PropertiesModel.getConfig(Keyword.Url.Program.GET_PCS),
                 RequestParam.builder().addParam("id", programId)));
         this.fGroupTable.setDatas(this.restUtil.getList(
-                PropertiesModel.getConfig(Keyword.Url.Fgroup.GET_PROGRAM_ID),
+                PropertiesModel.getConfig(Keyword.Url.Program.GET_FGROUP),
                 RequestParam.builder().addParam("id", programId)));
     }
 

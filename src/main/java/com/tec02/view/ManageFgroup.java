@@ -5,7 +5,7 @@
 package com.tec02.view;
 
 import com.tec02.common.JOptionUtil;
-import com.tec02.common.JsonBodyAPI;
+import com.tec02.common.API.JsonBodyAPI;
 import com.tec02.common.Keyword;
 import com.tec02.core.APIController;
 import com.tec02.gui.frameGui.AbsDisplayAble;

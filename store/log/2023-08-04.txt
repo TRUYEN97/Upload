@@ -1,0 +1,1255 @@
+2023-08-04 02:52:44.878:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 02:52:44.979:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 02:52:45.019:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 02:52:45.058:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 02:52:45.136:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 02:52:45.182:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 02:52:45.227:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 02:52:45.264:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 02:52:45.307:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 02:52:45.348:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 02:52:45.458:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 02:52:45.509:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 02:52:45.534:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 02:52:45.634:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 02:52:45.688:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 02:52:45.712:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 02:52:45.743:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 02:52:45.823:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 02:52:45.847:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 02:52:45.885:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 02:52:45.903:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 02:52:45.924:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 02:52:45.961:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 02:52:45.987:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 02:52:46.079:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 02:52:46.109:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 02:52:46.179:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 02:52:46.217:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 02:52:46.329:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 02:52:46.371:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 02:52:46.419:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 02:52:46.477:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 02:52:46.556:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 02:52:46.666:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 02:52:46.686:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 02:52:46.718:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 02:52:46.750:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 02:52:46.799:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 02:52:46.911:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 02:52:47.006:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 02:52:47.036:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 02:52:47.060:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 02:52:47.138:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 02:52:47.255:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 02:52:47.272:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 02:52:47.294:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 02:52:47.311:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 02:52:47.424:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 02:52:47.521:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 02:52:47.573:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 02:52:47.608:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 02:52:47.651:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 02:52:47.664:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> .\store\app\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar, ok
+2023-08-04 02:52:47.666:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 02:52:47.668:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 02:52:47.668:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 02:52:47.669:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 02:52:47.670:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 02:52:47.670:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 02:52:47.671:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 02:52:47.672:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 02:52:47.672:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 02:52:47.673:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 02:52:47.674:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 02:52:47.675:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 02:52:47.675:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 02:52:47.676:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 02:52:47.677:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 02:52:47.678:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 02:52:47.679:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 02:52:47.679:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 02:52:47.680:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 02:52:47.683:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 02:52:47.683:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 02:52:47.684:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 02:52:47.697:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 02:52:47.697:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 02:52:47.698:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 02:52:47.698:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 02:52:47.784:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 02:52:47.786:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 02:52:47.787:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 02:52:47.789:   [BACKUP] .\store\backup\Camera socket\CameraSocket.jar -> .\store\app\Camera socket\CameraSocket.jar, ok
+2023-08-04 02:52:47.790:   [BACKUP] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> .\store\app\Camera socket\lib\bridj-0.6.2.jar, ok
+2023-08-04 02:52:47.791:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 02:52:47.794:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 02:52:47.795:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 02:52:47.796:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 02:52:47.796:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 02:52:47.813:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 02:52:47.813:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 02:52:47.814:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 02:52:47.818:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 02:52:47.828:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 02:52:47.828:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 02:52:47.829:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 02:52:47.829:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 02:52:47.835:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 02:52:47.836:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 02:52:47.836:   [BACKUP] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> .\store\app\Camera socket\lib\PictureAnalysis.jar, ok
+2023-08-04 02:52:47.837:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 02:52:47.842:   [BACKUP] .\store\backup\Camera socket\lib\QRCode.jar -> .\store\app\Camera socket\lib\QRCode.jar, ok
+2023-08-04 02:52:47.843:   [BACKUP] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> .\store\app\Camera socket\lib\appframework-1.0.3.jar, ok
+2023-08-04 02:52:47.844:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 08:10:48.094:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 08:10:48.111:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 08:10:48.111:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 08:10:48.112:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 08:10:48.112:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 08:10:48.113:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 08:10:48.113:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 08:10:48.114:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 08:10:48.114:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 08:10:48.115:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 08:10:48.115:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 08:10:48.116:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 08:10:48.116:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 08:10:48.117:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 08:10:48.117:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 08:10:48.118:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 08:10:48.118:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 08:10:48.118:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 08:10:48.119:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 08:10:48.119:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 08:10:48.120:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 08:10:48.120:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 08:10:48.121:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 08:10:48.121:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 08:10:48.121:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 08:10:48.122:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 08:10:48.122:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 08:10:48.123:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 08:10:48.123:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true
+2023-08-04 08:17:29.864:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 08:17:29.884:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 08:17:29.901:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 08:17:29.924:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 08:17:29.950:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 08:17:29.965:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 08:17:29.979:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 08:17:29.992:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 08:17:30.006:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 08:17:30.024:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 08:17:30.039:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 08:17:30.053:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 08:17:30.067:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 08:17:30.084:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 08:17:30.097:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 08:17:30.114:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 08:17:30.127:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 08:17:30.141:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 08:17:30.154:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 08:17:30.170:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 08:17:30.185:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 08:17:30.198:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 08:17:30.212:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 08:17:30.225:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 08:17:30.238:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 08:17:30.252:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 08:17:30.267:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 08:17:30.279:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 08:17:30.295:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 08:21:04.984:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 08:21:04.988:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 08:21:04.990:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 08:21:04.991:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 08:21:04.993:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 08:21:04.994:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 08:21:04.996:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 08:21:04.997:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 08:21:05.000:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 08:21:05.002:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 08:21:05.004:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 08:21:05.006:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 08:21:05.007:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 08:21:05.008:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 08:21:05.010:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 08:21:05.011:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 08:21:05.013:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 08:21:05.014:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 08:21:05.015:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 08:21:05.017:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 08:21:05.019:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 08:21:05.020:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 08:21:05.021:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 08:21:05.023:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 08:21:05.024:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 08:21:05.026:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 08:21:05.027:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 08:21:05.028:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 08:21:05.030:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true
+2023-08-04 08:22:34.233:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 08:22:34.235:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 08:22:34.236:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 08:22:34.237:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 08:22:34.239:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 08:22:34.240:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 08:22:34.242:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 08:22:34.243:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 08:22:34.244:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 08:22:34.246:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 08:22:34.246:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 08:22:34.248:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 08:22:34.250:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 08:22:34.251:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 08:22:34.252:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 08:22:34.254:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 08:22:34.255:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 08:22:34.257:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 08:22:34.258:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 08:22:34.259:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 08:22:34.261:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 08:22:34.262:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 08:22:34.264:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 08:22:34.265:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 08:22:34.266:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 08:22:34.268:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 08:22:34.269:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 08:22:34.270:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 08:22:34.272:   [REMOVE] .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true
+2023-08-04 08:35:27.271:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 08:35:27.290:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 08:35:27.306:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 08:35:27.323:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 08:35:27.337:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 08:35:27.351:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 08:35:27.365:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 08:35:27.379:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 08:35:27.391:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 08:35:27.406:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 08:35:27.421:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 08:35:27.437:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 08:35:27.452:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 08:35:27.468:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 08:35:27.482:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 08:35:27.500:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 08:35:27.514:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 08:35:27.528:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 08:35:27.541:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 08:35:27.555:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 08:35:27.568:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 08:35:27.581:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 08:35:27.595:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 08:35:27.608:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 08:35:27.622:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 08:35:27.635:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 08:35:27.650:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 08:35:27.663:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 08:35:27.678:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 08:35:27.721:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 08:35:27.722:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 08:35:27.723:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 08:35:27.725:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 08:35:27.725:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 08:35:27.726:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 08:35:27.727:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 08:35:27.727:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 08:35:27.728:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 08:35:27.729:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 08:35:27.730:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 08:35:27.730:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 08:35:27.731:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 08:35:27.732:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 08:35:27.732:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 08:35:27.733:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 08:35:27.734:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 08:35:27.734:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 08:35:27.735:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 08:35:27.736:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 08:35:27.736:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 08:35:27.737:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 08:35:27.737:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 08:35:27.738:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 08:35:27.738:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 08:35:27.739:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 08:35:27.739:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 08:35:27.740:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 08:35:27.741:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 08:36:57.292:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> true
+2023-08-04 08:36:57.292:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 08:36:57.293:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 08:36:57.293:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 08:36:57.294:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 08:36:57.294:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 08:36:57.295:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 08:36:57.295:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 08:36:57.296:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 08:36:57.296:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 08:36:57.296:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 08:36:57.297:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 08:36:57.297:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 08:36:57.298:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 08:36:57.298:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 08:36:57.298:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 08:36:57.299:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 08:36:57.299:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 08:36:57.300:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 08:36:57.300:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 08:36:57.300:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 08:36:57.301:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 08:36:57.301:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 08:36:57.301:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 08:36:57.302:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 08:36:57.302:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 08:36:57.302:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 08:36:57.303:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 08:36:57.303:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 08:36:57.303:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true
+2023-08-04 09:00:13.304:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 09:00:13.319:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 09:00:13.329:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 09:00:13.340:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 09:00:13.351:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 09:00:13.364:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 09:00:13.376:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:00:13.387:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 09:00:13.398:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 09:00:13.409:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:00:13.421:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 09:00:13.433:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:00:13.444:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 09:00:13.455:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 09:00:13.465:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 09:00:13.476:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 09:00:13.488:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 09:00:13.499:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 09:00:13.513:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 09:00:13.525:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 09:00:13.536:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 09:00:13.550:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 09:00:13.552:   [BACKUP] .\store\backup\Camera socket\CameraSocket.jar -> .\store\app\Camera socket\CameraSocket.jar, ok
+2023-08-04 09:00:13.553:   [BACKUP] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> .\store\app\Camera socket\lib\bridj-0.6.2.jar, ok
+2023-08-04 09:00:13.554:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 09:00:13.555:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 09:00:13.555:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 09:00:13.556:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 09:00:13.557:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:00:13.558:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 09:00:13.559:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 09:00:13.560:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:00:13.560:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 09:00:13.561:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:00:13.562:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 09:00:13.563:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 09:00:13.563:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 09:00:13.564:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 09:00:13.565:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 09:00:13.566:   [BACKUP] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> .\store\app\Camera socket\lib\PictureAnalysis.jar, ok
+2023-08-04 09:00:13.567:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 09:00:13.568:   [BACKUP] .\store\backup\Camera socket\lib\QRCode.jar -> .\store\app\Camera socket\lib\QRCode.jar, ok
+2023-08-04 09:00:13.569:   [BACKUP] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> .\store\app\Camera socket\lib\appframework-1.0.3.jar, ok
+2023-08-04 09:00:13.570:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 09:24:05.821:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 09:24:05.835:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 09:24:05.845:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 09:24:05.856:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 09:24:05.868:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 09:24:05.880:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 09:24:05.891:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:24:05.903:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 09:24:05.913:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 09:24:05.924:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:24:05.936:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 09:24:05.948:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:24:05.959:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 09:24:05.970:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 09:24:05.980:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 09:24:05.991:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 09:24:06.003:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 09:24:06.015:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 09:24:06.031:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 09:24:06.044:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 09:24:06.056:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 09:24:06.068:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 09:24:06.075:   [BACKUP] .\store\backup\Camera socket\CameraSocket.jar -> .\store\app\Camera socket\CameraSocket.jar, ok
+2023-08-04 09:24:06.076:   [BACKUP] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> .\store\app\Camera socket\lib\bridj-0.6.2.jar, ok
+2023-08-04 09:24:06.077:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 09:24:06.078:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 09:24:06.078:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 09:24:06.079:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 09:24:06.080:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:24:06.081:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 09:24:06.082:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 09:24:06.082:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:24:06.083:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 09:24:06.085:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:24:06.085:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 09:24:06.086:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 09:24:06.087:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 09:24:06.087:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 09:24:06.088:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 09:24:06.089:   [BACKUP] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> .\store\app\Camera socket\lib\PictureAnalysis.jar, ok
+2023-08-04 09:24:06.090:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 09:24:06.091:   [BACKUP] .\store\backup\Camera socket\lib\QRCode.jar -> .\store\app\Camera socket\lib\QRCode.jar, ok
+2023-08-04 09:24:06.092:   [BACKUP] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> .\store\app\Camera socket\lib\appframework-1.0.3.jar, ok
+2023-08-04 09:24:06.093:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 09:24:46.354:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 09:24:46.371:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 09:24:46.392:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 09:24:46.407:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:24:46.426:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 09:24:46.441:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 09:24:46.454:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 09:24:46.468:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 09:24:46.482:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 09:24:46.495:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 09:24:46.510:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:24:46.524:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:24:46.540:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 09:24:46.553:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 09:24:46.567:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 09:24:46.581:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 09:24:46.596:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 09:24:46.609:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 09:24:46.622:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 09:24:46.636:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 09:24:46.649:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 09:24:46.662:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 09:24:46.675:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 09:24:46.688:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 09:24:46.702:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 09:24:46.715:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 09:24:46.728:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 09:24:46.742:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 09:24:46.754:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 09:24:46.768:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 09:24:46.798:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> .\store\app\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar, ok
+2023-08-04 09:24:46.799:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 09:24:46.800:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 09:24:46.801:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:24:46.802:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 09:24:46.802:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 09:24:46.803:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 09:24:46.803:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 09:24:46.804:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 09:24:46.804:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 09:24:46.806:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:24:46.806:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:24:46.807:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 09:24:46.808:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 09:24:46.808:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 09:24:46.809:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 09:24:46.810:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 09:24:46.810:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 09:24:46.811:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 09:24:46.812:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 09:24:46.812:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 09:24:46.813:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 09:24:46.813:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 09:24:46.814:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 09:24:46.814:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 09:24:46.815:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 09:24:46.816:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 09:24:46.816:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 09:24:46.817:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 09:24:46.817:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 09:25:06.320:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> true
+2023-08-04 09:25:06.320:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 09:25:06.321:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 09:25:06.321:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 09:25:06.322:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 09:25:06.322:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 09:25:06.322:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 09:25:06.323:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 09:25:06.323:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 09:25:06.324:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 09:25:06.324:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 09:25:06.324:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 09:25:06.325:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 09:25:06.325:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 09:25:06.326:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 09:25:06.326:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 09:25:06.326:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 09:25:06.327:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 09:25:06.327:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 09:25:06.327:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 09:25:06.328:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 09:25:06.328:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 09:25:06.329:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 09:25:06.329:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 09:25:06.329:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 09:25:06.330:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 09:25:06.330:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 09:25:06.330:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 09:25:06.331:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 09:25:06.331:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true
+2023-08-04 09:36:29.255:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 09:36:29.270:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 09:36:29.282:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 09:36:29.293:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 09:36:29.304:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 09:36:29.323:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 09:36:29.339:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:36:29.356:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 09:36:29.370:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 09:36:29.380:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:36:29.392:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 09:36:29.403:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:36:29.414:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 09:36:29.424:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 09:36:29.434:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 09:36:29.444:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 09:36:29.455:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 09:36:29.466:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 09:36:29.481:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 09:36:29.493:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 09:36:29.505:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 09:36:29.517:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 09:36:29.535:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 09:36:29.536:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 09:36:29.536:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 09:36:29.537:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 09:36:29.538:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:36:29.539:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 09:36:29.539:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 09:36:29.540:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:36:29.541:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 09:36:29.542:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:36:29.542:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 09:36:29.543:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 09:36:29.544:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 09:36:29.544:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 09:36:29.545:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 09:36:29.547:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 09:36:29.553:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 09:36:59.839:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 09:36:59.857:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 09:36:59.875:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 09:36:59.891:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:36:59.909:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 09:36:59.924:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 09:36:59.937:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 09:36:59.951:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 09:36:59.965:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 09:36:59.979:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 09:36:59.995:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:37:00.012:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:37:00.027:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 09:37:00.040:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 09:37:00.057:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 09:37:00.073:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 09:37:00.095:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 09:37:00.109:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 09:37:00.129:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 09:37:00.143:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 09:37:00.157:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 09:37:00.170:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 09:37:00.183:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 09:37:00.198:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 09:37:00.213:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 09:37:00.228:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 09:37:00.243:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 09:37:00.258:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 09:37:00.273:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 09:37:00.289:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 09:37:00.320:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> .\store\app\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar, ok
+2023-08-04 09:37:00.321:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 09:37:00.322:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 09:37:00.324:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:37:00.325:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 09:37:00.326:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 09:37:00.326:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 09:37:00.327:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 09:37:00.328:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 09:37:00.328:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 09:37:00.329:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:37:00.330:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:37:00.330:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 09:37:00.331:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 09:37:00.332:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 09:37:00.332:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 09:37:00.334:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 09:37:00.335:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 09:37:00.335:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 09:37:00.336:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 09:37:00.336:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 09:37:00.337:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 09:37:00.337:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 09:37:00.338:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 09:37:00.338:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 09:37:00.339:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 09:37:00.339:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 09:37:00.340:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 09:37:00.341:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 09:37:00.341:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 09:41:59.998:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 09:42:00.015:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 09:42:00.031:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 09:42:00.044:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:42:00.058:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 09:42:00.069:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 09:42:00.080:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 09:42:00.091:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 09:42:00.103:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 09:42:00.114:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 09:42:00.126:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:42:00.137:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:42:00.149:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 09:42:00.160:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 09:42:00.172:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 09:42:00.183:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 09:42:00.197:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 09:42:00.207:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 09:42:00.219:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 09:42:00.229:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 09:42:00.240:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 09:42:00.251:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 09:42:00.265:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 09:42:00.275:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 09:42:00.287:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 09:42:00.298:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 09:42:00.309:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 09:42:00.320:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 09:42:00.332:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 09:42:00.343:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 09:42:00.353:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 09:42:00.366:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 09:42:00.377:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 09:42:00.387:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 09:42:00.396:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 09:42:00.408:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 09:42:00.419:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:42:00.429:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 09:42:00.440:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 09:42:00.449:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:42:00.460:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 09:42:00.471:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:42:00.482:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 09:42:00.492:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 09:42:00.502:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 09:42:00.514:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 09:42:00.524:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 09:42:00.535:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 09:42:00.549:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 09:42:00.562:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 09:42:00.572:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 09:42:00.584:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 09:42:00.586:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> .\store\app\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar, ok
+2023-08-04 09:42:00.587:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 09:42:00.589:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 09:42:00.589:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:42:00.590:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 09:42:00.591:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 09:42:00.591:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 09:42:00.592:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 09:42:00.593:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 09:42:00.594:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 09:42:00.595:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:42:00.595:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:42:00.596:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 09:42:00.597:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 09:42:00.598:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 09:42:00.598:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 09:42:00.599:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 09:42:00.600:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 09:42:00.601:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 09:42:00.601:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 09:42:00.602:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 09:42:00.602:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 09:42:00.603:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 09:42:00.603:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 09:42:00.604:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 09:42:00.605:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 09:42:00.605:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 09:42:00.606:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 09:42:00.606:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 09:42:00.607:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 09:42:00.641:   [BACKUP] .\store\backup\Camera socket\CameraSocket.jar -> .\store\app\Camera socket\CameraSocket.jar, ok
+2023-08-04 09:42:00.642:   [BACKUP] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> .\store\app\Camera socket\lib\bridj-0.6.2.jar, ok
+2023-08-04 09:42:00.642:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 09:42:00.643:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 09:42:00.643:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 09:42:00.644:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 09:42:00.645:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:42:00.646:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 09:42:00.646:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 09:42:00.647:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:42:00.647:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 09:42:00.648:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:42:00.649:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 09:42:00.649:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 09:42:00.650:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 09:42:00.650:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 09:42:00.651:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 09:42:00.651:   [BACKUP] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> .\store\app\Camera socket\lib\PictureAnalysis.jar, ok
+2023-08-04 09:42:00.653:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 09:42:00.653:   [BACKUP] .\store\backup\Camera socket\lib\QRCode.jar -> .\store\app\Camera socket\lib\QRCode.jar, ok
+2023-08-04 09:42:00.654:   [BACKUP] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> .\store\app\Camera socket\lib\appframework-1.0.3.jar, ok
+2023-08-04 09:42:00.655:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 09:43:39.639:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 09:43:39.656:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 09:43:39.671:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 09:43:39.682:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:43:39.696:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 09:43:39.707:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 09:43:39.718:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 09:43:39.729:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 09:43:39.740:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 09:43:39.751:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 09:43:39.762:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:43:39.773:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:43:39.785:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 09:43:39.796:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 09:43:39.808:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 09:43:39.819:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 09:43:39.831:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 09:43:39.842:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 09:43:39.853:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 09:43:39.864:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 09:43:39.875:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 09:43:39.885:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 09:43:39.896:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 09:43:39.907:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 09:43:39.917:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 09:43:39.927:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 09:43:39.937:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 09:43:39.949:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 09:43:39.960:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 09:43:39.972:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 09:43:39.980:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 09:43:39.993:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 09:43:40.004:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 09:43:40.015:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 09:43:40.025:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 09:43:40.037:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 09:43:40.048:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:43:40.068:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 09:43:40.078:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 09:43:40.090:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:43:40.101:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 09:43:40.113:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:43:40.124:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 09:43:40.135:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 09:43:40.145:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 09:43:40.157:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 09:43:40.169:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 09:43:40.180:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 09:43:40.195:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 09:43:40.208:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 09:43:40.219:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 09:43:40.231:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 09:43:40.233:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> .\store\app\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar, ok
+2023-08-04 09:43:40.234:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 09:43:40.235:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 09:43:40.236:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:43:40.237:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 09:43:40.238:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 09:43:40.238:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 09:43:40.239:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 09:43:40.240:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 09:43:40.240:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 09:43:40.242:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:43:40.242:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:43:40.243:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 09:43:40.244:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 09:43:40.244:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 09:43:40.245:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 09:43:40.246:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 09:43:40.247:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 09:43:40.248:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 09:43:40.248:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 09:43:40.249:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 09:43:40.249:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 09:43:40.250:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 09:43:40.250:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 09:43:40.251:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 09:43:40.251:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 09:43:40.252:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 09:43:40.253:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 09:43:40.253:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 09:43:40.254:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 09:43:40.289:   [BACKUP] .\store\backup\Camera socket\CameraSocket.jar -> .\store\app\Camera socket\CameraSocket.jar, ok
+2023-08-04 09:43:40.290:   [BACKUP] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> .\store\app\Camera socket\lib\bridj-0.6.2.jar, ok
+2023-08-04 09:43:40.291:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 09:43:40.291:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 09:43:40.292:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 09:43:40.293:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 09:43:40.294:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:43:40.295:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 09:43:40.295:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 09:43:40.296:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:43:40.296:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 09:43:40.297:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:43:40.298:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 09:43:40.298:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 09:43:40.299:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 09:43:40.299:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 09:43:40.300:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 09:43:40.301:   [BACKUP] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> .\store\app\Camera socket\lib\PictureAnalysis.jar, ok
+2023-08-04 09:43:40.302:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 09:43:40.303:   [BACKUP] .\store\backup\Camera socket\lib\QRCode.jar -> .\store\app\Camera socket\lib\QRCode.jar, ok
+2023-08-04 09:43:40.303:   [BACKUP] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> .\store\app\Camera socket\lib\appframework-1.0.3.jar, ok
+2023-08-04 09:43:40.304:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 09:43:53.391:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 09:43:53.407:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 09:43:53.423:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 09:43:53.433:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:43:53.446:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 09:43:53.458:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 09:43:53.469:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 09:43:53.479:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 09:43:53.490:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 09:43:53.500:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 09:43:53.512:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:43:53.523:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:43:53.535:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 09:43:53.545:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 09:43:53.557:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 09:43:53.568:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 09:43:53.582:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 09:43:53.592:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 09:43:53.603:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 09:43:53.614:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 09:43:53.623:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 09:43:53.634:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 09:43:53.645:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 09:43:53.656:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 09:43:53.666:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 09:43:53.677:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 09:43:53.687:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 09:43:53.699:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 09:43:53.710:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 09:43:53.724:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 09:43:53.736:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 09:43:53.748:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 09:43:53.759:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 09:43:53.769:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 09:43:53.780:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 09:43:53.792:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 09:43:53.803:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 09:43:53.814:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 09:43:53.824:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 09:43:53.836:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 09:43:53.846:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 09:43:53.857:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 09:43:53.867:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 09:43:53.877:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 09:43:53.888:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 09:43:53.903:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 09:43:53.914:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 09:43:53.924:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 09:43:53.938:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 09:43:53.951:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 09:43:53.960:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 09:43:53.973:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 09:43:53.975:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> .\store\app\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar, ok
+2023-08-04 09:43:53.976:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 09:43:53.978:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 09:43:53.978:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:43:53.979:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 09:43:53.980:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 09:43:53.981:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 09:43:53.981:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 09:43:53.982:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 09:43:53.982:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 09:43:53.984:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:43:53.984:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:43:53.984:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 09:43:53.985:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 09:43:53.985:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 09:43:53.986:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 09:43:53.987:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 09:43:53.987:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 09:43:53.988:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 09:43:53.989:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 09:43:53.989:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 09:43:53.990:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 09:43:53.990:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 09:43:53.991:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 09:43:53.991:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 09:43:53.992:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 09:43:53.992:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 09:43:53.993:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 09:43:53.994:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 09:43:53.994:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 09:43:54.027:   [BACKUP] .\store\backup\Camera socket\CameraSocket.jar -> .\store\app\Camera socket\CameraSocket.jar, ok
+2023-08-04 09:43:54.028:   [BACKUP] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> .\store\app\Camera socket\lib\bridj-0.6.2.jar, ok
+2023-08-04 09:43:54.028:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 09:43:54.029:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 09:43:54.029:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 09:43:54.030:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 09:43:54.031:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 09:43:54.032:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 09:43:54.033:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 09:43:54.033:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 09:43:54.034:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 09:43:54.034:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 09:43:54.035:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 09:43:54.035:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 09:43:54.036:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 09:43:54.037:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 09:43:54.037:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 09:43:54.038:   [BACKUP] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> .\store\app\Camera socket\lib\PictureAnalysis.jar, ok
+2023-08-04 09:43:54.039:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 09:43:54.039:   [BACKUP] .\store\backup\Camera socket\lib\QRCode.jar -> .\store\app\Camera socket\lib\QRCode.jar, ok
+2023-08-04 09:43:54.040:   [BACKUP] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> .\store\app\Camera socket\lib\appframework-1.0.3.jar, ok
+2023-08-04 09:43:54.041:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 09:45:50.061:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> true
+2023-08-04 09:45:50.062:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 09:45:50.063:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 09:45:50.063:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 09:45:50.063:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 09:45:50.064:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 09:45:50.064:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 09:45:50.064:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 09:45:50.065:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 09:45:50.065:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 09:45:50.066:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 09:45:50.066:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 09:45:50.066:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 09:45:50.067:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 09:45:50.067:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 09:45:50.067:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 09:45:50.068:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 09:45:50.068:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 09:45:50.069:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 09:45:50.069:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 09:45:50.069:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 09:45:50.070:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 09:45:50.070:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 09:45:50.070:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 09:45:50.071:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 09:45:50.071:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 09:45:50.071:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 09:45:50.072:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 09:45:50.072:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 09:45:50.072:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true
+2023-08-04 10:08:31.575:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 10:08:31.589:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 10:08:31.600:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 10:08:31.610:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 10:08:31.621:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 10:08:31.633:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 10:08:31.644:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 10:08:31.654:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 10:08:31.665:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 10:08:31.675:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 10:08:31.686:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 10:08:31.698:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 10:08:31.708:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 10:08:31.718:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 10:08:31.727:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 10:08:31.738:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 10:08:31.749:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 10:08:31.759:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 10:08:31.773:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 10:08:31.785:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 10:08:31.796:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 10:08:31.810:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 10:08:31.818:   [BACKUP] .\store\backup\Camera socket\CameraSocket.jar -> .\store\app\Camera socket\CameraSocket.jar, ok
+2023-08-04 10:08:31.819:   [BACKUP] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> .\store\app\Camera socket\lib\bridj-0.6.2.jar, ok
+2023-08-04 10:08:31.820:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 10:08:31.820:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 10:08:31.821:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 10:08:31.822:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 10:08:31.823:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 10:08:31.824:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 10:08:31.825:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 10:08:31.825:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 10:08:31.826:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 10:08:31.827:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 10:08:31.827:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 10:08:31.827:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 10:08:31.827:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 10:08:31.828:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 10:08:31.829:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 10:08:31.829:   [BACKUP] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> .\store\app\Camera socket\lib\PictureAnalysis.jar, ok
+2023-08-04 10:08:31.830:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 10:08:31.831:   [BACKUP] .\store\backup\Camera socket\lib\QRCode.jar -> .\store\app\Camera socket\lib\QRCode.jar, ok
+2023-08-04 10:08:31.832:   [BACKUP] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> .\store\app\Camera socket\lib\appframework-1.0.3.jar, ok
+2023-08-04 10:08:31.833:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 10:08:52.111:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 10:08:52.130:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 10:08:52.149:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 10:08:52.165:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 10:08:52.183:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 10:08:52.197:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 10:08:52.211:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 10:08:52.226:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 10:08:52.241:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 10:08:52.256:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 10:08:52.271:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 10:08:52.286:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 10:08:52.301:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 10:08:52.314:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 10:08:52.330:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 10:08:52.344:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 10:08:52.360:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 10:08:52.374:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 10:08:52.388:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 10:08:52.401:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 10:08:52.413:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 10:08:52.427:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 10:08:52.441:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 10:08:52.454:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 10:08:52.466:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 10:08:52.478:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 10:08:52.492:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 10:08:52.505:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 10:08:52.519:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 10:08:52.533:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 10:08:52.563:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> .\store\app\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar, ok
+2023-08-04 10:08:52.564:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 10:08:52.566:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 10:08:52.567:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 10:08:52.568:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 10:08:52.569:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 10:08:52.570:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 10:08:52.570:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 10:08:52.571:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 10:08:52.571:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 10:08:52.606:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 10:08:52.607:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 10:08:52.608:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 10:08:52.609:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 10:08:52.609:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 10:08:52.609:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 10:08:52.610:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 10:08:52.611:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 10:08:52.611:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 10:08:52.612:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 10:08:52.613:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 10:08:52.613:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 10:08:52.614:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 10:08:52.614:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 10:08:52.615:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 10:08:52.616:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 10:08:52.616:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 10:08:52.618:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 10:08:52.619:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 10:08:52.619:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 10:09:12.038:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> true
+2023-08-04 10:09:12.038:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 10:09:12.039:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 10:09:12.039:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 10:09:12.040:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 10:09:12.040:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 10:09:12.040:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 10:09:12.041:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 10:09:12.041:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 10:09:12.041:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 10:09:12.042:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 10:09:12.042:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 10:09:12.043:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 10:09:12.043:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 10:09:12.043:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 10:09:12.044:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 10:09:12.044:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 10:09:12.045:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 10:09:12.045:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 10:09:12.045:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 10:09:12.046:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 10:09:12.046:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 10:09:12.046:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 10:09:12.047:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 10:09:12.050:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 10:09:12.050:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 10:09:12.050:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 10:09:12.051:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 10:09:12.051:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 10:09:12.052:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true
+2023-08-04 10:23:47.765:   [Download] .\store\backup\Camera socket\CameraSocket.jar -> ok
+2023-08-04 10:23:47.779:   [Download] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> ok
+2023-08-04 10:23:47.789:   [Download] .\store\backup\Camera socket\lib\mediaplayer.jar -> ok
+2023-08-04 10:23:47.799:   [Download] .\store\backup\Camera socket\lib\comm.jar -> ok
+2023-08-04 10:23:47.809:   [Download] .\store\backup\Camera socket\lib\multiplayer.jar -> ok
+2023-08-04 10:23:47.821:   [Download] .\store\backup\Camera socket\lib\core-3.3.3.jar -> ok
+2023-08-04 10:23:47.832:   [Download] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> ok
+2023-08-04 10:23:47.843:   [Download] .\store\backup\Camera socket\lib\customizer.jar -> ok
+2023-08-04 10:23:47.853:   [Download] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> ok
+2023-08-04 10:23:47.864:   [Download] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 10:23:47.876:   [Download] .\store\backup\Camera socket\lib\sound.jar -> ok
+2023-08-04 10:23:47.887:   [Download] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 10:23:47.899:   [Download] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> ok
+2023-08-04 10:23:47.909:   [Download] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> ok
+2023-08-04 10:23:47.920:   [Download] .\store\backup\Camera socket\initialCamera.properties -> ok
+2023-08-04 10:23:47.931:   [Download] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> ok
+2023-08-04 10:23:47.942:   [Download] .\store\backup\Camera socket\lib\jdom.jar -> ok
+2023-08-04 10:23:47.953:   [Download] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> ok
+2023-08-04 10:23:47.968:   [Download] .\store\backup\Camera socket\lib\jmf.jar -> ok
+2023-08-04 10:23:47.981:   [Download] .\store\backup\Camera socket\lib\QRCode.jar -> ok
+2023-08-04 10:23:47.993:   [Download] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> ok
+2023-08-04 10:23:48.006:   [Download] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> ok
+2023-08-04 10:23:48.008:   [BACKUP] .\store\backup\Camera socket\CameraSocket.jar -> .\store\app\Camera socket\CameraSocket.jar, ok
+2023-08-04 10:23:48.009:   [BACKUP] .\store\backup\Camera socket\lib\bridj-0.6.2.jar -> .\store\app\Camera socket\lib\bridj-0.6.2.jar, ok
+2023-08-04 10:23:48.010:   [BACKUP] .\store\backup\Camera socket\lib\mediaplayer.jar -> .\store\app\Camera socket\lib\mediaplayer.jar, ok
+2023-08-04 10:23:48.010:   [BACKUP] .\store\backup\Camera socket\lib\comm.jar -> .\store\app\Camera socket\lib\comm.jar, ok
+2023-08-04 10:23:48.011:   [BACKUP] .\store\backup\Camera socket\lib\multiplayer.jar -> .\store\app\Camera socket\lib\multiplayer.jar, ok
+2023-08-04 10:23:48.012:   [BACKUP] .\store\backup\Camera socket\lib\core-3.3.3.jar -> .\store\app\Camera socket\lib\core-3.3.3.jar, ok
+2023-08-04 10:23:48.013:   [BACKUP] .\store\backup\Camera socket\lib\org.apache.commons.net.jar -> .\store\app\Camera socket\lib\org.apache.commons.net.jar, ok
+2023-08-04 10:23:48.168:   [BACKUP] .\store\backup\Camera socket\lib\customizer.jar -> .\store\app\Camera socket\lib\customizer.jar, ok
+2023-08-04 10:23:48.170:   [BACKUP] .\store\backup\Camera socket\lib\slf4j-api-1.7.2.jar -> .\store\app\Camera socket\lib\slf4j-api-1.7.2.jar, ok
+2023-08-04 10:23:48.170:   [BACKUP] .\store\backup\Camera socket\lib\dhcp4java-1.00.jar -> .\store\app\Camera socket\lib\dhcp4java-1.00.jar, ok
+2023-08-04 10:23:48.171:   [BACKUP] .\store\backup\Camera socket\lib\sound.jar -> .\store\app\Camera socket\lib\sound.jar, ok
+2023-08-04 10:23:48.178:   [BACKUP] .\store\backup\Camera socket\lib\dom4j-1.6.1.jar -> .\store\app\Camera socket\lib\dom4j-1.6.1.jar, ok
+2023-08-04 10:23:48.178:   [BACKUP] .\store\backup\Camera socket\lib\swing-worker-1.1.jar -> .\store\app\Camera socket\lib\swing-worker-1.1.jar, ok
+2023-08-04 10:23:48.179:   [BACKUP] .\store\backup\Camera socket\lib\javase-3.3.3.jar -> .\store\app\Camera socket\lib\javase-3.3.3.jar, ok
+2023-08-04 10:23:48.180:   [BACKUP] .\store\backup\Camera socket\initialCamera.properties -> .\store\app\Camera socket\initialCamera.properties, ok
+2023-08-04 10:23:48.181:   [BACKUP] .\store\backup\Camera socket\lib\jcifs-1.3.17.jar -> .\store\app\Camera socket\lib\jcifs-1.3.17.jar, ok
+2023-08-04 10:23:48.182:   [BACKUP] .\store\backup\Camera socket\lib\jdom.jar -> .\store\app\Camera socket\lib\jdom.jar, ok
+2023-08-04 10:23:48.182:   [BACKUP] .\store\backup\Camera socket\lib\PictureAnalysis.jar -> .\store\app\Camera socket\lib\PictureAnalysis.jar, ok
+2023-08-04 10:23:48.184:   [BACKUP] .\store\backup\Camera socket\lib\jmf.jar -> .\store\app\Camera socket\lib\jmf.jar, ok
+2023-08-04 10:23:48.185:   [BACKUP] .\store\backup\Camera socket\lib\QRCode.jar -> .\store\app\Camera socket\lib\QRCode.jar, ok
+2023-08-04 10:23:48.185:   [BACKUP] .\store\backup\Camera socket\lib\appframework-1.0.3.jar -> .\store\app\Camera socket\lib\appframework-1.0.3.jar, ok
+2023-08-04 10:23:48.186:   [BACKUP] .\store\backup\Camera socket\lib\jna-3.2.2.jar -> .\store\app\Camera socket\lib\jna-3.2.2.jar, ok
+2023-08-04 10:24:08.431:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 10:24:08.447:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 10:24:08.466:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 10:24:08.479:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 10:24:08.495:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 10:24:08.509:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 10:24:08.522:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 10:24:08.535:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 10:24:08.549:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 10:24:08.562:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 10:24:08.575:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 10:24:08.590:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 10:24:08.605:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 10:24:08.618:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 10:24:08.632:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 10:24:08.645:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 10:24:08.661:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 10:24:08.673:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 10:24:08.686:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 10:24:08.699:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 10:24:08.712:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 10:24:08.724:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 10:24:08.737:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 10:24:08.749:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 10:24:08.762:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 10:24:08.775:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 10:24:08.788:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 10:24:08.800:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 10:24:08.814:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 10:24:08.827:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 10:24:08.856:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> .\store\app\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar, ok
+2023-08-04 10:24:08.858:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar, ok
+2023-08-04 10:24:08.859:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar, ok
+2023-08-04 10:24:08.860:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar, ok
+2023-08-04 10:24:08.861:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar, ok
+2023-08-04 10:24:08.861:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_API_client.py, ok
+2023-08-04 10:24:08.862:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> .\store\app\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py, ok
+2023-08-04 10:24:08.862:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> .\store\app\AmbitUI-TriesteRunin-MP\item\Runin.json, ok
+2023-08-04 10:24:08.863:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> .\store\app\AmbitUI-TriesteRunin-MP\setting\setting.json, ok
+2023-08-04 10:24:08.864:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar, ok
+2023-08-04 10:24:08.865:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar, ok
+2023-08-04 10:24:08.865:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar, ok
+2023-08-04 10:24:08.866:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar, ok
+2023-08-04 10:24:08.867:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar, ok
+2023-08-04 10:24:08.867:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar, ok
+2023-08-04 10:24:08.868:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar, ok
+2023-08-04 10:24:08.869:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar, ok
+2023-08-04 10:24:08.869:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar, ok
+2023-08-04 10:24:08.870:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar, ok
+2023-08-04 10:24:08.870:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> .\store\app\AmbitUI-TriesteRunin-MP\init\ErrorCode.json, ok
+2023-08-04 10:24:08.871:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> .\store\app\AmbitUI-TriesteRunin-MP\init\golden.csv, ok
+2023-08-04 10:24:08.872:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar, ok
+2023-08-04 10:24:08.872:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\FileService.jar, ok
+2023-08-04 10:24:08.872:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar, ok
+2023-08-04 10:24:08.873:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\MySocket.jar, ok
+2023-08-04 10:24:08.873:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar, ok
+2023-08-04 10:24:08.874:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\Timer.jar, ok
+2023-08-04 10:24:08.875:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar, ok
+2023-08-04 10:24:08.875:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar, ok
+2023-08-04 10:24:08.876:   [BACKUP] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar, ok
+2023-08-04 10:24:18.384:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> true
+2023-08-04 10:24:18.385:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 10:24:18.385:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 10:24:18.386:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 10:24:18.386:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 10:24:18.386:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 10:24:18.387:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 10:24:18.387:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 10:24:18.388:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 10:24:18.388:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 10:24:18.388:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 10:24:18.389:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 10:24:18.389:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 10:24:18.389:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 10:24:18.390:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 10:24:18.390:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 10:24:18.390:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 10:24:18.391:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 10:24:18.391:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 10:24:18.391:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 10:24:18.392:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 10:24:18.392:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 10:24:18.392:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 10:24:18.393:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 10:24:18.393:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 10:24:18.394:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 10:24:18.394:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 10:24:18.395:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 10:24:18.395:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 10:24:18.396:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true
+2023-08-04 10:24:28.443:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> ok
+2023-08-04 10:24:28.458:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> ok
+2023-08-04 10:24:28.476:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> ok
+2023-08-04 10:24:28.492:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> ok
+2023-08-04 10:24:28.510:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> ok
+2023-08-04 10:24:28.524:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> ok
+2023-08-04 10:24:28.536:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> ok
+2023-08-04 10:24:28.549:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> ok
+2023-08-04 10:24:28.562:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> ok
+2023-08-04 10:24:28.574:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> ok
+2023-08-04 10:24:28.588:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> ok
+2023-08-04 10:24:28.601:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> ok
+2023-08-04 10:24:28.615:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> ok
+2023-08-04 10:24:28.629:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> ok
+2023-08-04 10:24:28.644:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> ok
+2023-08-04 10:24:28.657:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> ok
+2023-08-04 10:24:28.673:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-08-04 10:24:28.686:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> ok
+2023-08-04 10:24:28.698:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> ok
+2023-08-04 10:24:28.711:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> ok
+2023-08-04 10:24:28.723:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> ok
+2023-08-04 10:24:28.736:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> ok
+2023-08-04 10:24:28.749:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> ok
+2023-08-04 10:24:28.760:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> ok
+2023-08-04 10:24:28.772:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> ok
+2023-08-04 10:24:28.784:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> ok
+2023-08-04 10:24:28.796:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> ok
+2023-08-04 10:24:28.810:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> ok
+2023-08-04 10:24:28.822:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> ok
+2023-08-04 10:24:28.835:   [Download] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> ok
+2023-08-04 10:24:48.403:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\AmbitUI-Trieste-Runin-MP.jar -> true
+2023-08-04 10:24:48.403:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-4.5.2.jar -> true
+2023-08-04 10:24:48.404:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jna-platform-4.5.2.jar -> true
+2023-08-04 10:24:48.404:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\org.apache.commons.net.jar -> true
+2023-08-04 10:24:48.405:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\swingx-all-1.6.4.jar -> true
+2023-08-04 10:24:48.405:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_API_client.py -> true
+2023-08-04 10:24:48.405:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\python\eero_api_limits_Trieste.py -> true
+2023-08-04 10:24:48.406:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\item\Runin.json -> true
+2023-08-04 10:24:48.406:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\setting\setting.json -> true
+2023-08-04 10:24:48.407:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-logging-1.2.jar -> true
+2023-08-04 10:24:48.407:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dhcp4java-1.00.jar -> true
+2023-08-04 10:24:48.408:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\dom4j-1.6.1.jar -> true
+2023-08-04 10:24:48.408:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fastjson-1.2.9.jar -> true
+2023-08-04 10:24:48.408:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\fluent-hc-4.5.13.jar -> true
+2023-08-04 10:24:48.409:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-4.5.13.jar -> true
+2023-08-04 10:24:48.409:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-cache-4.5.13.jar -> true
+2023-08-04 10:24:48.409:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-osgi-4.5.13.jar -> true
+2023-08-04 10:24:48.410:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpclient-win-4.5.13.jar -> true
+2023-08-04 10:24:48.410:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpcore-4.4.13.jar -> true
+2023-08-04 10:24:48.410:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\ErrorCode.json -> true
+2023-08-04 10:24:48.411:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\init\golden.csv -> true
+2023-08-04 10:24:48.411:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\CommandPrompt.jar -> true
+2023-08-04 10:24:48.411:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\FileService.jar -> true
+2023-08-04 10:24:48.412:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MyLoger.jar -> true
+2023-08-04 10:24:48.412:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\MySocket.jar -> true
+2023-08-04 10:24:48.412:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\SfisAPI17.jar -> true
+2023-08-04 10:24:48.413:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\Timer.jar -> true
+2023-08-04 10:24:48.413:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\commons-codec-1.11.jar -> true
+2023-08-04 10:24:48.413:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\httpmime-4.5.13.jar -> true
+2023-08-04 10:24:48.414:   [REMOVE] .\store\backup\AmbitUI-TriesteRunin-MP\lib\jSerialComm-2.9.2.jar -> true

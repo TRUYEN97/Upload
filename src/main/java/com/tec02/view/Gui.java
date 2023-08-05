@@ -7,10 +7,8 @@ package com.tec02.view;
 import com.tec02.common.Keyword;
 import com.tec02.core.APIController;
 import com.tec02.gui.frameGui.ConfigGui;
-import com.tec02.gui.panelGui.AppStore;
+import com.tec02.appStore.AppStore;
 import com.tec02.common.PropertiesModel;
-import java.io.IOException;
-
 /**
  *
  * @author Administrator
@@ -42,15 +40,16 @@ public class Gui extends javax.swing.JFrame {
             ex.printStackTrace();
         }
         initComponents();
-        this.api = APIController.getInstance();
+        this.api = APIController.getInstance(); 
+        this.appStore = new AppStore(api);
+        this.pnStore.add(this.appStore);
+        this.appStore.update();
         this.configGui = new ConfigGui(api);
         this.managePc = new ManagePc();
         this.manageFgroup = new ManageFgroup();
         this.manageFileProgram = new ManageFileProgram();
         this.manageProgram = new ManageProgram();
-        this.appStore = new AppStore(api);
-        this.pnStore.add(this.appStore);
-        this.appStore.update();
+       
     }
 
     /**

@@ -6,7 +6,7 @@ package com.tec02.view;
 
 import com.tec02.common.JOptionUtil;
 import com.tec02.common.Keyword;
-import com.tec02.core.APIController;
+import com.tec02.common.API.APIController;
 import com.tec02.gui.frameGui.AbsDisplayAble;
 import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.TableAndLocation;
@@ -47,25 +47,31 @@ public class ManageFileProgram extends AbsDisplayAble {
         });
         PopupMenu popupMenu = this.tableAndLocation.getMenu();
         popupMenu.addItemMenu("New", (e) -> {
+            String pName = this.tableAndLocation.getProductSelection();
+            String sName = this.tableAndLocation.getStationSelection();
+            String lName = this.tableAndLocation.getLineSelection();
+            this.fileProgramPanel.clear();
+            this.fileProgramPanel.setFileInfo(pName, sName, lName, null, null);
             JOptionUtil.showObject(this.fileProgramPanel, "File viewer");
+            this.tableAndLocation.find();
         });
         this.pnl.add(this.tableAndLocation);
-        this.tableAndLocation.update();
+        this.tableAndLocation.find();
     }
 
     public void showFileProgram() {
-        Object fileProgramId = this.tableAndLocation.getTableModel().getRowSelectedValue("id");
+        Object fileProgramId = this.tableAndLocation.getTableSelectedValue(Keyword.ID);
         if (fileProgramId == null) {
             return;
         }
-        String name = this.tableAndLocation.getTableModel().getRowSelectedValue("name");
+        String name = this.tableAndLocation.getTableSelectedValueT(Keyword.NAME);
         String pName = this.tableAndLocation.getProductSelection();
         String sName = this.tableAndLocation.getStationSelection();
         String lName = this.tableAndLocation.getLineSelection();
         this.fileProgramPanel.clear();
-        this.fileProgramPanel.setFileInfo(pName, sName, lName,fileProgramId, name);
+        this.fileProgramPanel.setFileInfo(pName, sName, lName, fileProgramId, name);
         JOptionUtil.showObject(this.fileProgramPanel, "File viewer");
-        this.tableAndLocation.update();
+        this.tableAndLocation.find();
     }
 
     /**
@@ -87,18 +93,17 @@ public class ManageFileProgram extends AbsDisplayAble {
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(pnl, javax.swing.GroupLayout.DEFAULT_SIZE, 837, Short.MAX_VALUE)
+                layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addComponent(pnl, javax.swing.GroupLayout.DEFAULT_SIZE, 837, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
-            layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(pnl, javax.swing.GroupLayout.DEFAULT_SIZE, 399, Short.MAX_VALUE)
+                layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                        .addComponent(pnl, javax.swing.GroupLayout.DEFAULT_SIZE, 399, Short.MAX_VALUE)
         );
 
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>                        
-
 
     // Variables declaration - do not modify                     
     private javax.swing.JPanel pnl;

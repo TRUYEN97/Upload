@@ -9,7 +9,7 @@ import com.tec02.common.API.JsonBodyAPI;
 import com.tec02.common.Keyword;
 import com.tec02.common.API.RequestParam;
 import com.tec02.common.API.RestUtil;
-import com.tec02.core.APIController;
+import com.tec02.common.API.APIController;
 import com.tec02.gui.frameGui.AbsDisplayAble;
 import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.TableAndLocation;
@@ -57,12 +57,12 @@ public class ManageProgram extends AbsDisplayAble {
         PopupMenu popupMenu = this.tableAndLocation.getMenu();
         popupMenu.addItemMenu("New", (e) -> {
             JOptionUtil.newWithNameAndDescription("New Program", (name, description) -> {
-                this.tableAndLocation.addNew(JsonBodyAPI.builder().put("name", name)
-                        .put("description", description));
+                this.tableAndLocation.addNew(JsonBodyAPI.builder().put(Keyword.NAME, name)
+                        .put(Keyword.DESCRIPTION, description));
             }, null);
         });
         this.pnUp.add(this.tableAndLocation);
-        this.tableAndLocation.update();
+        this.tableAndLocation.find();
     }
 
     private void viewProgram() throws HeadlessException {
@@ -72,7 +72,8 @@ public class ManageProgram extends AbsDisplayAble {
         }
         editPanel.setProgramId(programId);
         editPanel.setEnable(this.tableAndLocation.getTableSelectedValueT(Keyword.ENABLE));
-        editPanel.setAwaysUpdate(this.tableAndLocation.getTableSelectedValueT(Keyword.AWAYS_RUN));
+        editPanel.setAlwaysRun(this.tableAndLocation.getTableSelectedValueT(Keyword.ALWAYS_RUN));
+        editPanel.setAlwaysUpdate(this.tableAndLocation.getTableSelectedValueT(Keyword.ALWAYS_UPDATE));
         editPanel.setPassword(this.tableAndLocation.getTableSelectedValueT(Keyword.PASSWORD));
         editPanel.setDescription(this.tableAndLocation.getTableSelectedValueT(Keyword.DESCRIPTION));
         JOptionUtil.showObject(editPanel, this.tableAndLocation.getTableSelectedValueT(Keyword.NAME));
@@ -82,7 +83,8 @@ public class ManageProgram extends AbsDisplayAble {
                     JsonBodyAPI.builder()
                             .put(Keyword.ID, programId)
                             .put(Keyword.ENABLE, editPanel.getEnable())
-                            .put(Keyword.AWAYS_RUN, editPanel.getAwaysRun())
+                            .put(Keyword.ALWAYS_RUN, editPanel.getAlwaysRun())
+                            .put(Keyword.ALWAYS_UPDATE, editPanel.getAlwaysUpdate())
                             .put(Keyword.PASSWORD, editPanel.getPassword()));
             this.tableAndLocation.find();
         }

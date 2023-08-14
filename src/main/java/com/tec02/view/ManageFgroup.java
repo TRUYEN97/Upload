@@ -7,7 +7,7 @@ package com.tec02.view;
 import com.tec02.common.JOptionUtil;
 import com.tec02.common.API.JsonBodyAPI;
 import com.tec02.common.Keyword;
-import com.tec02.core.APIController;
+import com.tec02.common.API.APIController;
 import com.tec02.gui.frameGui.AbsDisplayAble;
 import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.FileUpdatePanel;
@@ -55,7 +55,7 @@ public class ManageFgroup extends AbsDisplayAble {
             showFileGroup();
         });
         this.pnl.add(this.tableAndLocation);
-        this.tableAndLocation.update();
+        this.tableAndLocation.find();
     }
 
     public void showFileGroup() {

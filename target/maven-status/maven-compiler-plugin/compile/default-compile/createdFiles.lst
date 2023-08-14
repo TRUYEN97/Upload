@@ -8,7 +8,6 @@ com\tec02\view\Gui$3.class
 com\tec02\view\ManageFgroup.class
 com\tec02\view\ManageProgram.class
 com\tec02\view\Gui.class
-com\tec02\core\APIController.class
 com\tec02\view\Gui$1.class
 com\tec02\view\Gui$4.class
 com\tec02\view\ManagePc.class

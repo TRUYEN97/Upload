@@ -1,0 +1,46 @@
+{
+    "dutModel": "Jupiter",
+    "station_type": "ORT",
+    "row": 9,
+    "column": 8,
+    "loop_test": 1,
+    "progress": "SIMPLE",
+    "name_app": "RUNIN",
+    "type_ui": "SmallUIProxy",
+    "local_log": "D:/LogAmbitUI/TestLog",
+    "detail": ["TabViewProxy", "TabItemProxy"],
+    "limit_path": "Init\\limits.json",
+    "limit_update": "cd python && eero_api_limits_Jupiter.py ORT",
+    "debug_able": true,
+    "use_dhcp": true,
+    "load_mode": [
+        {
+            "name": "ORT", 
+            "type_mode": "ort",
+            "debug_able": true,
+            "ambit_config": "Item\\Runin_jupiter_ort.json"
+        },
+        {
+            "name": "Debug", 
+            "type_mode": "debug",
+            //"test_color": "FFCCCC",
+            "debug_able": true,
+            "ambit_config": "Item\\Runin_jupiter_ort_debug.json"
+        }
+    ],
+    "dhcp": {
+        "flag": true,
+        "netIP": "172.168.0.251",
+        "mac_length": 16,
+        "lease_time": 3000
+    },
+    "socket": {
+        "flag": true,
+        "clients": {
+            "store": {
+                "host": "localhost",
+                "port": 5000
+            }
+        }
+    }
+}

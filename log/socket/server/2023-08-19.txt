@@ -1,0 +1,26 @@
+2023-08-19 08:37:07.600:   [Server] Listen on port: 5000
+2023-08-19 08:43:30.249:   [Server] Listen on port: 5000
+2023-08-19 08:49:22.673:   [Server] Listen on port: 5000
+2023-08-19 08:49:34.151:   [Server] Listen on port: 5000
+2023-08-19 08:51:58.225:   [Server] Listen on port: 5000
+2023-08-19 08:55:55.887:   [Server] Listen on port: 5000
+2023-08-19 08:58:28.709:   [Server] Listen on port: 5000
+2023-08-19 08:58:45.064:   [Server] Listen on port: 5000
+2023-08-19 09:02:10.642:   [Server] Listen on port: 5000
+2023-08-19 09:04:40.710:   [Server] Listen on port: 5000
+2023-08-19 09:11:01.660:   [Server] Listen on port: 5000
+2023-08-19 09:11:48.569:   [Server] Listen on port: 5000
+2023-08-19 09:28:48.263:   [Server] Listen on port: 5000
+2023-08-19 09:33:16.177:   [Server] Client-0 connected! - ip: /127.0.0.1:5000
+2023-08-19 09:33:16.178:   [Server -> Client-0] name
+2023-08-19 09:33:17.214:   [Server] null disconnected! - ip: /127.0.0.1:5000
+2023-08-19 09:44:56.585:   [Server] Client-1 connected! - ip: /127.0.0.1:5000
+2023-08-19 09:44:56.586:   [Server -> Client-1] name
+2023-08-19 09:44:57.636:   [Server] null disconnected! - ip: /127.0.0.1:5000
+2023-08-19 09:52:33.298:   [Server] Listen on port: 5000
+2023-08-19 09:53:03.434:   [Server] Client-0 connected! - ip: /127.0.0.1:5000
+2023-08-19 09:53:03.435:   [Server -> Client-0] name
+2023-08-19 09:53:04.484:   [Server] null disconnected! - ip: /127.0.0.1:5000
+2023-08-19 09:56:26.081:   [Server] Listen on port: 5000
+2023-08-19 10:12:38.533:   [Server] Listen on port: 5000
+2023-08-19 10:44:33.291:   [Server] Listen on port: 5000

@@ -9,11 +9,12 @@ import com.tec02.common.API.APIController;
 import com.tec02.gui.frameGui.ConfigGui;
 import com.tec02.appStore.AppStore;
 import com.tec02.common.PropertiesModel;
+import com.tec02.gui.frameGui.AbsDisplayAble;
 /**
  *
  * @author Administrator
  */
-public class Gui extends javax.swing.JFrame {
+public class Gui extends AbsDisplayAble {
 
     private final ManagePc managePc;
     private final AppStore appStore;
@@ -29,19 +30,10 @@ public class Gui extends javax.swing.JFrame {
      * @throws java.io.IOException
      */
     public Gui() throws Exception {
-        try {
-            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
-                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
-                    break;
-                }
-            }
-        } catch (ClassNotFoundException | InstantiationException | IllegalAccessException | javax.swing.UnsupportedLookAndFeelException ex) {
-            ex.printStackTrace();
-        }
         initComponents();
         this.api = APIController.getInstance(); 
-        this.appStore = new AppStore(api);
+        this.appStore = new AppStore(api, this);
+        this.appStore.run();
         this.pnStore.add(this.appStore);
         this.appStore.update();
         this.configGui = new ConfigGui(api);
@@ -226,8 +218,6 @@ public class Gui extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 
     public void display() {
-        java.awt.EventQueue.invokeLater(() -> {
-            Gui.this.setVisible(true);
-        });
+       this.display("store");
     }
 }

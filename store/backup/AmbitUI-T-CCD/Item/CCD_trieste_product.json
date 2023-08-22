@@ -1,0 +1,126 @@
+﻿{
+    "station_type": "CCD",
+    "time_out_test": 70,
+    "init": [
+	{
+            "flag": true,
+            "multi": false,
+            "always_run": false,
+            "time_out": 100,
+            "timezone": "UTC",
+            "wedUrl": "http://10.90.0.15:8000/auth/login//",
+            "test_name": "CheckTime",
+            "func_name": "CheckTimePCProxy"
+        },
+        {
+            "flag": true,
+            "time_out": 50,
+            "SEND_FORMAT": ["sn", "pcname"],
+            "MaxLenth": 16,
+            "DATA_FORMAT": ["mlbsn", "ethernetmac", "pnname", "model", "smode"],
+            "URL": "http://10.90.0.40/sfcapi/api/connect",
+            "test_name": "gen_node",
+            "func_name": "SfisFunctionProxy"
+        },
+        {
+            "flag": true,
+            "multi": false,
+            "always_run": false,
+            "time_out": 10,
+            "elems": [
+                {
+                    "key": "pnname",
+                    "target": "810-01100",
+                    "type": "equal",
+                    "message": "Sản phẩm không phải là: 810-01100!"
+                },
+                {
+                    "key": "smode",
+                    "target": "Production",
+                    "type": "equal",
+                    "message": "Sản phẩm không phải là hàng Production!"
+                },
+                {
+                    "key": "mlbsn",
+                    "target": "GGB1",
+                    "type": "start_with",
+                    "message": "SN của sản phẩm không phải là hàng Trieste!"
+                },
+                {
+                    "key": "ethernetmac",
+                    "target": "0",
+                    "type": "end_with",
+                    "message": "MAC từ SFIS cần phải kết thúc bằng số 0!"
+                }
+            ],
+            "test_name": "CheckProduct",
+            "func_name": "CheckProductProxy"
+        },
+        {
+            "flag": true,
+            "multi": false,
+            "always_run": false,
+            "time_out": 30,
+            "test_name": "mac",
+            "func_name": "GetMacFormSfisProxy"
+        }
+    ],
+    "functions": [
+        {
+            "flag": true,
+            "time_out": 15,
+            "debug_able": true,
+            "multi": false,
+            "always_run": true,
+            "host": "localhost",
+            "port": 60026,
+            "time": 10,
+            "object": ["e", "e", "r", "o"],
+            "LocalPrefix": ["D:/ImageLog/", "start_day"],
+            "LocalName": ["mlbsn", "sn", "pass", "mode"],
+            "LocalNameFail": ["mlbsn", "sn", "fail", "mode"],
+            "suffix": "jpg",
+            "test_name": "CheckObject",
+            "func_name": "CheckObjectProxy"
+        }
+    ],
+    "end": [
+        {
+            "flag": true,
+            "time_out": 30,
+            "wait_multi_done": true,
+            "SEND_FORMAT": ["sn", "pcname", "status"],
+            "SEND_FORMAT_FAIL": ["sn", "pcname", "status", "errorcode"],
+            "URL": "http://10.90.0.40/sfcapi/api/connectfinal",
+            "SFIS_TYPE": "SendResult",
+            "test_name": "SendToSfis",
+            "func_name": "SfisFunctionProxy"
+        }
+    ],
+    "final": [
+        {
+            "flag": true,
+            "time_out": 100,
+            "always_run": true,
+            "User": "oper",
+            "always_run": true,
+            "Password": "mfg-oper",
+            "Host": "10.90.1.168",
+            "Port": 21,
+            "followLimit": false,
+            "limitErrorCode": true,
+            "BaseKeys": ["mlbsn", "sn", "mo", "error_details", "status", "finish_time",
+                "test_software_version", "start_time", "station_type",
+                "error_code", "errorcode", "errorDes", "serial", "mode", "station_name", "position", "cycle_time", "cyctime_final"],
+            "TestKeys": ["upper_limit", "lower_limit", "status", "finish_time", "test_name",
+                "error_code", "errorcode", "errorDes", "start_time", "test_value", "units", "cycle_time"],
+            "FtpPrefixTxt": ["data/Trieste", "Text", "pnname", "station_type", "start_day", "station_name", "status"],
+            "FtpPrefixJson": ["data/Trieste", "json","pnname", "station_type", "start_day", "station_name", "status"],
+            "LocalPrefix": ["Log/TestLog"],
+            "LocalName": ["mlbsn", "sn", "position", "status", "mode", "finish_time"],
+            "LocalNameFail": ["mlbsn", "sn", "position", "status", "error_details", "errorcode", "mode", "finish_time"],
+            "test_name": "UpLogFTP",
+            "func_name": "UpLogFTPProxy"
+        }
+    ]
+}

@@ -1,0 +1,1059 @@
+{
+    "CheckTime":{
+        "simple": {
+            "errorcode": "C.Time",
+            "errorDes": "CheckTime"
+        }
+    },
+    "ram_correctness": {
+        "simple": {
+            "errorcode": "RAM.CORR",
+            "errorDes": "ram_correctness"
+        }
+    },
+    "CheckTestConditions": {
+        "simple": {
+            "errorcode": "TE.HOLD",
+            "errorDes": "CheckTestConditions"
+        }
+    },
+    "CheckObject": {
+        "simple": {
+            "errorcode": "Ob.CHECK",
+            "errorDes": "CheckObject"
+        }
+    },
+    "boot_setup": {
+        "simple": {
+            "errorcode": "4.1.0",
+            "errorDes": "boot_setup"
+        }
+    },
+    "count_pass_failed": {
+        "simple": {
+            "errorcode": "count.item.0",
+            "errorDes": "count_pass_failed"
+        }
+    },
+    "ReadComportUntilStopItem": {
+        "simple": {
+            "errorcode": "Read.Comport.0",
+            "errorDes": "ReadComportUntilStop"
+        }
+    },
+    "humidity_env": {
+        "simple": {
+            "errorcode": "HUM.ENV",
+            "errorDes": "humidity_env"
+        }
+    },
+    "temp_env": {
+        "simple": {
+            "errorcode": "TEMP.ENV",
+            "errorDes": "temp_env"
+        }
+    },
+    "wifi_start": {
+        "simple": {
+            "errorcode": "WIFI.START",
+            "errorDes": "wifi_start"
+        }
+    },
+    "UpLogFTP": {
+        "simple": {
+            "errorcode": "UP.FTP.LOG",
+            "errorDes": "UpLogFTP"
+        }
+    },
+    "CreateJsonPath": {
+        "simple": {
+            "errorcode": "json.path",
+            "errorDes": "CreateJsonPath"
+        }
+    },
+    "CreateTxtPath": {
+        "simple": {
+            "errorcode": "txt.path",
+            "errorDes": "CreateTxtPath"
+        }
+    },
+    "verify_cct": {
+        "simple": {
+            "errorcode": "verify00",
+            "errorDes": "verify_cct"
+        }
+    },
+    "CheckUpdate": {
+        "simple": {
+            "errorcode": "UPDATE00",
+            "errorDes": "CheckUpdate"
+        }
+    },
+    "CheckSnSfis": {
+        "simple": {
+            "errorcode": "SFIS00",
+            "errorDes": "SFIS_CHECK_ERROR"
+        }
+    },
+    "CheckProduct": {
+        "simple": {
+            "errorcode": "Check01",
+            "errorDes": "CheckProductInfo"
+        }
+    },
+    "reset_power": {
+        "simple": {
+            "errorcode": "RESET00",
+            "errorDes": "reset_power"
+        }
+    },
+    "CreateTxtAndZipLog": {
+        "simple": {
+            "errorcode": "CreTxtAndZip",
+            "errorDes": "CreateTxtAndZipLog"
+        }
+    },
+    "CreateJson": {
+        "simple": {
+            "errorcode": "CreateJson",
+            "errorDes": "CreateJson"
+        }
+    },
+    "fixture_close": {
+        "simple": {
+            "errorcode": "FIX00",
+            "errorDes": "fixture_close"
+        }
+    },
+    "fixtureOpen": {
+        "simple": {
+            "errorcode": "FIX01",
+            "errorDes": "fixtureOpen"
+        }
+    },
+    "golden_file": {
+        "simple": {
+            "errorcode": "FIX00",
+            "errorDes": "fixture_close"
+        }
+    },
+    "CheckLed_W_1H": {
+        "simple": {
+            "errorcode": "ledW0",
+            "errorDes": "CheckLed_W_1H"
+        }
+    },
+    "reboot": {
+        "simple": {
+            "errorcode": "reboot00",
+            "errorDes": "reboot"
+        }
+    },
+    "RebootCheckLed1H": {
+        "simple": {
+            "errorcode": "LED_w_reboot",
+            "errorDes": "RebootCheckLed1H"
+        }
+    },
+    "fixtureOpen": {
+        "simple": {
+            "errorcode": "FIX01",
+            "errorDes": "fixtureOpen"
+        }
+    },
+    "thermal_shutdown": {
+        "simple": {
+            "errorcode": "TS",
+            "errorDes": "thermal_shutdown"
+        }
+    },
+    "OnOff": {
+        "simple": {
+            "errorcode": "OnOff00",
+            "errorDes": "OnOff"
+        }
+    },
+    "shop_floor": {
+        "simple": {
+            "errorcode": "SFIS00",
+            "errorDes": "SHOP_FLOOR"
+        }
+    },
+    "SendToSfis": {
+        "simple": {
+            "errorcode": "SFIS01",
+            "errorDes": "SFIS_SEND_ERROR"
+        }
+    },
+    "PowerSwitch_Ping": {
+        "simple": {
+            "errorcode": "PwPing00",
+            "errorDes": "PowerSwitch_Ping"
+        }
+    },
+    "TEMP_MARVEL_ETH": {
+        "simple": {
+            "errorcode": "TEMP_MARVEL_ETH",
+            "errorDes": "TEMP_MARVEL_ETH"
+        }
+    },
+    "Mydas": {
+        "simple": {
+            "errorcode": "Mydas",
+            "errorDes": "Mydas"
+        }
+    },
+    "UpFTP": {
+        "simple": {
+            "errorcode": "UpFtp",
+            "errorDes": "UpFTP"
+        }
+    },
+    "UpTxtFTP": {
+        "simple": {
+            "errorcode": "UpTxtFtp",
+            "errorDes": "UpTxtFTP"
+        }
+    },
+    "UpJsonFTP": {
+        "simple": {
+            "errorcode": "UpJsonFtp",
+            "errorDes": "UpJsonFTP"
+        }
+    },
+    "CreateJsonLog": {
+        "simple": {
+            "errorcode": "json0",
+            "errorDes": "Create json log"
+        }
+    },
+    "ReleasePowerSwitchOutlet": {
+        "simple": {
+            "errorcode": "PW0",
+            "errorDes": "ReleasePowerSwitchOutlet"
+        }
+    },
+    "CreateZip": {
+        "simple": {
+            "errorcode": "ZIP0",
+            "errorDes": "CreateZip"
+        }
+    },
+    "CreateTxt": {
+        "simple": {
+            "errorcode": "TXT0",
+            "errorDes": "CreateTxt"
+        }
+    },
+    "ZipLog": {
+        "simple": {
+            "errorcode": "ZIPT0",
+            "errorDes": "ZipLog"
+        }
+    },
+    "UpAPI": {
+        "simple": {
+            "errorcode": "API01",
+            "errorDes": "UpAPI"
+        }
+    },
+    "MMC_READ_WRITE_SPEED_TEST": {
+        "simple": {
+            "errorcode": "MMC.RW",
+            "errorDes": "MMC_READ_WRITE_SPEED_TEST"
+        }
+    },
+    "ccg_firmware":
+            {
+                "simple": {
+                    "errorcode": "CCG3.1",
+                    "errorDes": "ccg_firmware"
+                }
+            },
+    "ccg_model": 
+            {
+                "simple": {
+                    "errorcode": "CCG.MODE",
+                    "errorDes": "ccg_model"
+                }
+            },
+    "cpu_stress": 
+            {
+                "simple": {
+                    "errorcode": "CPU.1.0",
+                    "errorDes": "cpu_stress"
+                }
+            },
+    "dut_ping": 
+            {
+                "simple": {
+                    "errorcode": "DUT.PING",
+                    "errorDes": "dut_ping"
+                }
+            },
+    "dut_ping_0": 
+            {
+                "simple": {
+                    "errorcode": "DUT.PING.0",
+                    "errorDes": "dut_ping_cycle0"
+                }
+            },
+    "dut_ping_1": 
+            {
+                "simple": {
+                    "errorcode": "DUT.PING.1",
+                    "errorDes": "dut_ping_cycle1"
+                }
+            },
+    "dut_ping_2": 
+            {
+                "simple": {
+                    "errorcode": "DUT.PING.2",
+                    "errorDes": "dut_ping_cycle2"
+                }
+            },
+    "dut_ping_3": 
+            {
+                "simple": {
+                    "errorcode": "DUT.PING.3",
+                    "errorDes": "dut_ping_cycle3"
+                }
+            },
+    "dut_ping_4": 
+            {
+                "simple": {
+                    "errorcode": "DUT.PING.4",
+                    "errorDes": "dut_ping_cycle4"
+                }
+            },
+    "dut_ping_5": 
+            {
+                "simple": {
+                    "errorcode": "DUT.PING.5",
+                    "errorDes": "dut_ping_cycle5"
+                }
+            },
+    "dut_ping_6": 
+            {
+                "simple": {
+                    "errorcode": "DUT.PING.6",
+                    "errorDes": "dut_ping_cycle6"
+                }
+            },
+    "dut_telnet": 
+            {
+                "simple": {
+                    "errorcode": "DUT.TEL",
+                    "errorDes": "dut_telnet"
+                }
+            },
+    "emmc_badblocks": 
+            {
+                "simple": {
+                    "errorcode": "EMMC.B",
+                    "errorDes": "emmc_badblocks"
+                }
+            },
+    "gen_node": 
+            {
+                "simple": {
+                    "errorcode": "GEN.NODE",
+                    "errorDes": "gen_node"
+                }
+            },
+    "humidity_env": 
+            {
+                "simple": {
+                    "errorcode": "15.4.0",
+                    "errorDes": "humidity_env"
+                }
+            },
+    "led_vendor": 
+            {
+                "simple": {
+                    "errorcode": "18.7.0",
+                    "errorDes": "led_vendor"
+                }
+            },
+    "mac": 
+            {
+                "simple": {
+                    "errorcode": "MAC",
+                    "errorDes": "mac"
+                }
+            },
+    "mac_ok": 
+            {
+                "simple": {
+                    "errorcode": "MAC.OK",
+                    "errorDes": "mac_ok"
+                }
+            },
+    "mmc_model": 
+            {
+                "simple": {
+                    "errorcode": "MMC.MODEL",
+                    "errorDes": "mmc_model"
+                }
+            },
+    "ort_type": 
+            {
+                "simple": {
+                    "errorcode": "ORT.TYPE",
+                    "errorDes": "ort_type"
+                }
+            },
+    "phy_model": 
+            {
+                "simple": {
+                    "errorcode": "23.1.0",
+                    "errorDes": "phy_model"
+                }
+            },
+    "phy_status": 
+            {
+                "simple": {
+                    "errorcode": "PHY.MODEL",
+                    "errorDes": "phy_status"
+                }
+            },
+    "power_cycle": 
+            {
+                "simple": {
+                    "errorcode": "POWER.C",
+                    "errorDes": "power_cycle"
+                }
+            },
+    "ram_stress": 
+            {
+                "simple": {
+                    "errorcode": "RAM.STRESS",
+                    "errorDes": "ram_stress"
+                }
+            },
+    "sn_ok": 
+            {
+                "simple": {
+                    "errorcode": "SN.OK",
+                    "errorDes": "sn_ok"
+                }
+            },
+    "usb_fw": 
+            {
+                "simple": {
+                    "errorcode": "USB.FW",
+                    "errorDes": "usb_fw"
+                }
+            },
+    "usb_model": 
+            {
+                "simple": {
+                    "errorcode": "USB.MODEL",
+                    "errorDes": "usb_model"
+                }
+            },
+    "wifi_start": 
+            {
+                "simple": {
+                    "errorcode": "WIFI.START",
+                    "errorDes": "wifi_start"
+                }
+            },
+    "wps_ok": 
+            {
+                "simple": {
+                    "errorcode": "39.3.0",
+                    "errorDes": "wps_ok"
+                }
+            },
+    "reboot_soft": 
+            {
+                "simple": {
+                    "errorcode": "REBOOT.SOFT",
+                    "errorDes": "reboot_soft"
+                }
+            },
+    "test_image_version": 
+            {
+                "simple": {
+                    "errorcode": "IMAGE.VER",
+                    "errorDes": "test_image_version"
+                }
+            },
+    "usb_aside": 
+            {
+                "simple": {
+                    "errorcode": "USB.A",
+                    "errorDes": "usb_aside"
+                }
+            },
+    "usb_bside": 
+            {
+                "simple": {
+                    "errorcode": "USB.B",
+                    "errorDes": "usb_bside"
+                }
+            },
+
+    "VOLTAGE_TEST": {
+        "simple": {
+            "errorcode": "volt00",
+            "errorDes": "VOLTAGE_TEST"
+        }
+    },
+    "v_tp61_vdd_3v3": 
+            {
+                "simple": {
+                    "errorcode": "36.T61.1",
+                    "errorDes": "v_tp61_vdd_3v3"
+                },
+                "low": {
+                    "errorcode": "36.T61.1.1",
+                    "errorDes": "v_tp61_vdd_3v3_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T61.1.2",
+                    "errorDes": "v_tp61_vdd_3v3_tooHigh"
+                }
+            },
+    "v_tp68_vdd_1v4": 
+            {
+                "simple": {
+                    "errorcode": "36.T68.1",
+                    "errorDes": "v_tp68_vdd_1v4"
+                },
+                "low": {
+                    "errorcode": "36.T68.1.1",
+                    "errorDes": "v_tp68_vdd_1v4_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T68.1.2",
+                    "errorDes": "v_tp68_vdd_1v4_tooHigh"
+                }
+            },
+    "v_tp65_vdd_1v9": 
+            {
+                "simple": {
+                    "errorcode": "36.T65.1",
+                    "errorDes": "v_tp65_vdd_1v9"
+                },
+                "low": {
+                    "errorcode": "36.T65.1.1",
+                    "errorDes": "v_tp65_vdd_1v9_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T65.1.2",
+                    "errorDes": "v_tp65_vdd_1v9_tooHigh"
+                }
+            },
+    "v_tp67_vpp_2.48v": 
+            {
+                "simple": {
+                    "errorcode": "36.T67.1",
+                    "errorDes": "v_tp67_vpp_2.48v"
+                },
+                "low": {
+                    "errorcode": "36.T67.1.1",
+                    "errorDes": "v_tp67_vpp_2.48v_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T67.1.2",
+                    "errorDes": "v_tp67_vpp_2.48v_tooHigh"
+                }
+            },
+    "v_tp60_dvdd_3v3": 
+            {
+                "simple": {
+                    "errorcode": "36.T60.1",
+                    "errorDes": "v_tp60_dvdd_3v3"
+                },
+                "low": {
+                    "errorcode": "36.T60.1.1",
+                    "errorDes": "v_tp60_dvdd_3v3_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T60.1.2",
+                    "errorDes": "v_tp60_dvdd_3v3_tooHigh"
+                }
+            },
+    "v_tp61_dvdd_3v3": 
+            {
+                "simple": {
+                    "errorcode": "36.T61.1",
+                    "errorDes": "v_tp61_dvdd_3v3"
+                },
+                "low": {
+                    "errorcode": "36.T61.1.1",
+                    "errorDes": "v_tp61_dvdd_3v3_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T61.1.2",
+                    "errorDes": "v_tp61_dvdd_3v3_tooHigh"
+                }
+            },
+    "v_tp66_vdd_ddr": 
+            {
+                "simple": {
+                    "errorcode": "36.T66.1",
+                    "errorDes": "v_tp66_vdd_ddr"
+                },
+                "low": {
+                    "errorcode": "36.T66.1.1",
+                    "errorDes": "v_tp66_vdd_ddr_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T66.1.2",
+                    "errorDes": "v_tp66_vdd_ddr_tooHigh"
+                }
+            },
+    "v_tp70_vdd_1v8": 
+            {
+                "simple": {
+                    "errorcode": "36.T70.1",
+                    "errorDes": "v_tp70_vdd_1v8"
+                },
+                "low": {
+                    "errorcode": "36.T70.1.1",
+                    "errorDes": "v_tp70_vdd_1v8_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T70.1.2",
+                    "errorDes": "v_tp70_vdd_1v8_tooHigh"
+                }
+            },
+    "v_tp73_vdd_1v05": 
+            {
+                "simple": {
+                    "errorcode": "36.T73.1",
+                    "errorDes": "v_tp73_vdd_1v05"
+                },
+                "low": {
+                    "errorcode": "36.T73.1.1",
+                    "errorDes": "v_tp73_vdd_1v05_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T73.1.2",
+                    "errorDes": "v_tp73_vdd_1v05_tooHigh"
+                }
+            },
+    "v_tp62_avdd_2g": 
+            {
+                "simple": {
+                    "errorcode": "36.T62.1",
+                    "errorDes": "v_tp62_avdd_2g"
+                },
+                "low": {
+                    "errorcode": "36.T62.1.1",
+                    "errorDes": "v_tp62_avdd_2g_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T62.1.2",
+                    "errorDes": "v_tp62_avdd_2g_tooHigh"
+                }
+            },
+    "v_tp80_mb_dvdd1.2": 
+            {
+                "simple": {
+                    "errorcode": "36.T80.1",
+                    "errorDes": "v_tp80_mb_dvdd1.2"
+                },
+                "low": {
+                    "errorcode": "36.T80.1.1",
+                    "errorDes": "v_tp80_mb_dvdd1.2_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T80.1.2",
+                    "errorDes": "v_tp80_mb_dvdd1.2_tooHigh"
+                }
+            },
+    "v_tp26_dcin9": 
+            {
+                "simple": {
+                    "errorcode": "36.T26.2",
+                    "errorDes": "v_tp26_dcin9"
+                },
+                "low": {
+                    "errorcode": "36.T26.2.1",
+                    "errorDes": "v_tp26_dcin9_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T26.2.2",
+                    "errorDes": "v_tp26_dcin9_tooHigh"
+                }
+            },
+    "v_tp25_usbc_vbus": 
+            {
+                "simple": {
+                    "errorcode": "16.T524.3",
+                    "errorDes": "v_tp25_usbc_vbus"
+                },
+                "low": {
+                    "errorcode": "16.T524.3.1",
+                    "errorDes": "v_tp25_usbc_vbus_tooLow"
+                },
+                "high": {
+                    "errorcode": "16.T524.3.2",
+                    "errorDes": "v_tp25_usbc_vbus_tooHigh"
+                }
+            },
+    "v_tp64_dvdd_1v8": 
+            {
+                "simple": {
+                    "errorcode": "36.T64.1",
+                    "errorDes": "v_tp64_dvdd_1v8"
+                },
+                "low": {
+                    "errorcode": "36.T64.1.1",
+                    "errorDes": "v_tp64_dvdd_1v8_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T64.1.2",
+                    "errorDes": "v_tp64_dvdd_1v8_tooHigh"
+                }
+            },
+    "v_tp74_mp1605_2v2": 
+            {
+                "simple": {
+                    "errorcode": "36.T74.1",
+                    "errorDes": "v_tp74_mp1605_2v2"
+                },
+                "low": {
+                    "errorcode": "36.T74.1.1",
+                    "errorDes": "v_tp74_mp1605_2v2_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T74.1.2",
+                    "errorDes": "v_tp74_mp1605_2v2_tooHigh"
+                }
+            },
+    "v_tp72_mp1605_1v05": 
+            {
+                "simple": {
+                    "errorcode": "36.T72.1",
+                    "errorDes": "v_tp72_mp1605_1v05"
+                },
+                "low": {
+                    "errorcode": "36.T72.1.1",
+                    "errorDes": "v_tp72_mp1605_1v05_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T72.1.2",
+                    "errorDes": "v_tp72_mp1605_1v05_tooHigh"
+                }
+            },
+    "v_tp71_mp1652h": 
+            {
+                "simple": {
+                    "errorcode": "36.T71.1",
+                    "errorDes": "v_tp71_mp1652h"
+                },
+                "low": {
+                    "errorcode": "36.T71.1.1",
+                    "errorDes": "v_tp71_mp1652h_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T71.1.2",
+                    "errorDes": "v_tp71_mp1652h_tooHigh"
+                }
+            },
+    "v_tp63_tsd": 
+            {
+                "simple": {
+                    "errorcode": "36.T63.1",
+                    "errorDes": "v_tp63_tsd"
+                },
+                "low": {
+                    "errorcode": "36.T63.1.1",
+                    "errorDes": "v_tp63_tsd_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T63.1.2",
+                    "errorDes": "v_tp63_tsd_tooHigh"
+                }
+            },
+    "v_tp69_mp2224": 
+            {
+                "simple": {
+                    "errorcode": "36.T69.1",
+                    "errorDes": "v_tp69_mp2224"
+                },
+                "low": {
+                    "errorcode": "36.T69.1.1",
+                    "errorDes": "v_tp69_mp2224_tooLow"
+                },
+                "high": {
+                    "errorcode": "36.T69.1.2",
+                    "errorDes": "v_tp69_mp2224_tooHigh"
+                }
+            },
+    "emmc_speed_read": 
+            {
+                "simple": {
+                    "errorcode": "11.2.1",
+                    "errorDes": "emmc_speed_read"
+                },
+                "low": {
+                    "errorcode": "11.2.1.1",
+                    "errorDes": "emmc_speed_read_tooLow"
+                },
+                "high": {
+                    "errorcode": "11.2.1.2",
+                    "errorDes": "emmc_speed_read_tooHigh"
+                }
+            },
+    "emmc_speed_write": 
+            {
+                "simple": {
+                    "errorcode": "11.2.2",
+                    "errorDes": "emmc_speed_write"
+                },
+                "low": {
+                    "errorcode": "11.2.2.1",
+                    "errorDes": "emmc_speed_write_tooLow"
+                },
+                "high": {
+                    "errorcode": "11.2.2.2",
+                    "errorDes": "emmc_speed_write_tooHigh"
+                }
+            },
+    "openshort": 
+            {
+                "simple": {
+                    "errorcode": "16.T524.1.1.1",
+                    "errorDes": "openshort"
+                },
+                "low": {
+                    "errorcode": "16.T524.1.1.1.1",
+                    "errorDes": "openshort_tooLow"
+                },
+                "high": {
+                    "errorcode": "16.T524.1.1.1.2",
+                    "errorDes": "openshort_tooHigh"
+                }
+            },
+    "emmc_speed_read": 
+            {
+                "simple": {
+                    "errorcode": "11.2.1",
+                    "errorDes": "emmc_speed_read"
+                },
+                "low": {
+                    "errorcode": "11.2.1.1",
+                    "errorDes": "emmc_speed_read_tooLow"
+                },
+                "high": {
+                    "errorcode": "11.2.1.2",
+                    "errorDes": "emmc_speed_read_tooHigh"
+                }
+            },
+    "emmc_speed_write": 
+            {
+                "simple": {
+                    "errorcode": "11.2.2",
+                    "errorDes": "emmc_speed_write"
+                },
+                "low": {
+                    "errorcode": "11.2.2.1",
+                    "errorDes": "emmc_speed_write_tooLow"
+                },
+                "high": {
+                    "errorcode": "11.2.2.2",
+                    "errorDes": "emmc_speed_write_tooHigh"
+                }
+            },
+    "temp_cpu": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU",
+                    "errorDes": "temp_cpu"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU.L",
+                    "errorDes": "temp_cpu_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU.H",
+                    "errorDes": "temp_cpu_tooHigh"
+                }
+            },
+    "temp_cpu1": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU1",
+                    "errorDes": "temp_cpu1"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU1.L",
+                    "errorDes": "temp_cpu1_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU1.H",
+                    "errorDes": "temp_cpu1_tooHigh"
+                }
+            },
+    "temp_cpu_0": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU.0",
+                    "errorDes": "temp_cpu_0"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU.0.L",
+                    "errorDes": "temp_cpu_0_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU.0.H",
+                    "errorDes": "temp_cpu_0_tooHigh"
+                }
+            },
+    "temp_cpu_1": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU.1",
+                    "errorDes": "temp_cpu_1"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU.1.L",
+                    "errorDes": "temp_cpu_1_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU.1.H",
+                    "errorDes": "temp_cpu_1_tooHigh"
+                }
+            },
+    "temp_cpu_2": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU.2",
+                    "errorDes": "temp_cpu_2"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU.2.L",
+                    "errorDes": "temp_cpu_2_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU.2.H",
+                    "errorDes": "temp_cpu_2_tooHigh"
+                }
+            },
+    "temp_cpu_3": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU.3",
+                    "errorDes": "temp_cpu_3"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU.3.L",
+                    "errorDes": "temp_cpu_3_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU.3.H",
+                    "errorDes": "temp_cpu_3_tooHigh"
+                }
+            },
+    "temp_cpu_4": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU.4",
+                    "errorDes": "temp_cpu_4"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU.4.L",
+                    "errorDes": "temp_cpu_4_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU.4.H",
+                    "errorDes": "temp_cpu_4_tooHigh"
+                }
+            },
+    "temp_cpu_5": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU.5",
+                    "errorDes": "temp_cpu_5"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU.5.L",
+                    "errorDes": "temp_cpu_5_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU.5.H",
+                    "errorDes": "temp_cpu_5_tooHigh"
+                }
+            },
+    "temp_env": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.ENV",
+                    "errorDes": "temp_env"
+                },
+                "low": {
+                    "errorcode": "TEMP.ENV.L",
+                    "errorDes": "temp_env_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.ENV.H",
+                    "errorDes": "temp_env_tooHigh"
+                }
+            },
+    "temp_eth": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.ETH.0",
+                    "errorDes": "temp_eth"
+                },
+                "low": {
+                    "errorcode": "TEMP.ETH.1",
+                    "errorDes": "temp_eth_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.ETH.2",
+                    "errorDes": "temp_eth_tooHigh"
+                }
+            },
+    "temp_eth_0": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.ETH.0.0",
+                    "errorDes": "temp_eth"
+                },
+                "low": {
+                    "errorcode": "TEMP.ETH.0.1",
+                    "errorDes": "temp_eth_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.ETH.0.2",
+                    "errorDes": "temp_eth_tooHigh"
+                }
+            },
+    "temp_eth_delta": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.ETH.DELTA.0",
+                    "errorDes": "temp_eth_delta"
+                },
+                "low": {
+                    "errorcode": "TEMP.ETH.DELTA.1",
+                    "errorDes": "temp_eth_delta_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.ETH.DELTA.2",
+                    "errorDes": "temp_eth_delta_tooHigh"
+                }
+            },
+    "temp_cpu_delta": 
+            {
+                "simple": {
+                    "errorcode": "TEMP.CPU.DELTA.0",
+                    "errorDes": "temp_cpu_delta"
+                },
+                "low": {
+                    "errorcode": "TEMP.CPU.DELTA.1",
+                    "errorDes": "temp_cpu_delta_tooLow"
+                },
+                "high": {
+                    "errorcode": "TEMP.CPU.DELTA.2",
+                    "errorDes": "temp_cpu_delta_tooHigh"
+                }
+            }
+}

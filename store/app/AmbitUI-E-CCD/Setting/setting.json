@@ -35,7 +35,15 @@
     },
     "socket": {
         "flag": true,
-        "host": "localhost",
-        "port": 60026
+        "clients": {
+            "store": {
+                "host": "localhost",
+                "port": 5000
+            },
+            "camera": {
+                "host": "localhost",
+                "port": 60026
+            }
+        }
     }
 }

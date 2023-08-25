@@ -1,0 +1,49 @@
+{
+    "station_type": "CCD",
+    "dutModel": "Trieste",
+    "row": 1,
+    "column": 1,
+    "loop_test": 1,
+    "progress": "MP",
+    "name_app": "CCD",
+    "type_ui": "BigUIProxy",
+    "save_memory": true,
+    "local_log": "Log\\TestLog",
+    "detail": ["TabViewProxy", "TabItemProxy"],
+    //"limit_path": "Init\\limits.json",
+    //"limit_update": "cd python && eero_api_limits_Trieste.py Runin",
+    "debug_able": true,
+    "use_dhcp": false,
+    "load_mode": [
+       {
+            "name": "Production", 
+            "type_mode": "production",
+    	    "debug_able": false,
+            "ambit_config": "Item\\CCD_trieste_product.json"
+        },
+        {
+            "name": "debug", 
+            "type_mode": "debug",
+            "ambit_config": "Item\\CCD_trieste_debug.json"
+        }
+    ],
+    "dhcp": {
+        "flag": false,
+        "netIP": "172.168.0.251",
+        "mac_length": 17,
+        "lease_time": 600
+    },
+    "socket": {
+        "flag": true,
+        "clients": {
+            "store": {
+                "host": "localhost",
+                "port": 5000
+            },
+            "camera": {
+                "host": "localhost",
+                "port": 60026
+            }
+        }
+    }
+}

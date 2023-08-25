@@ -1,0 +1,31 @@
+﻿{
+    "station_type": "CCD",
+    "time_out_test": 70,
+    "init": [
+    ],
+    "functions": [
+        {
+            "flag": true,
+            "time_out": 15,
+            "debug_able": true,
+            "multi": false,
+            "always_run": true,
+            "host": "localhost",
+            "port": 60026,
+            "time": 10,
+            "object": ["e", "e", "r", "o"],
+            "LocalPrefix": ["D:/ImageLog/", "start_day"],
+            "LocalName": ["mlbsn", "sn", "pass", "mode"],
+            "LocalNameFail": ["mlbsn", "sn", "fail", "mode"],
+            "suffix": "jpg",
+            "test_name": "CheckObject",
+            "func_name": "CheckObjectProxy"
+        }
+    ],
+    "end": [
+       
+    ],
+    "final": [
+        
+    ]
+}

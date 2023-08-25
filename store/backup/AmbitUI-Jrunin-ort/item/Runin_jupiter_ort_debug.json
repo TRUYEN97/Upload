@@ -229,7 +229,7 @@
                     "func_name": "DutTelnetProxy"
                 },
                 {
-                    "flag": true,
+                    "flag": false,
                     "time_out": 3000,
                     "retry": 2,
                     "debug_able": true,

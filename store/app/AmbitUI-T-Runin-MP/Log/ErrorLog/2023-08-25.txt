@@ -1,8 +1,0 @@
-2023-08-25 08:31:01.772:   error in Model.DataSource.Tool.ReadFileSource : Setting\setting.json not exists
-2023-08-25 08:31:01.773:   //////////////////////////////////////
-2023-08-25 08:31:01.888:   Cannot invoke "Model.Interface.IInit.getClass()" because "source" is null
-2023-08-25 08:31:01.889:   //////////////////////////////////////
-2023-08-25 08:31:06.777:   error in Model.DataSource.Tool.ReadFileSource : Setting\setting.json not exists
-2023-08-25 08:31:06.779:   //////////////////////////////////////
-2023-08-25 08:31:06.887:   Cannot invoke "Model.Interface.IInit.getClass()" because "source" is null
-2023-08-25 08:31:06.887:   //////////////////////////////////////

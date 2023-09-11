@@ -1,0 +1,404 @@
+2023-09-11 00:42:54.215:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 00:42:54.242:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 00:42:54.288:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 00:42:54.311:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 00:42:54.334:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 00:42:54.358:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 00:42:54.381:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 00:42:54.405:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 00:42:54.429:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 00:42:54.450:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 00:42:55.055:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-11 00:42:55.287:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-11 00:42:55.532:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-11 00:42:55.751:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-11 00:42:55.969:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-11 00:42:56.188:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-11 00:42:56.404:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-11 00:42:56.620:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-11 00:42:56.839:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-11 00:42:57.059:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-11 01:41:23.599:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 01:41:23.627:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 01:41:23.644:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 01:41:23.663:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 01:41:23.679:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 01:41:23.697:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 01:41:23.717:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 01:41:23.735:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 01:41:23.753:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 01:41:23.769:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 01:52:48.444:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 01:52:48.461:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 01:52:48.477:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 01:52:48.477:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 01:52:48.504:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 01:52:48.517:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 01:52:48.532:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 01:52:48.548:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 01:52:48.563:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 01:52:48.579:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:22:39.379:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:22:39.402:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:22:39.413:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:22:39.424:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:22:39.435:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:22:39.447:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:22:39.476:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:22:39.491:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:22:39.505:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:22:39.518:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:22:40.124:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-11 02:22:40.369:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-11 02:22:40.613:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-11 02:22:40.834:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-11 02:22:41.056:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-11 02:22:41.289:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-11 02:22:41.506:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-11 02:22:41.727:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-11 02:22:41.946:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-11 02:22:42.168:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-11 02:24:10.761:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:24:10.849:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:24:10.951:   [Download] .\store\backup\StoreUpdate\AmbitAppStore-1.3.1-jar-with-dependencies.jar -> ok
+2023-09-11 02:24:11.198:   [BACKUP] .\store\backup\StoreUpdate\StoreUpdate.jar -> .\store\app\StoreUpdate\StoreUpdate.jar, ok
+2023-09-11 02:24:11.417:   [BACKUP] .\store\backup\StoreUpdate\AppStore.jar -> .\store\app\StoreUpdate\AppStore.jar, ok
+2023-09-11 02:24:11.636:   [BACKUP] .\store\backup\StoreUpdate\AmbitAppStore-1.3.1-jar-with-dependencies.jar -> .\store\app\StoreUpdate\AmbitAppStore-1.3.1-jar-with-dependencies.jar, ok
+2023-09-11 02:26:13.512:   [REMOVE] .\store\backup\StoreUpdate\AmbitAppStore-1.3.1-jar-with-dependencies.jar -> true
+2023-09-11 02:26:49.918:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:26:50.013:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:26:50.035:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:26:50.046:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:26:50.058:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:26:50.069:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:26:50.081:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:26:50.093:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:26:50.107:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:26:50.120:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:26:50.134:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:26:50.144:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:28:01.999:   [REMOVE] .\store\backup\StoreUpdate\AppStore.jar -> true
+2023-09-11 02:28:02.088:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:29:23.079:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:29:23.177:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:29:23.187:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:29:23.199:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:29:23.209:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:29:23.220:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:29:23.230:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:29:23.241:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:29:23.255:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:29:23.267:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:29:23.278:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:29:23.289:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:29:23.835:   [BACKUP] .\store\backup\StoreUpdate\AppStore.jar -> .\store\app\StoreUpdate\AppStore.jar, ok
+2023-09-11 02:46:13.797:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:46:13.889:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:46:13.902:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:46:13.916:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:46:13.928:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:46:13.940:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:46:13.953:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:46:13.965:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:46:13.981:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:46:13.995:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:46:14.011:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:46:14.022:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:46:24.246:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:46:24.342:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:46:24.353:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:46:24.367:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:46:24.379:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:46:24.391:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:46:24.403:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:46:24.416:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:46:24.432:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:46:24.446:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:46:24.460:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:46:24.472:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:46:34.735:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:46:34.822:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:46:34.833:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:46:34.845:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:46:34.857:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:46:34.868:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:46:34.879:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:46:34.891:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:46:34.905:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:46:34.918:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:46:34.932:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:46:34.943:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:46:45.155:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:46:45.250:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:46:45.261:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:46:45.274:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:46:45.285:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:46:45.297:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:46:45.308:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:46:45.320:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:46:45.335:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:46:45.349:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:46:45.362:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:46:45.373:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:46:55.570:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:46:55.656:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:46:55.668:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:46:55.680:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:46:55.691:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:46:55.702:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:46:55.712:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:46:55.725:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:46:55.739:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:46:55.753:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:46:55.765:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:46:55.777:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:49:08.832:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:49:08.918:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:49:08.928:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:49:08.939:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:49:08.950:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:49:08.961:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:49:08.971:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:49:08.983:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:49:08.998:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:49:09.010:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:49:09.023:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:49:09.034:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:49:59.620:   [Download] .\store\backup\AmbitUI-E-CCD\AUI-CCD.jar -> ok
+2023-09-11 02:49:59.632:   [Download] .\store\backup\AmbitUI-E-CCD\lib\FtpClient.jar -> ok
+2023-09-11 02:49:59.651:   [Download] .\store\backup\AmbitUI-E-CCD\lib\httpclient-4.5.13.jar -> ok
+2023-09-11 02:49:59.664:   [Download] .\store\backup\AmbitUI-E-CCD\lib\httpclient-cache-4.5.13.jar -> ok
+2023-09-11 02:49:59.686:   [Download] .\store\backup\AmbitUI-E-CCD\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-09-11 02:49:59.697:   [Download] .\store\backup\AmbitUI-E-CCD\lib\httpclient-win-4.5.13.jar -> ok
+2023-09-11 02:49:59.710:   [Download] .\store\backup\AmbitUI-E-CCD\lib\httpcore-4.4.13.jar -> ok
+2023-09-11 02:49:59.721:   [Download] .\store\backup\AmbitUI-E-CCD\lib\httpmime-4.5.13.jar -> ok
+2023-09-11 02:49:59.744:   [Download] .\store\backup\AmbitUI-E-CCD\lib\jna-4.5.2.jar -> ok
+2023-09-11 02:49:59.775:   [Download] .\store\backup\AmbitUI-E-CCD\lib\jna-platform-4.5.2.jar -> ok
+2023-09-11 02:49:59.794:   [Download] .\store\backup\AmbitUI-E-CCD\lib\jSerialComm-2.9.2.jar -> ok
+2023-09-11 02:49:59.806:   [Download] .\store\backup\AmbitUI-E-CCD\lib\CommandPrompt.jar -> ok
+2023-09-11 02:49:59.818:   [Download] .\store\backup\AmbitUI-E-CCD\lib\commons-codec-1.11.jar -> ok
+2023-09-11 02:49:59.830:   [Download] .\store\backup\AmbitUI-E-CCD\lib\commons-logging-1.2.jar -> ok
+2023-09-11 02:49:59.841:   [Download] .\store\backup\AmbitUI-E-CCD\lib\dhcp4java-1.00.jar -> ok
+2023-09-11 02:49:59.853:   [Download] .\store\backup\AmbitUI-E-CCD\lib\dom4j-1.6.1.jar -> ok
+2023-09-11 02:49:59.867:   [Download] .\store\backup\AmbitUI-E-CCD\lib\fastjson-1.2.9.jar -> ok
+2023-09-11 02:49:59.879:   [Download] .\store\backup\AmbitUI-E-CCD\lib\FileService.jar -> ok
+2023-09-11 02:49:59.889:   [Download] .\store\backup\AmbitUI-E-CCD\lib\fluent-hc-4.5.13.jar -> ok
+2023-09-11 02:49:59.899:   [Download] .\store\backup\AmbitUI-E-CCD\lib\MyLoger.jar -> ok
+2023-09-11 02:49:59.908:   [Download] .\store\backup\AmbitUI-E-CCD\lib\MySocket.jar -> ok
+2023-09-11 02:49:59.921:   [Download] .\store\backup\AmbitUI-E-CCD\lib\org.apache.commons.net.jar -> ok
+2023-09-11 02:49:59.931:   [Download] .\store\backup\AmbitUI-E-CCD\lib\SfisAPI17.jar -> ok
+2023-09-11 02:49:59.954:   [Download] .\store\backup\AmbitUI-E-CCD\lib\swingx-all-1.6.4.jar -> ok
+2023-09-11 02:49:59.965:   [Download] .\store\backup\AmbitUI-E-CCD\lib\Timer.jar -> ok
+2023-09-11 02:49:59.974:   [Download] .\store\backup\AmbitUI-E-CCD\init\ErrorCode.json -> ok
+2023-09-11 02:49:59.986:   [Download] .\store\backup\AmbitUI-E-CCD\Item\CCD_eden_debug.json -> ok
+2023-09-11 02:50:00.004:   [Download] .\store\backup\AmbitUI-E-CCD\Item\CCD_eden_product.json -> ok
+2023-09-11 02:50:00.015:   [Download] .\store\backup\AmbitUI-E-CCD\Setting\setting.json -> ok
+2023-09-11 02:50:00.024:   [Download] .\store\backup\Camera-CCD\camera-ccd.py -> ok
+2023-09-11 02:50:00.035:   [Download] .\store\backup\Camera-CCD\utils\google_app_engine\additional_requirements.txt -> ok
+2023-09-11 02:50:00.046:   [Download] .\store\backup\Camera-CCD\utils\google_app_engine\app.yaml -> ok
+2023-09-11 02:50:00.058:   [Download] .\store\backup\Camera-CCD\utils\google_app_engine\Dockerfile -> ok
+2023-09-11 02:50:00.068:   [Download] .\store\backup\Camera-CCD\utils\google_utils.py -> ok
+2023-09-11 02:50:00.078:   [Download] .\store\backup\Camera-CCD\frame_setup.py -> ok
+2023-09-11 02:50:00.090:   [Download] .\store\backup\Camera-CCD\utils\loss.py -> ok
+2023-09-11 02:50:00.101:   [Download] .\store\backup\Camera-CCD\image_widget.py -> ok
+2023-09-11 02:50:00.113:   [Download] .\store\backup\Camera-CCD\utils\metrics.py -> ok
+2023-09-11 02:50:00.123:   [Download] .\store\backup\Camera-CCD\interface.py -> ok
+2023-09-11 02:50:00.134:   [Download] .\store\backup\Camera-CCD\utils\plots.py -> ok
+2023-09-11 02:50:00.145:   [Download] .\store\backup\Camera-CCD\models\common.py -> ok
+2023-09-11 02:50:00.155:   [Download] .\store\backup\Camera-CCD\utils\torch_utils.py -> ok
+2023-09-11 02:50:00.166:   [Download] .\store\backup\Camera-CCD\models\experimental.py -> ok
+2023-09-11 02:50:00.177:   [Download] .\store\backup\Camera-CCD\utils\wandb_logging\log_dataset.py -> ok
+2023-09-11 02:50:00.187:   [Download] .\store\backup\Camera-CCD\models\yolo.py -> ok
+2023-09-11 02:50:00.198:   [Download] .\store\backup\Camera-CCD\utils\wandb_logging\wandb_utils.py -> ok
+2023-09-11 02:50:00.208:   [Download] .\store\backup\Camera-CCD\models\__init__.py -> ok
+2023-09-11 02:50:00.219:   [Download] .\store\backup\Camera-CCD\my_notebook.py -> ok
+2023-09-11 02:50:00.238:   [Download] .\store\backup\Camera-CCD\pyzbar\libiconv.dll -> ok
+2023-09-11 02:50:00.250:   [Download] .\store\backup\Camera-CCD\pyzbar\libzbar-64.dll -> ok
+2023-09-11 02:50:00.259:   [Download] .\store\backup\Camera-CCD\utils\wandb_logging\__init__.py -> ok
+2023-09-11 02:50:00.269:   [Download] .\store\backup\Camera-CCD\utils\__init__.py -> ok
+2023-09-11 02:50:00.281:   [Download] .\store\backup\Camera-CCD\view.py -> ok
+2023-09-11 02:50:00.921:   [Download] .\store\backup\Camera-CCD\yolo\best.pt -> ok
+2023-09-11 02:50:00.936:   [Download] .\store\backup\Camera-CCD\pyzbar\locations.py -> ok
+2023-09-11 02:50:00.948:   [Download] .\store\backup\Camera-CCD\pyzbar\pyzbar.py -> ok
+2023-09-11 02:50:00.960:   [Download] .\store\backup\Camera-CCD\pyzbar\pyzbar_error.py -> ok
+2023-09-11 02:50:00.972:   [Download] .\store\backup\Camera-CCD\pyzbar\scripts\read_zbar.py -> ok
+2023-09-11 02:50:00.983:   [Download] .\store\backup\Camera-CCD\pyzbar\scripts\__init__.py -> ok
+2023-09-11 02:50:00.995:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\code128.png -> ok
+2023-09-11 02:50:01.006:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\code128_null_character.png -> ok
+2023-09-11 02:50:01.017:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\empty.png -> ok
+2023-09-11 02:50:01.028:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\qrcode.png -> ok
+2023-09-11 02:50:01.040:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\qrcode_rotated.png -> ok
+2023-09-11 02:50:01.052:   [Download] .\store\backup\Camera-CCD\Event.py -> ok
+2023-09-11 02:50:01.064:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\test_locations.py -> ok
+2023-09-11 02:50:01.076:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\test_pyzbar.py -> ok
+2023-09-11 02:50:01.086:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\test_read_zbar.py -> ok
+2023-09-11 02:50:01.097:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\test_zbar_library.py -> ok
+2023-09-11 02:50:01.108:   [Download] .\store\backup\Camera-CCD\Scripts\activate -> ok
+2023-09-11 02:50:01.118:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\__init__.py -> ok
+2023-09-11 02:50:01.128:   [Download] .\store\backup\Camera-CCD\Scripts\activate.bat -> ok
+2023-09-11 02:50:01.139:   [Download] .\store\backup\Camera-CCD\pyzbar\wrapper.py -> ok
+2023-09-11 02:50:01.149:   [Download] .\store\backup\Camera-CCD\Scripts\activate.fish -> ok
+2023-09-11 02:50:01.159:   [Download] .\store\backup\Camera-CCD\pyzbar\zbar-LICENSE.txt -> ok
+2023-09-11 02:50:01.169:   [Download] .\store\backup\Camera-CCD\Scripts\activate.nu -> ok
+2023-09-11 02:50:01.180:   [Download] .\store\backup\Camera-CCD\pyzbar\zbar_library.py -> ok
+2023-09-11 02:50:01.191:   [Download] .\store\backup\Camera-CCD\Scripts\activate.ps1 -> ok
+2023-09-11 02:50:01.201:   [Download] .\store\backup\Camera-CCD\pyzbar\__init__.py -> ok
+2023-09-11 02:50:01.212:   [Download] .\store\backup\Camera-CCD\Scripts\activate_this.py -> ok
+2023-09-11 02:50:01.221:   [Download] .\store\backup\Camera-CCD\test.py -> ok
+2023-09-11 02:50:01.231:   [Download] .\store\backup\Camera-CCD\Scripts\deactivate.bat -> ok
+2023-09-11 02:50:01.241:   [Download] .\store\backup\Camera-CCD\Scripts\deactivate.nu -> ok
+2023-09-11 02:50:01.251:   [Download] .\store\backup\Camera-CCD\Scripts\pip-3.10.exe -> ok
+2023-09-11 02:50:01.262:   [Download] .\store\backup\Camera-CCD\Scripts\pip.exe -> ok
+2023-09-11 02:50:01.271:   [Download] .\store\backup\Camera-CCD\tool.py -> ok
+2023-09-11 02:50:01.280:   [Download] .\store\backup\Camera-CCD\utils\activations.py -> ok
+2023-09-11 02:50:01.291:   [Download] .\store\backup\Camera-CCD\utils\add_nms.py -> ok
+2023-09-11 02:50:01.302:   [Download] .\store\backup\Camera-CCD\utils\autoanchor.py -> ok
+2023-09-11 02:50:01.312:   [Download] .\store\backup\Camera-CCD\Scripts\pip3.10.exe -> ok
+2023-09-11 02:50:01.323:   [Download] .\store\backup\Camera-CCD\utils\aws\mime.sh -> ok
+2023-09-11 02:50:01.333:   [Download] .\store\backup\Camera-CCD\Scripts\pip3.exe -> ok
+2023-09-11 02:50:01.343:   [Download] .\store\backup\Camera-CCD\utils\aws\resume.py -> ok
+2023-09-11 02:50:01.352:   [Download] .\store\backup\Camera-CCD\Scripts\pydoc.bat -> ok
+2023-09-11 02:50:01.362:   [Download] .\store\backup\Camera-CCD\utils\aws\userdata.sh -> ok
+2023-09-11 02:50:01.374:   [Download] .\store\backup\Camera-CCD\Scripts\python.exe -> ok
+2023-09-11 02:50:01.384:   [Download] .\store\backup\Camera-CCD\utils\aws\__init__.py -> ok
+2023-09-11 02:50:01.395:   [Download] .\store\backup\Camera-CCD\Scripts\pythonw.exe -> ok
+2023-09-11 02:50:01.406:   [Download] .\store\backup\Camera-CCD\utils\datasets.py -> ok
+2023-09-11 02:50:01.416:   [Download] .\store\backup\Camera-CCD\Scripts\wheel-3.10.exe -> ok
+2023-09-11 02:50:01.426:   [Download] .\store\backup\Camera-CCD\utils\general.py -> ok
+2023-09-11 02:50:01.438:   [Download] .\store\backup\Camera-CCD\Scripts\wheel.exe -> ok
+2023-09-11 02:50:01.449:   [Download] .\store\backup\Camera-CCD\Scripts\wheel3.10.exe -> ok
+2023-09-11 02:50:01.460:   [Download] .\store\backup\Camera-CCD\lib_install.bat -> ok
+2023-09-11 02:50:01.471:   [Download] .\store\backup\Camera-CCD\Scripts\wheel3.exe -> ok
+2023-09-11 02:50:01.541:   [Download] .\store\backup\Camera-CCD\vcredist_x64.exe -> ok
+2023-09-11 02:50:01.554:   [Download] .\store\backup\Camera-CCD\Socket.py -> ok
+2023-09-11 02:50:01.564:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-11 02:50:01.575:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-11 02:50:01.586:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-11 02:50:01.597:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-11 02:50:01.609:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-11 02:50:01.635:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-11 02:50:01.651:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-11 02:50:01.689:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-11 02:50:01.701:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-11 02:50:01.712:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-11 02:50:01.794:   [Download] .\store\backup\StoreUpdate\StoreUpdate.jar -> ok
+2023-09-11 02:50:01.879:   [Download] .\store\backup\StoreUpdate\AppStore.jar -> ok
+2023-09-11 02:50:01.903:   [BACKUP] .\store\backup\AmbitUI-E-CCD\AUI-CCD.jar -> .\store\app\AmbitUI-E-CCD\AUI-CCD.jar, ok
+2023-09-11 02:50:01.915:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\FtpClient.jar -> .\store\app\AmbitUI-E-CCD\lib\FtpClient.jar, ok
+2023-09-11 02:50:01.925:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-E-CCD\lib\httpclient-4.5.13.jar, ok
+2023-09-11 02:50:01.934:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-E-CCD\lib\httpclient-cache-4.5.13.jar, ok
+2023-09-11 02:50:01.944:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-E-CCD\lib\httpclient-osgi-4.5.13.jar, ok
+2023-09-11 02:50:01.953:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-E-CCD\lib\httpclient-win-4.5.13.jar, ok
+2023-09-11 02:50:01.964:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-E-CCD\lib\httpcore-4.4.13.jar, ok
+2023-09-11 02:50:01.973:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\httpmime-4.5.13.jar -> .\store\app\AmbitUI-E-CCD\lib\httpmime-4.5.13.jar, ok
+2023-09-11 02:50:01.982:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\jna-4.5.2.jar -> .\store\app\AmbitUI-E-CCD\lib\jna-4.5.2.jar, ok
+2023-09-11 02:50:01.992:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\jna-platform-4.5.2.jar -> .\store\app\AmbitUI-E-CCD\lib\jna-platform-4.5.2.jar, ok
+2023-09-11 02:50:02.002:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\jSerialComm-2.9.2.jar -> .\store\app\AmbitUI-E-CCD\lib\jSerialComm-2.9.2.jar, ok
+2023-09-11 02:50:02.011:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\CommandPrompt.jar -> .\store\app\AmbitUI-E-CCD\lib\CommandPrompt.jar, ok
+2023-09-11 02:50:02.018:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\commons-codec-1.11.jar -> .\store\app\AmbitUI-E-CCD\lib\commons-codec-1.11.jar, ok
+2023-09-11 02:50:02.028:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\commons-logging-1.2.jar -> .\store\app\AmbitUI-E-CCD\lib\commons-logging-1.2.jar, ok
+2023-09-11 02:50:02.037:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\dhcp4java-1.00.jar -> .\store\app\AmbitUI-E-CCD\lib\dhcp4java-1.00.jar, ok
+2023-09-11 02:50:02.046:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\dom4j-1.6.1.jar -> .\store\app\AmbitUI-E-CCD\lib\dom4j-1.6.1.jar, ok
+2023-09-11 02:50:02.055:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\fastjson-1.2.9.jar -> .\store\app\AmbitUI-E-CCD\lib\fastjson-1.2.9.jar, ok
+2023-09-11 02:50:02.063:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\FileService.jar -> .\store\app\AmbitUI-E-CCD\lib\FileService.jar, ok
+2023-09-11 02:50:02.071:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\fluent-hc-4.5.13.jar -> .\store\app\AmbitUI-E-CCD\lib\fluent-hc-4.5.13.jar, ok
+2023-09-11 02:50:02.079:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\MyLoger.jar -> .\store\app\AmbitUI-E-CCD\lib\MyLoger.jar, ok
+2023-09-11 02:50:02.088:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\MySocket.jar -> .\store\app\AmbitUI-E-CCD\lib\MySocket.jar, ok
+2023-09-11 02:50:02.096:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\org.apache.commons.net.jar -> .\store\app\AmbitUI-E-CCD\lib\org.apache.commons.net.jar, ok
+2023-09-11 02:50:02.105:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\SfisAPI17.jar -> .\store\app\AmbitUI-E-CCD\lib\SfisAPI17.jar, ok
+2023-09-11 02:50:02.115:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\swingx-all-1.6.4.jar -> .\store\app\AmbitUI-E-CCD\lib\swingx-all-1.6.4.jar, ok
+2023-09-11 02:50:02.125:   [BACKUP] .\store\backup\AmbitUI-E-CCD\lib\Timer.jar -> .\store\app\AmbitUI-E-CCD\lib\Timer.jar, ok
+2023-09-11 02:50:02.135:   [BACKUP] .\store\backup\AmbitUI-E-CCD\init\ErrorCode.json -> .\store\app\AmbitUI-E-CCD\init\ErrorCode.json, ok
+2023-09-11 02:50:02.145:   [BACKUP] .\store\backup\AmbitUI-E-CCD\Item\CCD_eden_debug.json -> .\store\app\AmbitUI-E-CCD\Item\CCD_eden_debug.json, ok
+2023-09-11 02:50:02.155:   [BACKUP] .\store\backup\AmbitUI-E-CCD\Item\CCD_eden_product.json -> .\store\app\AmbitUI-E-CCD\Item\CCD_eden_product.json, ok
+2023-09-11 02:50:02.166:   [BACKUP] .\store\backup\AmbitUI-E-CCD\Setting\setting.json -> .\store\app\AmbitUI-E-CCD\Setting\setting.json, ok
+2023-09-11 02:50:02.403:   [BACKUP] .\store\backup\Camera-CCD\camera-ccd.py -> .\store\app\Camera-CCD\camera-ccd.py, ok
+2023-09-11 02:50:02.624:   [BACKUP] .\store\backup\Camera-CCD\utils\google_app_engine\additional_requirements.txt -> .\store\app\Camera-CCD\utils\google_app_engine\additional_requirements.txt, ok
+2023-09-11 02:50:02.842:   [BACKUP] .\store\backup\Camera-CCD\utils\google_app_engine\app.yaml -> .\store\app\Camera-CCD\utils\google_app_engine\app.yaml, ok
+2023-09-11 02:50:03.059:   [BACKUP] .\store\backup\Camera-CCD\utils\google_app_engine\Dockerfile -> .\store\app\Camera-CCD\utils\google_app_engine\Dockerfile, ok
+2023-09-11 02:50:03.275:   [BACKUP] .\store\backup\Camera-CCD\utils\google_utils.py -> .\store\app\Camera-CCD\utils\google_utils.py, ok
+2023-09-11 02:50:03.495:   [BACKUP] .\store\backup\Camera-CCD\frame_setup.py -> .\store\app\Camera-CCD\frame_setup.py, ok
+2023-09-11 02:50:03.715:   [BACKUP] .\store\backup\Camera-CCD\utils\loss.py -> .\store\app\Camera-CCD\utils\loss.py, ok
+2023-09-11 02:50:03.933:   [BACKUP] .\store\backup\Camera-CCD\image_widget.py -> .\store\app\Camera-CCD\image_widget.py, ok
+2023-09-11 02:50:04.153:   [BACKUP] .\store\backup\Camera-CCD\utils\metrics.py -> .\store\app\Camera-CCD\utils\metrics.py, ok
+2023-09-11 02:50:04.371:   [BACKUP] .\store\backup\Camera-CCD\interface.py -> .\store\app\Camera-CCD\interface.py, ok
+2023-09-11 02:50:04.588:   [BACKUP] .\store\backup\Camera-CCD\utils\plots.py -> .\store\app\Camera-CCD\utils\plots.py, ok
+2023-09-11 02:50:04.805:   [BACKUP] .\store\backup\Camera-CCD\models\common.py -> .\store\app\Camera-CCD\models\common.py, ok
+2023-09-11 02:50:05.022:   [BACKUP] .\store\backup\Camera-CCD\utils\torch_utils.py -> .\store\app\Camera-CCD\utils\torch_utils.py, ok
+2023-09-11 02:50:05.244:   [BACKUP] .\store\backup\Camera-CCD\models\experimental.py -> .\store\app\Camera-CCD\models\experimental.py, ok
+2023-09-11 02:50:05.473:   [BACKUP] .\store\backup\Camera-CCD\utils\wandb_logging\log_dataset.py -> .\store\app\Camera-CCD\utils\wandb_logging\log_dataset.py, ok
+2023-09-11 02:50:05.691:   [BACKUP] .\store\backup\Camera-CCD\models\yolo.py -> .\store\app\Camera-CCD\models\yolo.py, ok
+2023-09-11 02:50:05.911:   [BACKUP] .\store\backup\Camera-CCD\utils\wandb_logging\wandb_utils.py -> .\store\app\Camera-CCD\utils\wandb_logging\wandb_utils.py, ok
+2023-09-11 02:50:06.129:   [BACKUP] .\store\backup\Camera-CCD\models\__init__.py -> .\store\app\Camera-CCD\models\__init__.py, ok
+2023-09-11 02:50:06.346:   [BACKUP] .\store\backup\Camera-CCD\my_notebook.py -> .\store\app\Camera-CCD\my_notebook.py, ok
+2023-09-11 02:50:06.563:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\libiconv.dll -> .\store\app\Camera-CCD\pyzbar\libiconv.dll, ok
+2023-09-11 02:50:06.781:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\libzbar-64.dll -> .\store\app\Camera-CCD\pyzbar\libzbar-64.dll, ok
+2023-09-11 02:50:06.999:   [BACKUP] .\store\backup\Camera-CCD\utils\wandb_logging\__init__.py -> .\store\app\Camera-CCD\utils\wandb_logging\__init__.py, ok
+2023-09-11 02:50:07.246:   [BACKUP] .\store\backup\Camera-CCD\utils\__init__.py -> .\store\app\Camera-CCD\utils\__init__.py, ok
+2023-09-11 02:50:07.467:   [BACKUP] .\store\backup\Camera-CCD\view.py -> .\store\app\Camera-CCD\view.py, ok
+2023-09-11 02:50:07.707:   [BACKUP] .\store\backup\Camera-CCD\yolo\best.pt -> .\store\app\Camera-CCD\yolo\best.pt, ok
+2023-09-11 02:50:07.933:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\locations.py -> .\store\app\Camera-CCD\pyzbar\locations.py, ok
+2023-09-11 02:50:08.151:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\pyzbar.py -> .\store\app\Camera-CCD\pyzbar\pyzbar.py, ok
+2023-09-11 02:50:08.368:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\pyzbar_error.py -> .\store\app\Camera-CCD\pyzbar\pyzbar_error.py, ok
+2023-09-11 02:50:08.585:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\scripts\read_zbar.py -> .\store\app\Camera-CCD\pyzbar\scripts\read_zbar.py, ok
+2023-09-11 02:50:08.803:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\scripts\__init__.py -> .\store\app\Camera-CCD\pyzbar\scripts\__init__.py, ok
+2023-09-11 02:50:09.023:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\code128.png -> .\store\app\Camera-CCD\pyzbar\tests\code128.png, ok
+2023-09-11 02:50:09.239:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\code128_null_character.png -> .\store\app\Camera-CCD\pyzbar\tests\code128_null_character.png, ok
+2023-09-11 02:50:09.456:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\empty.png -> .\store\app\Camera-CCD\pyzbar\tests\empty.png, ok
+2023-09-11 02:50:09.679:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\qrcode.png -> .\store\app\Camera-CCD\pyzbar\tests\qrcode.png, ok
+2023-09-11 02:50:09.896:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\qrcode_rotated.png -> .\store\app\Camera-CCD\pyzbar\tests\qrcode_rotated.png, ok
+2023-09-11 02:50:10.115:   [BACKUP] .\store\backup\Camera-CCD\Event.py -> .\store\app\Camera-CCD\Event.py, ok
+2023-09-11 02:50:10.336:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\test_locations.py -> .\store\app\Camera-CCD\pyzbar\tests\test_locations.py, ok
+2023-09-11 02:50:10.565:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\test_pyzbar.py -> .\store\app\Camera-CCD\pyzbar\tests\test_pyzbar.py, ok
+2023-09-11 02:50:10.783:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\test_read_zbar.py -> .\store\app\Camera-CCD\pyzbar\tests\test_read_zbar.py, ok
+2023-09-11 02:50:11.002:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\test_zbar_library.py -> .\store\app\Camera-CCD\pyzbar\tests\test_zbar_library.py, ok
+2023-09-11 02:50:11.222:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate -> .\store\app\Camera-CCD\Scripts\activate, ok
+2023-09-11 02:50:11.438:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\__init__.py -> .\store\app\Camera-CCD\pyzbar\tests\__init__.py, ok
+2023-09-11 02:50:11.655:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate.bat -> .\store\app\Camera-CCD\Scripts\activate.bat, ok
+2023-09-11 02:50:11.873:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\wrapper.py -> .\store\app\Camera-CCD\pyzbar\wrapper.py, ok
+2023-09-11 02:50:12.095:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate.fish -> .\store\app\Camera-CCD\Scripts\activate.fish, ok
+2023-09-11 02:50:12.308:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\zbar-LICENSE.txt -> .\store\app\Camera-CCD\pyzbar\zbar-LICENSE.txt, ok
+2023-09-11 02:50:12.523:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate.nu -> .\store\app\Camera-CCD\Scripts\activate.nu, ok
+2023-09-11 02:50:12.752:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\zbar_library.py -> .\store\app\Camera-CCD\pyzbar\zbar_library.py, ok
+2023-09-11 02:50:12.969:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate.ps1 -> .\store\app\Camera-CCD\Scripts\activate.ps1, ok
+2023-09-11 02:50:13.189:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\__init__.py -> .\store\app\Camera-CCD\pyzbar\__init__.py, ok
+2023-09-11 02:50:13.408:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate_this.py -> .\store\app\Camera-CCD\Scripts\activate_this.py, ok
+2023-09-11 02:50:13.629:   [BACKUP] .\store\backup\Camera-CCD\test.py -> .\store\app\Camera-CCD\test.py, ok
+2023-09-11 02:50:13.853:   [BACKUP] .\store\backup\Camera-CCD\Scripts\deactivate.bat -> .\store\app\Camera-CCD\Scripts\deactivate.bat, ok
+2023-09-11 02:50:14.069:   [BACKUP] .\store\backup\Camera-CCD\Scripts\deactivate.nu -> .\store\app\Camera-CCD\Scripts\deactivate.nu, ok
+2023-09-11 02:50:14.286:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pip-3.10.exe -> .\store\app\Camera-CCD\Scripts\pip-3.10.exe, ok
+2023-09-11 02:50:14.508:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pip.exe -> .\store\app\Camera-CCD\Scripts\pip.exe, ok
+2023-09-11 02:50:14.726:   [BACKUP] .\store\backup\Camera-CCD\tool.py -> .\store\app\Camera-CCD\tool.py, ok
+2023-09-11 02:50:14.946:   [BACKUP] .\store\backup\Camera-CCD\utils\activations.py -> .\store\app\Camera-CCD\utils\activations.py, ok
+2023-09-11 02:50:15.165:   [BACKUP] .\store\backup\Camera-CCD\utils\add_nms.py -> .\store\app\Camera-CCD\utils\add_nms.py, ok
+2023-09-11 02:50:15.380:   [BACKUP] .\store\backup\Camera-CCD\utils\autoanchor.py -> .\store\app\Camera-CCD\utils\autoanchor.py, ok
+2023-09-11 02:50:15.597:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pip3.10.exe -> .\store\app\Camera-CCD\Scripts\pip3.10.exe, ok
+2023-09-11 02:50:15.812:   [BACKUP] .\store\backup\Camera-CCD\utils\aws\mime.sh -> .\store\app\Camera-CCD\utils\aws\mime.sh, ok
+2023-09-11 02:50:16.029:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pip3.exe -> .\store\app\Camera-CCD\Scripts\pip3.exe, ok
+2023-09-11 02:50:16.246:   [BACKUP] .\store\backup\Camera-CCD\utils\aws\resume.py -> .\store\app\Camera-CCD\utils\aws\resume.py, ok
+2023-09-11 02:50:16.464:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pydoc.bat -> .\store\app\Camera-CCD\Scripts\pydoc.bat, ok
+2023-09-11 02:50:16.683:   [BACKUP] .\store\backup\Camera-CCD\utils\aws\userdata.sh -> .\store\app\Camera-CCD\utils\aws\userdata.sh, ok
+2023-09-11 02:50:16.901:   [BACKUP] .\store\backup\Camera-CCD\Scripts\python.exe -> .\store\app\Camera-CCD\Scripts\python.exe, ok
+2023-09-11 02:50:17.117:   [BACKUP] .\store\backup\Camera-CCD\utils\aws\__init__.py -> .\store\app\Camera-CCD\utils\aws\__init__.py, ok
+2023-09-11 02:50:17.335:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pythonw.exe -> .\store\app\Camera-CCD\Scripts\pythonw.exe, ok
+2023-09-11 02:50:17.554:   [BACKUP] .\store\backup\Camera-CCD\utils\datasets.py -> .\store\app\Camera-CCD\utils\datasets.py, ok
+2023-09-11 02:50:17.772:   [BACKUP] .\store\backup\Camera-CCD\Scripts\wheel-3.10.exe -> .\store\app\Camera-CCD\Scripts\wheel-3.10.exe, ok
+2023-09-11 02:50:17.988:   [BACKUP] .\store\backup\Camera-CCD\utils\general.py -> .\store\app\Camera-CCD\utils\general.py, ok
+2023-09-11 02:50:18.206:   [BACKUP] .\store\backup\Camera-CCD\Scripts\wheel.exe -> .\store\app\Camera-CCD\Scripts\wheel.exe, ok
+2023-09-11 02:50:18.425:   [BACKUP] .\store\backup\Camera-CCD\Scripts\wheel3.10.exe -> .\store\app\Camera-CCD\Scripts\wheel3.10.exe, ok
+2023-09-11 02:50:18.641:   [BACKUP] .\store\backup\Camera-CCD\lib_install.bat -> .\store\app\Camera-CCD\lib_install.bat, ok
+2023-09-11 02:50:18.859:   [BACKUP] .\store\backup\Camera-CCD\Scripts\wheel3.exe -> .\store\app\Camera-CCD\Scripts\wheel3.exe, ok
+2023-09-11 02:50:19.082:   [BACKUP] .\store\backup\Camera-CCD\vcredist_x64.exe -> .\store\app\Camera-CCD\vcredist_x64.exe, ok
+2023-09-11 02:50:19.297:   [BACKUP] .\store\backup\Camera-CCD\Socket.py -> .\store\app\Camera-CCD\Socket.py, ok
+2023-09-11 02:50:19.529:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-11 02:50:19.746:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-11 02:50:19.967:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-11 02:50:20.184:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-11 02:50:20.401:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-11 02:50:20.620:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-11 02:50:20.839:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-11 02:50:21.056:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-11 02:50:21.275:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-11 02:50:21.490:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-11 02:50:21.727:   [BACKUP] .\store\backup\StoreUpdate\StoreUpdate.jar -> .\store\app\StoreUpdate\StoreUpdate.jar, ok
+2023-09-11 02:50:21.944:   [BACKUP] .\store\backup\StoreUpdate\AppStore.jar -> .\store\app\StoreUpdate\AppStore.jar, ok

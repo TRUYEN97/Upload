@@ -1,0 +1,241 @@
+2023-09-08 09:43:38.234:   [Download] .\store\backup\Camera-CCD\camera-ccd.py -> ok
+2023-09-08 09:43:38.250:   [Download] .\store\backup\Camera-CCD\utils\google_app_engine\additional_requirements.txt -> ok
+2023-09-08 09:43:38.265:   [Download] .\store\backup\Camera-CCD\utils\google_app_engine\app.yaml -> ok
+2023-09-08 09:43:38.312:   [Download] .\store\backup\Camera-CCD\utils\google_app_engine\Dockerfile -> ok
+2023-09-08 09:43:38.329:   [Download] .\store\backup\Camera-CCD\utils\google_utils.py -> ok
+2023-09-08 09:43:38.345:   [Download] .\store\backup\Camera-CCD\frame_setup.py -> ok
+2023-09-08 09:43:38.360:   [Download] .\store\backup\Camera-CCD\utils\loss.py -> ok
+2023-09-08 09:43:38.374:   [Download] .\store\backup\Camera-CCD\image_widget.py -> ok
+2023-09-08 09:43:38.390:   [Download] .\store\backup\Camera-CCD\utils\metrics.py -> ok
+2023-09-08 09:43:38.406:   [Download] .\store\backup\Camera-CCD\interface.py -> ok
+2023-09-08 09:43:38.422:   [Download] .\store\backup\Camera-CCD\utils\plots.py -> ok
+2023-09-08 09:43:38.441:   [Download] .\store\backup\Camera-CCD\models\common.py -> ok
+2023-09-08 09:43:38.455:   [Download] .\store\backup\Camera-CCD\utils\torch_utils.py -> ok
+2023-09-08 09:43:38.472:   [Download] .\store\backup\Camera-CCD\models\experimental.py -> ok
+2023-09-08 09:43:38.489:   [Download] .\store\backup\Camera-CCD\utils\wandb_logging\log_dataset.py -> ok
+2023-09-08 09:43:38.505:   [Download] .\store\backup\Camera-CCD\models\yolo.py -> ok
+2023-09-08 09:43:38.521:   [Download] .\store\backup\Camera-CCD\utils\wandb_logging\wandb_utils.py -> ok
+2023-09-08 09:43:38.535:   [Download] .\store\backup\Camera-CCD\models\__init__.py -> ok
+2023-09-08 09:43:38.552:   [Download] .\store\backup\Camera-CCD\my_notebook.py -> ok
+2023-09-08 09:43:38.576:   [Download] .\store\backup\Camera-CCD\pyzbar\libiconv.dll -> ok
+2023-09-08 09:43:38.593:   [Download] .\store\backup\Camera-CCD\pyzbar\libzbar-64.dll -> ok
+2023-09-08 09:43:38.609:   [Download] .\store\backup\Camera-CCD\utils\wandb_logging\__init__.py -> ok
+2023-09-08 09:43:38.624:   [Download] .\store\backup\Camera-CCD\utils\__init__.py -> ok
+2023-09-08 09:43:38.639:   [Download] .\store\backup\Camera-CCD\view.py -> ok
+2023-09-08 09:43:39.283:   [Download] .\store\backup\Camera-CCD\yolo\best.pt -> ok
+2023-09-08 09:43:39.296:   [Download] .\store\backup\Camera-CCD\pyzbar\locations.py -> ok
+2023-09-08 09:43:39.307:   [Download] .\store\backup\Camera-CCD\pyzbar\pyzbar.py -> ok
+2023-09-08 09:43:39.320:   [Download] .\store\backup\Camera-CCD\pyzbar\pyzbar_error.py -> ok
+2023-09-08 09:43:39.331:   [Download] .\store\backup\Camera-CCD\pyzbar\scripts\read_zbar.py -> ok
+2023-09-08 09:43:39.343:   [Download] .\store\backup\Camera-CCD\pyzbar\scripts\__init__.py -> ok
+2023-09-08 09:43:39.355:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\code128.png -> ok
+2023-09-08 09:43:39.367:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\code128_null_character.png -> ok
+2023-09-08 09:43:39.378:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\empty.png -> ok
+2023-09-08 09:43:39.393:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\qrcode.png -> ok
+2023-09-08 09:43:39.405:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\qrcode_rotated.png -> ok
+2023-09-08 09:43:39.419:   [Download] .\store\backup\Camera-CCD\Event.py -> ok
+2023-09-08 09:43:39.434:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\test_locations.py -> ok
+2023-09-08 09:43:39.450:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\test_pyzbar.py -> ok
+2023-09-08 09:43:39.465:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\test_read_zbar.py -> ok
+2023-09-08 09:43:39.480:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\test_zbar_library.py -> ok
+2023-09-08 09:43:39.494:   [Download] .\store\backup\Camera-CCD\Scripts\activate -> ok
+2023-09-08 09:43:39.508:   [Download] .\store\backup\Camera-CCD\pyzbar\tests\__init__.py -> ok
+2023-09-08 09:43:39.524:   [Download] .\store\backup\Camera-CCD\Scripts\activate.bat -> ok
+2023-09-08 09:43:39.540:   [Download] .\store\backup\Camera-CCD\pyzbar\wrapper.py -> ok
+2023-09-08 09:43:39.554:   [Download] .\store\backup\Camera-CCD\Scripts\activate.fish -> ok
+2023-09-08 09:43:39.571:   [Download] .\store\backup\Camera-CCD\pyzbar\zbar-LICENSE.txt -> ok
+2023-09-08 09:43:39.586:   [Download] .\store\backup\Camera-CCD\Scripts\activate.nu -> ok
+2023-09-08 09:43:39.601:   [Download] .\store\backup\Camera-CCD\pyzbar\zbar_library.py -> ok
+2023-09-08 09:43:39.614:   [Download] .\store\backup\Camera-CCD\Scripts\activate.ps1 -> ok
+2023-09-08 09:43:39.627:   [Download] .\store\backup\Camera-CCD\pyzbar\__init__.py -> ok
+2023-09-08 09:43:39.641:   [Download] .\store\backup\Camera-CCD\Scripts\activate_this.py -> ok
+2023-09-08 09:43:39.653:   [Download] .\store\backup\Camera-CCD\test.py -> ok
+2023-09-08 09:43:39.817:   [Download] .\store\backup\Camera-CCD\Scripts\deactivate.bat -> ok
+2023-09-08 09:43:39.833:   [Download] .\store\backup\Camera-CCD\Scripts\deactivate.nu -> ok
+2023-09-08 09:43:39.848:   [Download] .\store\backup\Camera-CCD\Scripts\pip-3.10.exe -> ok
+2023-09-08 09:43:39.864:   [Download] .\store\backup\Camera-CCD\Scripts\pip.exe -> ok
+2023-09-08 09:43:39.880:   [Download] .\store\backup\Camera-CCD\tool.py -> ok
+2023-09-08 09:43:39.895:   [Download] .\store\backup\Camera-CCD\utils\activations.py -> ok
+2023-09-08 09:43:39.910:   [Download] .\store\backup\Camera-CCD\utils\add_nms.py -> ok
+2023-09-08 09:43:39.924:   [Download] .\store\backup\Camera-CCD\utils\autoanchor.py -> ok
+2023-09-08 09:43:39.942:   [Download] .\store\backup\Camera-CCD\Scripts\pip3.10.exe -> ok
+2023-09-08 09:43:39.955:   [Download] .\store\backup\Camera-CCD\utils\aws\mime.sh -> ok
+2023-09-08 09:43:39.965:   [Download] .\store\backup\Camera-CCD\Scripts\pip3.exe -> ok
+2023-09-08 09:43:39.976:   [Download] .\store\backup\Camera-CCD\utils\aws\resume.py -> ok
+2023-09-08 09:43:39.987:   [Download] .\store\backup\Camera-CCD\Scripts\pydoc.bat -> ok
+2023-09-08 09:43:39.996:   [Download] .\store\backup\Camera-CCD\utils\aws\userdata.sh -> ok
+2023-09-08 09:43:40.010:   [Download] .\store\backup\Camera-CCD\Scripts\python.exe -> ok
+2023-09-08 09:43:40.022:   [Download] .\store\backup\Camera-CCD\utils\aws\__init__.py -> ok
+2023-09-08 09:43:40.037:   [Download] .\store\backup\Camera-CCD\Scripts\pythonw.exe -> ok
+2023-09-08 09:43:40.053:   [Download] .\store\backup\Camera-CCD\utils\datasets.py -> ok
+2023-09-08 09:43:40.071:   [Download] .\store\backup\Camera-CCD\Scripts\wheel-3.10.exe -> ok
+2023-09-08 09:43:40.087:   [Download] .\store\backup\Camera-CCD\utils\general.py -> ok
+2023-09-08 09:43:40.102:   [Download] .\store\backup\Camera-CCD\Scripts\wheel.exe -> ok
+2023-09-08 09:43:40.119:   [Download] .\store\backup\Camera-CCD\Scripts\wheel3.10.exe -> ok
+2023-09-08 09:43:40.134:   [Download] .\store\backup\Camera-CCD\lib_install.bat -> ok
+2023-09-08 09:43:40.150:   [Download] .\store\backup\Camera-CCD\Scripts\wheel3.exe -> ok
+2023-09-08 09:43:40.228:   [Download] .\store\backup\Camera-CCD\vcredist_x64.exe -> ok
+2023-09-08 09:43:40.243:   [Download] .\store\backup\Camera-CCD\Socket.py -> ok
+2023-09-08 09:43:40.252:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-08 09:43:40.265:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-08 09:43:40.280:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-08 09:43:40.293:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-08 09:43:40.307:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-08 09:43:40.322:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-08 09:43:40.341:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-08 09:43:40.356:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-08 09:43:40.373:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-08 09:43:40.389:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-08 09:43:40.408:   [Download] .\store\backup\AmbitUI-T-CCD\AUI-CCD.jar -> ok
+2023-09-08 09:43:40.424:   [Download] .\store\backup\AmbitUI-T-CCD\lib\FtpClient.jar -> ok
+2023-09-08 09:43:40.446:   [Download] .\store\backup\AmbitUI-T-CCD\lib\httpclient-4.5.13.jar -> ok
+2023-09-08 09:43:40.479:   [Download] .\store\backup\AmbitUI-T-CCD\lib\httpclient-cache-4.5.13.jar -> ok
+2023-09-08 09:43:40.505:   [Download] .\store\backup\AmbitUI-T-CCD\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-09-08 09:43:40.518:   [Download] .\store\backup\AmbitUI-T-CCD\lib\httpclient-win-4.5.13.jar -> ok
+2023-09-08 09:43:40.533:   [Download] .\store\backup\AmbitUI-T-CCD\lib\httpcore-4.4.13.jar -> ok
+2023-09-08 09:43:40.546:   [Download] .\store\backup\AmbitUI-T-CCD\lib\httpmime-4.5.13.jar -> ok
+2023-09-08 09:43:40.573:   [Download] .\store\backup\AmbitUI-T-CCD\lib\jna-4.5.2.jar -> ok
+2023-09-08 09:43:40.608:   [Download] .\store\backup\AmbitUI-T-CCD\lib\jna-platform-4.5.2.jar -> ok
+2023-09-08 09:43:40.630:   [Download] .\store\backup\AmbitUI-T-CCD\lib\jSerialComm-2.9.2.jar -> ok
+2023-09-08 09:43:40.644:   [Download] .\store\backup\AmbitUI-T-CCD\init\ErrorCode.json -> ok
+2023-09-08 09:43:40.658:   [Download] .\store\backup\AmbitUI-T-CCD\lib\CommandPrompt.jar -> ok
+2023-09-08 09:43:40.674:   [Download] .\store\backup\AmbitUI-T-CCD\lib\commons-codec-1.11.jar -> ok
+2023-09-08 09:43:40.686:   [Download] .\store\backup\AmbitUI-T-CCD\lib\commons-logging-1.2.jar -> ok
+2023-09-08 09:43:40.700:   [Download] .\store\backup\AmbitUI-T-CCD\lib\dhcp4java-1.00.jar -> ok
+2023-09-08 09:43:40.717:   [Download] .\store\backup\AmbitUI-T-CCD\lib\dom4j-1.6.1.jar -> ok
+2023-09-08 09:43:40.735:   [Download] .\store\backup\AmbitUI-T-CCD\lib\fastjson-1.2.9.jar -> ok
+2023-09-08 09:43:40.751:   [Download] .\store\backup\AmbitUI-T-CCD\lib\FileService.jar -> ok
+2023-09-08 09:43:40.764:   [Download] .\store\backup\AmbitUI-T-CCD\lib\fluent-hc-4.5.13.jar -> ok
+2023-09-08 09:43:40.779:   [Download] .\store\backup\AmbitUI-T-CCD\lib\MyLoger.jar -> ok
+2023-09-08 09:43:40.795:   [Download] .\store\backup\AmbitUI-T-CCD\lib\MySocket.jar -> ok
+2023-09-08 09:43:40.812:   [Download] .\store\backup\AmbitUI-T-CCD\lib\org.apache.commons.net.jar -> ok
+2023-09-08 09:43:40.826:   [Download] .\store\backup\AmbitUI-T-CCD\lib\SfisAPI17.jar -> ok
+2023-09-08 09:43:40.854:   [Download] .\store\backup\AmbitUI-T-CCD\lib\swingx-all-1.6.4.jar -> ok
+2023-09-08 09:43:40.868:   [Download] .\store\backup\AmbitUI-T-CCD\lib\Timer.jar -> ok
+2023-09-08 09:43:40.882:   [Download] .\store\backup\AmbitUI-T-CCD\Item\CCD_trieste_debug.json -> ok
+2023-09-08 09:43:40.894:   [Download] .\store\backup\AmbitUI-T-CCD\Item\CCD_trieste_product.json -> ok
+2023-09-08 09:43:40.907:   [Download] .\store\backup\AmbitUI-T-CCD\Setting\setting.json -> ok
+2023-09-08 09:43:40.924:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\AUI-CCD.jar -> ok
+2023-09-08 09:43:40.938:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\FtpClient.jar -> ok
+2023-09-08 09:43:40.955:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\httpclient-4.5.13.jar -> ok
+2023-09-08 09:43:40.970:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\httpclient-cache-4.5.13.jar -> ok
+2023-09-08 09:43:40.995:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\httpclient-osgi-4.5.13.jar -> ok
+2023-09-08 09:43:41.009:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\httpclient-win-4.5.13.jar -> ok
+2023-09-08 09:43:41.039:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\httpcore-4.4.13.jar -> ok
+2023-09-08 09:43:41.053:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\httpmime-4.5.13.jar -> ok
+2023-09-08 09:43:41.082:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\jna-4.5.2.jar -> ok
+2023-09-08 09:43:41.117:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\jna-platform-4.5.2.jar -> ok
+2023-09-08 09:43:41.136:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\jSerialComm-2.9.2.jar -> ok
+2023-09-08 09:43:41.146:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\Item\CCD_trieste_debug.json -> ok
+2023-09-08 09:43:41.157:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\Item\CCD_trieste_product.json -> ok
+2023-09-08 09:43:41.167:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\Setting\setting.json -> ok
+2023-09-08 09:43:41.178:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\init\ErrorCode.json -> ok
+2023-09-08 09:43:41.189:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\CommandPrompt.jar -> ok
+2023-09-08 09:43:41.203:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\commons-codec-1.11.jar -> ok
+2023-09-08 09:43:41.218:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\commons-logging-1.2.jar -> ok
+2023-09-08 09:43:41.231:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\dhcp4java-1.00.jar -> ok
+2023-09-08 09:43:41.247:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\dom4j-1.6.1.jar -> ok
+2023-09-08 09:43:41.262:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\fastjson-1.2.9.jar -> ok
+2023-09-08 09:43:41.273:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\FileService.jar -> ok
+2023-09-08 09:43:41.283:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\fluent-hc-4.5.13.jar -> ok
+2023-09-08 09:43:41.293:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\MyLoger.jar -> ok
+2023-09-08 09:43:41.304:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\MySocket.jar -> ok
+2023-09-08 09:43:41.317:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\org.apache.commons.net.jar -> ok
+2023-09-08 09:43:41.329:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\SfisAPI17.jar -> ok
+2023-09-08 09:43:41.355:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\swingx-all-1.6.4.jar -> ok
+2023-09-08 09:43:41.370:   [Download] .\store\backup\AmbitUI-CCD-MP-100.15\lib\Timer.jar -> ok
+2023-09-08 09:43:41.972:   [BACKUP] .\store\backup\Camera-CCD\camera-ccd.py -> .\store\app\Camera-CCD\camera-ccd.py, ok
+2023-09-08 09:43:42.376:   [BACKUP] .\store\backup\Camera-CCD\utils\google_app_engine\additional_requirements.txt -> .\store\app\Camera-CCD\utils\google_app_engine\additional_requirements.txt, ok
+2023-09-08 09:43:42.795:   [BACKUP] .\store\backup\Camera-CCD\utils\google_app_engine\app.yaml -> .\store\app\Camera-CCD\utils\google_app_engine\app.yaml, ok
+2023-09-08 09:43:43.198:   [BACKUP] .\store\backup\Camera-CCD\utils\google_app_engine\Dockerfile -> .\store\app\Camera-CCD\utils\google_app_engine\Dockerfile, ok
+2023-09-08 09:43:43.659:   [BACKUP] .\store\backup\Camera-CCD\utils\google_utils.py -> .\store\app\Camera-CCD\utils\google_utils.py, ok
+2023-09-08 09:43:44.065:   [BACKUP] .\store\backup\Camera-CCD\frame_setup.py -> .\store\app\Camera-CCD\frame_setup.py, ok
+2023-09-08 09:43:44.491:   [BACKUP] .\store\backup\Camera-CCD\utils\loss.py -> .\store\app\Camera-CCD\utils\loss.py, ok
+2023-09-08 09:43:44.907:   [BACKUP] .\store\backup\Camera-CCD\image_widget.py -> .\store\app\Camera-CCD\image_widget.py, ok
+2023-09-08 09:43:45.332:   [BACKUP] .\store\backup\Camera-CCD\utils\metrics.py -> .\store\app\Camera-CCD\utils\metrics.py, ok
+2023-09-08 09:43:45.752:   [BACKUP] .\store\backup\Camera-CCD\interface.py -> .\store\app\Camera-CCD\interface.py, ok
+2023-09-08 09:43:46.173:   [BACKUP] .\store\backup\Camera-CCD\utils\plots.py -> .\store\app\Camera-CCD\utils\plots.py, ok
+2023-09-08 09:43:46.584:   [BACKUP] .\store\backup\Camera-CCD\models\common.py -> .\store\app\Camera-CCD\models\common.py, ok
+2023-09-08 09:43:47.028:   [BACKUP] .\store\backup\Camera-CCD\utils\torch_utils.py -> .\store\app\Camera-CCD\utils\torch_utils.py, ok
+2023-09-08 09:43:47.435:   [BACKUP] .\store\backup\Camera-CCD\models\experimental.py -> .\store\app\Camera-CCD\models\experimental.py, ok
+2023-09-08 09:43:47.861:   [BACKUP] .\store\backup\Camera-CCD\utils\wandb_logging\log_dataset.py -> .\store\app\Camera-CCD\utils\wandb_logging\log_dataset.py, ok
+2023-09-08 09:43:48.272:   [BACKUP] .\store\backup\Camera-CCD\models\yolo.py -> .\store\app\Camera-CCD\models\yolo.py, ok
+2023-09-08 09:43:48.698:   [BACKUP] .\store\backup\Camera-CCD\utils\wandb_logging\wandb_utils.py -> .\store\app\Camera-CCD\utils\wandb_logging\wandb_utils.py, ok
+2023-09-08 09:43:49.109:   [BACKUP] .\store\backup\Camera-CCD\models\__init__.py -> .\store\app\Camera-CCD\models\__init__.py, ok
+2023-09-08 09:43:49.598:   [BACKUP] .\store\backup\Camera-CCD\my_notebook.py -> .\store\app\Camera-CCD\my_notebook.py, ok
+2023-09-08 09:43:50.007:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\libiconv.dll -> .\store\app\Camera-CCD\pyzbar\libiconv.dll, ok
+2023-09-08 09:43:50.435:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\libzbar-64.dll -> .\store\app\Camera-CCD\pyzbar\libzbar-64.dll, ok
+2023-09-08 09:43:50.855:   [BACKUP] .\store\backup\Camera-CCD\utils\wandb_logging\__init__.py -> .\store\app\Camera-CCD\utils\wandb_logging\__init__.py, ok
+2023-09-08 09:43:51.290:   [BACKUP] .\store\backup\Camera-CCD\utils\__init__.py -> .\store\app\Camera-CCD\utils\__init__.py, ok
+2023-09-08 09:43:51.701:   [BACKUP] .\store\backup\Camera-CCD\view.py -> .\store\app\Camera-CCD\view.py, ok
+2023-09-08 09:43:52.137:   [BACKUP] .\store\backup\Camera-CCD\yolo\best.pt -> .\store\app\Camera-CCD\yolo\best.pt, ok
+2023-09-08 09:43:52.575:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\locations.py -> .\store\app\Camera-CCD\pyzbar\locations.py, ok
+2023-09-08 09:43:52.992:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\pyzbar.py -> .\store\app\Camera-CCD\pyzbar\pyzbar.py, ok
+2023-09-08 09:43:53.403:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\pyzbar_error.py -> .\store\app\Camera-CCD\pyzbar\pyzbar_error.py, ok
+2023-09-08 09:43:53.850:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\scripts\read_zbar.py -> .\store\app\Camera-CCD\pyzbar\scripts\read_zbar.py, ok
+2023-09-08 09:43:54.329:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\scripts\__init__.py -> .\store\app\Camera-CCD\pyzbar\scripts\__init__.py, ok
+2023-09-08 09:43:54.778:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\code128.png -> .\store\app\Camera-CCD\pyzbar\tests\code128.png, ok
+2023-09-08 09:43:55.222:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\code128_null_character.png -> .\store\app\Camera-CCD\pyzbar\tests\code128_null_character.png, ok
+2023-09-08 09:43:55.683:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\empty.png -> .\store\app\Camera-CCD\pyzbar\tests\empty.png, ok
+2023-09-08 09:43:56.099:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\qrcode.png -> .\store\app\Camera-CCD\pyzbar\tests\qrcode.png, ok
+2023-09-08 09:43:56.557:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\qrcode_rotated.png -> .\store\app\Camera-CCD\pyzbar\tests\qrcode_rotated.png, ok
+2023-09-08 09:43:56.964:   [BACKUP] .\store\backup\Camera-CCD\Event.py -> .\store\app\Camera-CCD\Event.py, ok
+2023-09-08 09:43:57.372:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\test_locations.py -> .\store\app\Camera-CCD\pyzbar\tests\test_locations.py, ok
+2023-09-08 09:43:57.784:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\test_pyzbar.py -> .\store\app\Camera-CCD\pyzbar\tests\test_pyzbar.py, ok
+2023-09-08 09:43:58.194:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\test_read_zbar.py -> .\store\app\Camera-CCD\pyzbar\tests\test_read_zbar.py, ok
+2023-09-08 09:43:58.604:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\test_zbar_library.py -> .\store\app\Camera-CCD\pyzbar\tests\test_zbar_library.py, ok
+2023-09-08 09:43:59.019:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate -> .\store\app\Camera-CCD\Scripts\activate, ok
+2023-09-08 09:43:59.434:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\tests\__init__.py -> .\store\app\Camera-CCD\pyzbar\tests\__init__.py, ok
+2023-09-08 09:43:59.871:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate.bat -> .\store\app\Camera-CCD\Scripts\activate.bat, ok
+2023-09-08 09:44:00.300:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\wrapper.py -> .\store\app\Camera-CCD\pyzbar\wrapper.py, ok
+2023-09-08 09:44:00.714:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate.fish -> .\store\app\Camera-CCD\Scripts\activate.fish, ok
+2023-09-08 09:44:01.140:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\zbar-LICENSE.txt -> .\store\app\Camera-CCD\pyzbar\zbar-LICENSE.txt, ok
+2023-09-08 09:44:01.593:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate.nu -> .\store\app\Camera-CCD\Scripts\activate.nu, ok
+2023-09-08 09:44:01.994:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\zbar_library.py -> .\store\app\Camera-CCD\pyzbar\zbar_library.py, ok
+2023-09-08 09:44:02.405:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate.ps1 -> .\store\app\Camera-CCD\Scripts\activate.ps1, ok
+2023-09-08 09:44:02.815:   [BACKUP] .\store\backup\Camera-CCD\pyzbar\__init__.py -> .\store\app\Camera-CCD\pyzbar\__init__.py, ok
+2023-09-08 09:44:03.233:   [BACKUP] .\store\backup\Camera-CCD\Scripts\activate_this.py -> .\store\app\Camera-CCD\Scripts\activate_this.py, ok
+2023-09-08 09:44:03.659:   [BACKUP] .\store\backup\Camera-CCD\test.py -> .\store\app\Camera-CCD\test.py, ok
+2023-09-08 09:44:04.083:   [BACKUP] .\store\backup\Camera-CCD\Scripts\deactivate.bat -> .\store\app\Camera-CCD\Scripts\deactivate.bat, ok
+2023-09-08 09:44:04.493:   [BACKUP] .\store\backup\Camera-CCD\Scripts\deactivate.nu -> .\store\app\Camera-CCD\Scripts\deactivate.nu, ok
+2023-09-08 09:44:04.904:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pip-3.10.exe -> .\store\app\Camera-CCD\Scripts\pip-3.10.exe, ok
+2023-09-08 09:44:05.322:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pip.exe -> .\store\app\Camera-CCD\Scripts\pip.exe, ok
+2023-09-08 09:44:05.734:   [BACKUP] .\store\backup\Camera-CCD\tool.py -> .\store\app\Camera-CCD\tool.py, ok
+2023-09-08 09:44:06.141:   [BACKUP] .\store\backup\Camera-CCD\utils\activations.py -> .\store\app\Camera-CCD\utils\activations.py, ok
+2023-09-08 09:44:06.602:   [BACKUP] .\store\backup\Camera-CCD\utils\add_nms.py -> .\store\app\Camera-CCD\utils\add_nms.py, ok
+2023-09-08 09:44:07.012:   [BACKUP] .\store\backup\Camera-CCD\utils\autoanchor.py -> .\store\app\Camera-CCD\utils\autoanchor.py, ok
+2023-09-08 09:44:07.419:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pip3.10.exe -> .\store\app\Camera-CCD\Scripts\pip3.10.exe, ok
+2023-09-08 09:44:07.849:   [BACKUP] .\store\backup\Camera-CCD\utils\aws\mime.sh -> .\store\app\Camera-CCD\utils\aws\mime.sh, ok
+2023-09-08 09:44:08.258:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pip3.exe -> .\store\app\Camera-CCD\Scripts\pip3.exe, ok
+2023-09-08 09:44:08.668:   [BACKUP] .\store\backup\Camera-CCD\utils\aws\resume.py -> .\store\app\Camera-CCD\utils\aws\resume.py, ok
+2023-09-08 09:44:09.081:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pydoc.bat -> .\store\app\Camera-CCD\Scripts\pydoc.bat, ok
+2023-09-08 09:44:09.487:   [BACKUP] .\store\backup\Camera-CCD\utils\aws\userdata.sh -> .\store\app\Camera-CCD\utils\aws\userdata.sh, ok
+2023-09-08 09:44:09.902:   [BACKUP] .\store\backup\Camera-CCD\Scripts\python.exe -> .\store\app\Camera-CCD\Scripts\python.exe, ok
+2023-09-08 09:44:10.315:   [BACKUP] .\store\backup\Camera-CCD\utils\aws\__init__.py -> .\store\app\Camera-CCD\utils\aws\__init__.py, ok
+2023-09-08 09:44:10.726:   [BACKUP] .\store\backup\Camera-CCD\Scripts\pythonw.exe -> .\store\app\Camera-CCD\Scripts\pythonw.exe, ok
+2023-09-08 09:44:11.142:   [BACKUP] .\store\backup\Camera-CCD\utils\datasets.py -> .\store\app\Camera-CCD\utils\datasets.py, ok
+2023-09-08 09:44:11.551:   [BACKUP] .\store\backup\Camera-CCD\Scripts\wheel-3.10.exe -> .\store\app\Camera-CCD\Scripts\wheel-3.10.exe, ok
+2023-09-08 09:44:11.956:   [BACKUP] .\store\backup\Camera-CCD\utils\general.py -> .\store\app\Camera-CCD\utils\general.py, ok
+2023-09-08 09:44:12.367:   [BACKUP] .\store\backup\Camera-CCD\Scripts\wheel.exe -> .\store\app\Camera-CCD\Scripts\wheel.exe, ok
+2023-09-08 09:44:12.779:   [BACKUP] .\store\backup\Camera-CCD\Scripts\wheel3.10.exe -> .\store\app\Camera-CCD\Scripts\wheel3.10.exe, ok
+2023-09-08 09:44:13.188:   [BACKUP] .\store\backup\Camera-CCD\lib_install.bat -> .\store\app\Camera-CCD\lib_install.bat, ok
+2023-09-08 09:44:13.665:   [BACKUP] .\store\backup\Camera-CCD\Scripts\wheel3.exe -> .\store\app\Camera-CCD\Scripts\wheel3.exe, ok
+2023-09-08 09:44:14.271:   [BACKUP] .\store\backup\Camera-CCD\vcredist_x64.exe -> .\store\app\Camera-CCD\vcredist_x64.exe, ok
+2023-09-08 09:44:14.690:   [BACKUP] .\store\backup\Camera-CCD\Socket.py -> .\store\app\Camera-CCD\Socket.py, ok
+2023-09-08 09:44:15.206:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-08 09:44:15.712:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-08 09:44:16.192:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-08 09:44:16.704:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-08 09:44:17.160:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-08 09:44:17.685:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-08 09:44:18.604:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-08 09:44:19.054:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-08 09:44:19.469:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-08 09:44:19.897:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-08 09:44:20.236:   [BACKUP] .\store\backup\AmbitUI-T-CCD\AUI-CCD.jar -> .\store\app\AmbitUI-T-CCD\AUI-CCD.jar, ok
+2023-09-08 09:44:20.568:   [BACKUP] .\store\backup\AmbitUI-T-CCD\lib\FtpClient.jar -> .\store\app\AmbitUI-T-CCD\lib\FtpClient.jar, ok
+2023-09-08 09:44:20.874:   [BACKUP] .\store\backup\AmbitUI-T-CCD\lib\httpclient-4.5.13.jar -> .\store\app\AmbitUI-T-CCD\lib\httpclient-4.5.13.jar, ok
+2023-09-08 09:44:21.345:   [BACKUP] .\store\backup\AmbitUI-T-CCD\lib\httpclient-cache-4.5.13.jar -> .\store\app\AmbitUI-T-CCD\lib\httpclient-cache-4.5.13.jar, ok
+2023-09-08 09:44:21.683:   [BACKUP] .\store\backup\AmbitUI-T-CCD\lib\httpclient-osgi-4.5.13.jar -> .\store\app\AmbitUI-T-CCD\lib\httpclient-osgi-4.5.13.jar, ok
+2023-09-08 09:44:22.029:   [BACKUP] .\store\backup\AmbitUI-T-CCD\lib\httpclient-win-4.5.13.jar -> .\store\app\AmbitUI-T-CCD\lib\httpclient-win-4.5.13.jar, ok
+2023-09-08 09:44:22.326:   [BACKUP] .\store\backup\AmbitUI-T-CCD\lib\httpcore-4.4.13.jar -> .\store\app\AmbitUI-T-CCD\lib\httpcore-4.4.13.jar, ok

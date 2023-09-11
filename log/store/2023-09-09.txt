@@ -1,0 +1,259 @@
+2023-09-09 06:57:28.599:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-09 06:57:28.619:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-09 06:57:28.638:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-09 06:57:28.658:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-09 06:57:28.676:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-09 06:57:28.695:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-09 06:57:28.715:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-09 06:57:28.732:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-09 06:57:28.752:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-09 06:57:28.764:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-09 06:57:29.147:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 06:57:29.383:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 06:57:29.613:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 06:57:29.830:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 06:57:30.089:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 06:57:30.315:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 06:57:30.532:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 06:57:30.749:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 06:57:30.966:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 06:57:31.184:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:13:47.830:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-09 10:13:47.870:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-09 10:13:47.894:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-09 10:13:47.918:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-09 10:13:47.943:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-09 10:13:47.965:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-09 10:13:47.986:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-09 10:13:48.011:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-09 10:13:48.034:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-09 10:13:48.058:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-09 10:13:48.522:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:13:48.755:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:13:48.984:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:13:49.202:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:13:49.420:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:13:49.638:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:13:49.856:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:13:50.075:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:13:50.290:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:13:50.506:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:13:51.769:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:13:51.998:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:13:52.217:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:13:52.436:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:13:52.656:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:13:52.870:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:13:53.088:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:13:53.306:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:13:53.524:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:13:53.743:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:13:54.975:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:13:55.193:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:13:55.411:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:13:55.628:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:13:55.850:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:13:56.066:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:13:56.282:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:13:56.502:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:13:56.719:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:13:56.937:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:13:58.165:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:13:58.378:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:13:58.591:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:13:58.804:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:13:59.021:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:13:59.242:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:13:59.457:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:13:59.674:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:13:59.892:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:00.110:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:00.311:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-09 10:14:00.353:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-09 10:14:00.392:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-09 10:14:00.436:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-09 10:14:00.473:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-09 10:14:00.515:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-09 10:14:00.548:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-09 10:14:00.589:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-09 10:14:00.625:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-09 10:14:00.650:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-09 10:14:01.338:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:01.555:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:01.773:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:01.993:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:02.216:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:02.440:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:02.657:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:02.876:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:03.096:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:03.315:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:04.540:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:04.757:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:04.975:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:05.191:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:05.406:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:05.625:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:05.843:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:06.063:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:06.280:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:06.497:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:07.724:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:07.942:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:08.161:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:08.378:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:08.597:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:08.814:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:09.031:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:09.248:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:09.466:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:09.682:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:10.815:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-09 10:14:10.836:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-09 10:14:10.858:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-09 10:14:10.879:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-09 10:14:10.912:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-09 10:14:10.933:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-09 10:14:10.955:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-09 10:14:10.977:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-09 10:14:10.998:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-09 10:14:11.018:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-09 10:14:11.246:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:11.464:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:11.686:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:11.903:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:12.124:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:12.341:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:12.558:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:12.776:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:12.993:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:13.212:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:21.181:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> ok
+2023-09-09 10:14:21.203:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> ok
+2023-09-09 10:14:21.225:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> ok
+2023-09-09 10:14:21.250:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> ok
+2023-09-09 10:14:21.272:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> ok
+2023-09-09 10:14:21.295:   [Download] .\store\backup\CPU-temp\Temperature.ini -> ok
+2023-09-09 10:14:21.315:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> ok
+2023-09-09 10:14:21.338:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> ok
+2023-09-09 10:14:21.361:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> ok
+2023-09-09 10:14:21.384:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> ok
+2023-09-09 10:14:21.665:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:21.884:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:22.101:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:22.321:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:22.538:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:22.757:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:22.973:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:23.190:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:23.410:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:23.624:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:24.854:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:25.071:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:25.286:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:25.504:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:25.719:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:25.936:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:26.152:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:26.369:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:26.591:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:26.808:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:28.045:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:28.264:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:28.482:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:28.700:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:28.920:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:29.140:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:29.358:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:29.580:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:29.796:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:30.014:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:31.254:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:31.469:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:31.685:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:31.902:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:32.122:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:32.341:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:32.559:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:32.776:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:32.992:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:33.210:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:33.295:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> failed
+2023-09-09 10:14:33.297:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> failed
+2023-09-09 10:14:33.298:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> failed
+2023-09-09 10:14:33.300:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> failed
+2023-09-09 10:14:33.301:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> failed
+2023-09-09 10:14:33.302:   [Download] .\store\backup\CPU-temp\Temperature.ini -> failed
+2023-09-09 10:14:33.303:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> failed
+2023-09-09 10:14:33.304:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> failed
+2023-09-09 10:14:33.306:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> failed
+2023-09-09 10:14:33.307:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> failed
+2023-09-09 10:14:37.339:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:37.557:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:37.777:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:37.996:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:38.213:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:38.428:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:38.644:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:38.861:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:39.079:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:39.301:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:40.532:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:40.752:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:40.970:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:41.187:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:41.407:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:41.626:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:41.846:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:42.068:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:42.288:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:42.515:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:43.411:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> failed
+2023-09-09 10:14:43.413:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> failed
+2023-09-09 10:14:43.415:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> failed
+2023-09-09 10:14:43.417:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> failed
+2023-09-09 10:14:43.419:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> failed
+2023-09-09 10:14:43.420:   [Download] .\store\backup\CPU-temp\Temperature.ini -> failed
+2023-09-09 10:14:43.422:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> failed
+2023-09-09 10:14:43.423:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> failed
+2023-09-09 10:14:43.424:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> failed
+2023-09-09 10:14:43.426:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> failed
+2023-09-09 10:14:53.515:   [Download] .\store\backup\CPU-temp\CPU_Temperature.exe -> failed
+2023-09-09 10:14:53.517:   [Download] .\store\backup\CPU-temp\Aga.Controls.dll -> failed
+2023-09-09 10:14:53.518:   [Download] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> failed
+2023-09-09 10:14:53.519:   [Download] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> failed
+2023-09-09 10:14:53.520:   [Download] .\store\backup\CPU-temp\SimpleTCP.dll -> failed
+2023-09-09 10:14:53.521:   [Download] .\store\backup\CPU-temp\Temperature.ini -> failed
+2023-09-09 10:14:53.523:   [Download] .\store\backup\CPU-temp\openhardwaremonitor.exe -> failed
+2023-09-09 10:14:53.524:   [Download] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> failed
+2023-09-09 10:14:53.526:   [Download] .\store\backup\CPU-temp\oxyplot.dll -> failed
+2023-09-09 10:14:53.527:   [Download] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> failed
+2023-09-09 10:14:53.856:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:54.072:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:54.292:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:54.508:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:54.727:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:54.946:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:55.162:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:55.381:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:55.598:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:55.815:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:14:57.042:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:14:57.260:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:14:57.477:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:14:57.695:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:14:57.913:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:14:58.130:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:14:58.348:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:14:58.567:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:14:58.783:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok
+2023-09-09 10:14:59.002:   [BACKUP] .\store\backup\CPU-temp\oxyplot.windowsforms.dll -> .\store\app\CPU-temp\oxyplot.windowsforms.dll, ok
+2023-09-09 10:15:00.239:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature.exe -> .\store\app\CPU-temp\CPU_Temperature.exe, ok
+2023-09-09 10:15:00.456:   [BACKUP] .\store\backup\CPU-temp\Aga.Controls.dll -> .\store\app\CPU-temp\Aga.Controls.dll, ok
+2023-09-09 10:15:00.673:   [BACKUP] .\store\backup\CPU-temp\CPU_Temperature_Shortcut.lnk -> .\store\app\CPU-temp\CPU_Temperature_Shortcut.lnk, ok
+2023-09-09 10:15:00.890:   [BACKUP] .\store\backup\CPU-temp\Interop.NetFwTypeLib.dll -> .\store\app\CPU-temp\Interop.NetFwTypeLib.dll, ok
+2023-09-09 10:15:01.110:   [BACKUP] .\store\backup\CPU-temp\SimpleTCP.dll -> .\store\app\CPU-temp\SimpleTCP.dll, ok
+2023-09-09 10:15:01.329:   [BACKUP] .\store\backup\CPU-temp\Temperature.ini -> .\store\app\CPU-temp\Temperature.ini, ok
+2023-09-09 10:15:01.545:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitor.exe -> .\store\app\CPU-temp\openhardwaremonitor.exe, ok
+2023-09-09 10:15:01.762:   [BACKUP] .\store\backup\CPU-temp\openhardwaremonitorlib.dll -> .\store\app\CPU-temp\openhardwaremonitorlib.dll, ok
+2023-09-09 10:15:01.984:   [BACKUP] .\store\backup\CPU-temp\oxyplot.dll -> .\store\app\CPU-temp\oxyplot.dll, ok

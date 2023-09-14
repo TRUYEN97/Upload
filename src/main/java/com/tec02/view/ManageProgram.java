@@ -5,11 +5,11 @@
 package com.tec02.view;
 
 import com.tec02.common.JOptionUtil;
-import com.tec02.common.API.JsonBodyAPI;
+import com.tec02.API.JsonBodyAPI;
 import com.tec02.common.Keyword;
-import com.tec02.common.API.RequestParam;
-import com.tec02.common.API.RestUtil;
-import com.tec02.common.API.APIController;
+import com.tec02.API.RequestParam;
+import com.tec02.common.RestUtil;
+import com.tec02.API.APIController;
 import com.tec02.gui.frameGui.AbsDisplayAble;
 import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.TableAndLocation;

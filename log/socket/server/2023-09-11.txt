@@ -64,3 +64,7 @@
 2023-09-11 02:52:14.733:   [ERROR] Connection reset
 2023-09-11 02:52:14.734:   [Server] AmbitUI-E-CCD disconnected! - ip: /127.0.0.1:5000
 2023-09-11 02:58:56.166:   [Server] Listen on port: 5000
+2023-09-11 03:19:44.477:   [Server] Listen on port: 5000
+2023-09-11 04:16:38.400:   [Server] Listen on port: 5000
+2023-09-11 06:11:05.706:   [Server] Listen on port: 5000
+2023-09-11 06:32:04.487:   [Server] Listen on port: 5000

@@ -8,8 +8,8 @@ import com.tec02.API.JsonBodyAPI;
 import com.tec02.common.Keyword;
 import com.tec02.API.RequestParam;
 import com.tec02.API.APIController;
+import com.tec02.Jmodel.Component.PopupMenu;
 import com.tec02.gui.frameGui.AbsDisplayAble;
-import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.TableAndLocation;
 import com.tec02.common.PropertiesModel;
 import java.util.List;
@@ -36,6 +36,7 @@ public class ManagePc extends AbsDisplayAble {
         this.tableAndLocation.setUrlGet(PropertiesModel.getConfig(Keyword.Url.Pc.GET));
         this.tableAndLocation.setUrlPut(PropertiesModel.getConfig(Keyword.Url.Pc.PUT));
         this.tableAndLocation.setUrlDelete(PropertiesModel.getConfig(Keyword.Url.Pc.DELETE));
+        this.tableAndLocation.addColoumn(List.of(Keyword.ID,"ip", "mac", "os", Keyword.NAME));
         PopupMenu selectedMenu = this.tableAndLocation.getSelectedMenu();
         selectedMenu.addItemMenu("Delete", (e) -> {
             this.tableAndLocation.deleteSeleled();

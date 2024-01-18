@@ -10,12 +10,13 @@ import com.tec02.common.Keyword;
 import com.tec02.API.RequestParam;
 import com.tec02.common.RestUtil;
 import com.tec02.API.APIController;
+import com.tec02.Jmodel.Component.PopupMenu;
 import com.tec02.gui.frameGui.AbsDisplayAble;
-import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.TableAndLocation;
 import com.tec02.common.PropertiesModel;
 import com.tec02.gui.panelGui.ProgramEditPanel;
 import java.awt.HeadlessException;
+import java.util.List;
 
 /**
  *
@@ -44,6 +45,8 @@ public class ManageProgram extends AbsDisplayAble {
         this.tableAndLocation.setUrlAdd(PropertiesModel.getConfig(Keyword.Url.Program.POST));
         this.tableAndLocation.setUrlGet(PropertiesModel.getConfig(Keyword.Url.Program.GET_LIST));
         this.tableAndLocation.setUrlDelete(PropertiesModel.getConfig(Keyword.Url.Program.DELETE));
+        this.tableAndLocation.addColoumn(List.of(Keyword.ID, Keyword.NAME,Keyword.ENABLE, 
+                Keyword.DESCRIPTION, Keyword.ALWAYS_RUN, Keyword.ALWAYS_UPDATE, Keyword.PASSWORD));
         this.tableAndLocation.setDoubleClickAction((input) -> {
             viewProgram();
         });

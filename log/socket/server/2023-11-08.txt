@@ -1,0 +1,21 @@
+2023-11-08 06:11:43.081:   [Server] Listen on port: 5000
+2023-11-08 06:15:05.614:   [Server] Client-0 connected! - ip: /127.0.0.1:5000
+2023-11-08 06:15:05.615:   [Server -> Client-0] name
+2023-11-08 06:15:05.638:   [Server -> Client-0] welcome AmbitUI
+2023-11-08 06:16:14.701:   [ERROR] Connection reset
+2023-11-08 06:16:14.702:   [Server] AmbitUI disconnected! - ip: /127.0.0.1:5000
+2023-11-08 06:16:45.407:   [Server] Client-1 connected! - ip: /127.0.0.1:5000
+2023-11-08 06:16:45.408:   [Server -> Client-1] name
+2023-11-08 06:16:45.414:   [Server -> Client-1] welcome AmbitUI
+2023-11-08 06:21:16.740:   [ERROR] Connection reset
+2023-11-08 06:21:16.741:   [Server] AmbitUI disconnected! - ip: /127.0.0.1:5000
+2023-11-08 06:22:02.168:   [Server] Client-2 connected! - ip: /127.0.0.1:5000
+2023-11-08 06:22:02.169:   [Server -> Client-2] name
+2023-11-08 06:22:02.175:   [Server -> Client-2] welcome AmbitUI
+2023-11-08 06:22:07.900:   [ERROR] Connection reset
+2023-11-08 06:22:07.900:   [Server] AmbitUI disconnected! - ip: /127.0.0.1:5000
+2023-11-08 06:24:25.086:   [Server] Client-3 connected! - ip: /127.0.0.1:5000
+2023-11-08 06:24:25.087:   [Server -> Client-3] name
+2023-11-08 06:24:25.095:   [Server -> Client-3] welcome AmbitUI
+2023-11-08 06:28:08.996:   [ERROR] Connection reset
+2023-11-08 06:28:08.996:   [Server] AmbitUI disconnected! - ip: /127.0.0.1:5000

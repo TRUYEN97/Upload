@@ -8,11 +8,12 @@ import com.tec02.common.JOptionUtil;
 import com.tec02.API.JsonBodyAPI;
 import com.tec02.common.Keyword;
 import com.tec02.API.APIController;
+import com.tec02.Jmodel.Component.PopupMenu;
 import com.tec02.gui.frameGui.AbsDisplayAble;
-import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.FileUpdatePanel;
 import com.tec02.gui.panelGui.TableAndLocation;
 import com.tec02.common.PropertiesModel;
+import java.util.List;
 
 /**
  *
@@ -35,6 +36,7 @@ public class ManageFgroup extends AbsDisplayAble {
         this.tableAndLocation.setUrlAdd(PropertiesModel.getConfig(Keyword.Url.Fgroup.POST));
         this.tableAndLocation.setUrlGet(PropertiesModel.getConfig(Keyword.Url.Fgroup.GET_LIST));
         this.tableAndLocation.setUrlDelete(PropertiesModel.getConfig(Keyword.Url.Fgroup.DELETE));
+        this.tableAndLocation.addColoumn(List.of(Keyword.ID, Keyword.NAME,Keyword.DESCRIPTION ));
         this.tableAndLocation.setDoubleClickAction((input) -> {
             showFileGroup();
         });

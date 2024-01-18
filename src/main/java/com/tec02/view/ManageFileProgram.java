@@ -7,11 +7,12 @@ package com.tec02.view;
 import com.tec02.common.JOptionUtil;
 import com.tec02.common.Keyword;
 import com.tec02.API.APIController;
+import com.tec02.Jmodel.Component.PopupMenu;
 import com.tec02.gui.frameGui.AbsDisplayAble;
-import com.tec02.gui.frameGui.Component.PopupMenu;
 import com.tec02.gui.panelGui.TableAndLocation;
 import com.tec02.common.PropertiesModel;
 import com.tec02.gui.panelGui.UploadFileProgramPanel;
+import java.util.List;
 
 /**
  *
@@ -34,6 +35,7 @@ public class ManageFileProgram extends AbsDisplayAble {
         this.tableAndLocation.setUrlAdd(PropertiesModel.getConfig(Keyword.Url.FileProgram.POST));
         this.tableAndLocation.setUrlGet(PropertiesModel.getConfig(Keyword.Url.FileProgram.GET_LIST));
         this.tableAndLocation.setUrlDelete(PropertiesModel.getConfig(Keyword.Url.FileProgram.DELETE));
+        this.tableAndLocation.addColoumn(List.of(Keyword.ID, Keyword.NAME,Keyword.DESCRIPTION ));
         this.tableAndLocation.setDoubleClickAction((input) -> {
             showFileProgram();
         });

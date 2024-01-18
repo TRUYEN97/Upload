@@ -6,10 +6,13 @@ package com.tec02.view;
 
 import com.tec02.common.Keyword;
 import com.tec02.API.APIController;
+import com.tec02.Jmodel.Component.MyListTabel;
 import com.tec02.gui.frameGui.ConfigGui;
-import com.tec02.appStore.AppStore;
 import com.tec02.common.PropertiesModel;
 import com.tec02.gui.frameGui.AbsDisplayAble;
+import com.tec02.gui.panelGui.UserInfomation;
+import java.awt.HeadlessException;
+
 /**
  *
  * @author Administrator
@@ -17,12 +20,13 @@ import com.tec02.gui.frameGui.AbsDisplayAble;
 public class Gui extends AbsDisplayAble {
 
     private final ManagePc managePc;
-    private final AppStore appStore;
     private final APIController api;
     private final ConfigGui configGui;
     private final ManageFgroup manageFgroup;
     private final ManageFileProgram manageFileProgram;
     private final ManageProgram manageProgram;
+    private final MyListTabel<Runnable> listTabel;
+    private final UserInfomation userInfomation;
 
     /**
      * Creates new form Gui
@@ -31,17 +35,93 @@ public class Gui extends AbsDisplayAble {
      */
     public Gui() throws Exception {
         initComponents();
-        this.api = APIController.getInstance(); 
-        this.appStore = new AppStore(api, this);
-        this.appStore.run();
-        this.pnStore.add(this.appStore);
-        this.appStore.update();
+        this.api = APIController.getInstance();
         this.configGui = new ConfigGui(api);
         this.managePc = new ManagePc();
         this.manageFgroup = new ManageFgroup();
         this.manageFileProgram = new ManageFileProgram();
+        this.userInfomation = new UserInfomation(api);
+        this.pnUser.add(this.userInfomation);
         this.manageProgram = new ManageProgram();
-       
+        this.listTabel = new MyListTabel(jList1);
+        this.listTabel.addItem(new Runnable() {
+            @Override
+            public void run() {
+                managerProduct();
+            }
+
+            @Override
+            public String toString() {
+                return "Manager Product";
+            }
+        });
+        this.listTabel.addItem(new Runnable() {
+            @Override
+            public void run() {
+                managerStation();
+            }
+
+            @Override
+            public String toString() {
+                return "Manager Station";
+            }
+        });
+        this.listTabel.addItem(new Runnable() {
+            @Override
+            public void run() {
+                managerLine();
+            }
+
+            @Override
+            public String toString() {
+                return "Manager Line";
+            }
+        });
+        this.listTabel.addItem(new Runnable() {
+            @Override
+            public void run() {
+                managePc.display();
+            }
+
+            @Override
+            public String toString() {
+                return "Manager PC";
+            }
+        });
+        this.listTabel.addItem(new Runnable() {
+            @Override
+            public void run() {
+                manageFgroup.display();
+            }
+
+            @Override
+            public String toString() {
+                return "Manager Group";
+            }
+        });
+        this.listTabel.addItem(new Runnable() {
+            @Override
+            public void run() {
+                manageFileProgram.display();
+            }
+
+            @Override
+            public String toString() {
+                return "Manager File Program";
+            }
+        });
+        this.listTabel.addItem(new Runnable() {
+            @Override
+            public void run() {
+                manageProgram.display();
+            }
+
+            @Override
+            public String toString() {
+                return "Manager App";
+            }
+        });
+
     }
 
     /**
@@ -53,7 +133,9 @@ public class Gui extends AbsDisplayAble {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        pnStore = new javax.swing.JPanel();
+        jScrollPane1 = new javax.swing.JScrollPane();
+        jList1 = new javax.swing.JList<>();
+        pnUser = new javax.swing.JPanel();
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenu1 = new javax.swing.JMenu();
         mniProduct = new javax.swing.JMenuItem();
@@ -66,8 +148,22 @@ public class Gui extends AbsDisplayAble {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Upload");
+        setResizable(false);
 
-        pnStore.setLayout(new javax.swing.BoxLayout(pnStore, javax.swing.BoxLayout.LINE_AXIS));
+        jList1.setModel(new javax.swing.AbstractListModel<String>() {
+            String[] strings = { "Item 1", "Item 2", "Item 3", "Item 4", "Item 5" };
+            public int getSize() { return strings.length; }
+            public String getElementAt(int i) { return strings[i]; }
+        });
+        jList1.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                jList1MouseClicked(evt);
+            }
+        });
+        jScrollPane1.setViewportView(jList1);
+
+        pnUser.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        pnUser.setLayout(new javax.swing.BoxLayout(pnUser, javax.swing.BoxLayout.LINE_AXIS));
 
         jMenu1.setText("File");
 
@@ -135,17 +231,19 @@ public class Gui extends AbsDisplayAble {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(layout.createSequentialGroup()
-                .addContainerGap()
-                .addComponent(pnStore, javax.swing.GroupLayout.DEFAULT_SIZE, 756, Short.MAX_VALUE)
-                .addContainerGap())
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(pnUser, javax.swing.GroupLayout.PREFERRED_SIZE, 164, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 173, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addComponent(jScrollPane1)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(pnStore, javax.swing.GroupLayout.DEFAULT_SIZE, 359, Short.MAX_VALUE)
-                .addContainerGap())
+                .addComponent(pnUser, javax.swing.GroupLayout.PREFERRED_SIZE, 142, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(57, Short.MAX_VALUE))
         );
 
         pack();
@@ -153,6 +251,10 @@ public class Gui extends AbsDisplayAble {
     }// </editor-fold>//GEN-END:initComponents
 
     private void mniProductActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mniProductActionPerformed
+        managerProduct();
+    }//GEN-LAST:event_mniProductActionPerformed
+
+    private void managerProduct() throws HeadlessException {
         // TODO add your handling code here:
         this.configGui.reset();
         this.configGui.display("Manager product");
@@ -160,10 +262,14 @@ public class Gui extends AbsDisplayAble {
         this.configGui.setGetUrl(PropertiesModel.getConfig(Keyword.Url.Product.GET));
         this.configGui.setDeleteUrl(PropertiesModel.getConfig(Keyword.Url.Product.DELETE));
         this.configGui.getList();
-    }//GEN-LAST:event_mniProductActionPerformed
+    }
 
 
     private void mniStationActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mniStationActionPerformed
+        managerStation();
+    }//GEN-LAST:event_mniStationActionPerformed
+
+    private void managerStation() throws HeadlessException {
         // TODO add your handling code here:
         this.configGui.reset();
         this.configGui.display("Manager staion");
@@ -171,9 +277,13 @@ public class Gui extends AbsDisplayAble {
         this.configGui.setGetUrl(PropertiesModel.getConfig(Keyword.Url.Station.GET));
         this.configGui.setDeleteUrl(PropertiesModel.getConfig(Keyword.Url.Station.DELETE));
         this.configGui.getList();
-    }//GEN-LAST:event_mniStationActionPerformed
+    }
 
     private void mniLineActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mniLineActionPerformed
+        managerLine();
+    }//GEN-LAST:event_mniLineActionPerformed
+
+    private void managerLine() throws HeadlessException {
         // TODO add your handling code here:
         this.configGui.reset();
         this.configGui.display("Manager line");
@@ -181,7 +291,7 @@ public class Gui extends AbsDisplayAble {
         this.configGui.setGetUrl(PropertiesModel.getConfig(Keyword.Url.Line.GET));
         this.configGui.setDeleteUrl(PropertiesModel.getConfig(Keyword.Url.Line.DELETE));
         this.configGui.getList();
-    }//GEN-LAST:event_mniLineActionPerformed
+    }
 
     private void mniManagePCActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mniManagePCActionPerformed
         // TODO add your handling code here:
@@ -203,10 +313,24 @@ public class Gui extends AbsDisplayAble {
         this.manageFileProgram.display();
     }//GEN-LAST:event_mnItemFileProgramActionPerformed
 
+    private void jList1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jList1MouseClicked
+        // TODO add your handling code here:
+        if(evt.getClickCount() < 2){
+            return;
+        }
+        var item = this.listTabel.getSelectioned();
+        if(item == null){
+            return;
+        }
+        item.run();
+    }//GEN-LAST:event_jList1MouseClicked
+
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JList<String> jList1;
     private javax.swing.JMenu jMenu1;
     private javax.swing.JMenuBar jMenuBar1;
+    private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JMenuItem mnItemFileGroup;
     private javax.swing.JMenuItem mnItemFileProgram;
     private javax.swing.JMenuItem mnManageProgram;
@@ -214,10 +338,10 @@ public class Gui extends AbsDisplayAble {
     private javax.swing.JMenuItem mniManagePC;
     private javax.swing.JMenuItem mniProduct;
     private javax.swing.JMenuItem mniStation;
-    private javax.swing.JPanel pnStore;
+    private javax.swing.JPanel pnUser;
     // End of variables declaration//GEN-END:variables
 
     public void display() {
-       this.display("store");
+        this.display("store");
     }
 }

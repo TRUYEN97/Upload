@@ -1,2 +1,0 @@
-2023-09-27 01:42:09.377:   [Server] Listen on port: 5000
-2023-09-27 08:00:56.249:   [Server] Listen on port: 5000

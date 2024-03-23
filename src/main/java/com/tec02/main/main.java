@@ -4,7 +4,7 @@
  */
 package com.tec02.main;
 
-import com.tec02.API.APIController;
+import com.tec02.common.APIController;
 import com.tec02.common.PropertiesModel;
 import com.tec02.view.Gui;
 import javax.swing.JOptionPane;

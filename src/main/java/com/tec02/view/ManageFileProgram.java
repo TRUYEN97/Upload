@@ -6,8 +6,8 @@ package com.tec02.view;
 
 import com.tec02.common.JOptionUtil;
 import com.tec02.common.Keyword;
-import com.tec02.API.APIController;
 import com.tec02.Jmodel.Component.PopupMenu;
+import com.tec02.common.APIController;
 import com.tec02.gui.frameGui.AbsDisplayAble;
 import com.tec02.gui.panelGui.TableAndLocation;
 import com.tec02.common.PropertiesModel;
